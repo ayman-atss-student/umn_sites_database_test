@@ -1,0 +1,8 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1690,Freshwater Sponges,"test, prod","freshwatersponges.stg.umn.edu, freshwatersponges.dev.umn.edu, freshwatersponges.dl9.umn.edu",dudl0006,freshwatersponges.crk.umn.edu,UMC - Crookston,None,False,,True,Drupal
+1689,Natural Products Research,"dev, test, prod","naturalproducts.stg.umn.edu, naturalproducts.dev.umn.edu, naturalproducts.dl9.umn.edu, naturalproducts.crk.umn.edu","albailey, mukku002",naturalproducts.umn.edu,UMC - Crookston,None,False,,True,Drupal
+1688,Northwest Educational Technology System (NETS),prod,"nets-crk.dl9.dev.umn.edu, nets-crk.dl9.stg.umn.edu, nets-crk.dl9.umn.edu","albailey, winte497",nets.crk.umn.edu,UMC - Crookston,None,False,,True,Drupal
+1691,Protect the Nest,prod,"protectthenest-crk.dev.umn.edu, protectthenest-crk.stg.umn.edu",albailey,protectthenest.crk.umn.edu,UMC - Crookston,None,False,,True,Drupal
+1694,Research Labs at the U of MN Crookston,prod,labs.crk.umn.edu,albailey,labs.crk.umn.edu,UMC - Crookston,None,False,,True,Drupal
+1686,Student Clubs and Organizations,prod,"student-clubs-organizations-crk.dev.umn.edu, student-clubs-organizations-crk.stg.umn.edu",albailey,student-clubs-organizations.crk.umn.edu,UMC - Crookston,None,False,,True,Drupal
+1687,Sustainability Education,prod,"susted.dev.umn.edu, susted.stg.umn.edu","albailey, katys, milan061, laub0068",susted.umn.edu,UMC - Crookston,None,False,,True,Drupal

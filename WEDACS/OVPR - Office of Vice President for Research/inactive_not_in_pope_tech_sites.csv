@@ -1,0 +1,10 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1560,Census Mosaic,"dev, test, prod","censusmosaic.dev.umn.edu, censusmosaic.stg.umn.edu, mosaic.ipums.org","goray, mpcdrupl, amcwhinn, canin, sassc",censusmosaic.org,OVPR - Office of Vice President for Research,None,False,,False,Drupal
+1589,Center for Cognitive Sciences,prod,cogsci.dl8.umn.edu,meyer150,cogsci.umn.edu,OVPR - Office of Vice President for Research,None,False,,False,Drupal
+1573,daynamica.umn.edu,prod,"daynamica.dev.umn.edu, daynamica.stg.umn.edu, daynamica.dl9.umn.edu, daynamica.umn.edu",yingling,daynamica.umn.edu,OVPR - Office of Vice President for Research,None,False,,False,Drupal
+1032,FlexPass Commuting Study,prod,flexpass.dev.umn.edu,"siqv0001, ande4255",flexpass.umn.edu,OVPR - Office of Vice President for Research,Moved from CTS - Center for Transportation Studies on 2025-05-15,False,,False,Drupal
+1575,Golf Club,"dev, test","golfclub.dl9.umn.edu, golfclub-dl9.dev.umn.edu, golfclub-dl9.stg.umn.edu",vegoe004,golfclub.umn.edu,OVPR - Office of Vice President for Research,None,False,,False,Drupal
+1557,Institute on the Environment,"dev, test","environment.dev.umn.edu, environment.stg.umn.edu",reinh222,environment.umn.edu,OVPR - Office of Vice President for Research,None,False,,False,Drupal
+1564,Institute on the Environment Intranet,prod,"intranet-environment.dev.umn.edu, intranet-environment.stg.umn.edu",gree2190,intranet.environment.umn.edu,OVPR - Office of Vice President for Research,None,False,,False,Drupal
+1390,Ipums Design System,"dev, test, prod","designsystem-ipums.dev.umn.edu, designsystem-ipums.stg.umn.edu, design.ipums.org","goray, amcwhinn, canin, sassc",designsystem.ipums.org,OVPR - Office of Vice President for Research,Moved from MPC on 2025-05-15,False,,False,Drupal
+1563,SUA Staff,prod,"staff-sua.stg.umn.edu, staff-sua.dev.umn.edu",fonta056,staff.sua.umn.edu,OVPR - Office of Vice President for Research,None,False,,False,Drupal

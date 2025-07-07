@@ -1,0 +1,5 @@
+UR - University Relations (URel) Sites
+Total sites: 51
+Sites in Pope Tech: 29
+Active sites not in Pope Tech: 13
+Inactive sites not in Pope Tech: 9

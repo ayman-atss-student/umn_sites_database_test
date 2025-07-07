@@ -1,0 +1,16 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1916,Allen D. Leman Swine Conference Espanol,prod,"lemanespanol.dev.umn.edu, lemanespanol.stg.umn.edu","valla020, luss0021",lemanespanol.umn.edu,Vetmed - Veterinarian Medicine,None,False,,True,Drupal
+1937,Cheeran Lab,prod,cheeranlab.umn.edu,keauxier,cheeranlab.umn.edu,Vetmed - Veterinarian Medicine,None,False,,True,Drupal
+1908,Chronic Wasting Disease homepage,prod,"cwd.dev.umn.edu, cwd.stg.umn.edu, chronicwastingdisease.umn.edu","mmoen, luss0021",cwd.umn.edu,Vetmed - Veterinarian Medicine,None,False,,True,Drupal
+1912,E. coli and Salmonella Predictive Risk Assessment Tool,prod,"esprat.dev.umn.edu, esprat.stg.umn.edu","millere, tjj, luss0021",esprat.umn.edu,Vetmed - Veterinarian Medicine,None,False,,True,Drupal
+1920,Modiano Lab,prod,"modianolab.stg.umn.edu, modianolab.dev.umn.edu","keauxier, luss0021",modianolab.umn.edu,Vetmed - Veterinarian Medicine,None,False,,True,Drupal
+1917,OH-SMART (One Health Systems Mapping and Analysis Resource Toolkit),prod,"oh-smart.dev.umn.edu, oh-smart.stg.umn.edu","mgustafs, luss0021",oh-smart.umn.edu,Vetmed - Veterinarian Medicine,None,False,,True,Drupal
+1927,One Health and Evolutionary Medicine,prod,"larsenlab.dev.umn.edu, larsenlab.stg.umn.edu",plarsen,larsenlab.umn.edu,Vetmed - Veterinarian Medicine,None,False,,True,Drupal
+1930,ProgRESSVet,prod,"progressvet-dl8.dev.umn.edu, progressvet.dl8.umn.edu",apendlet,progressvet.umn.edu,Vetmed - Veterinarian Medicine,None,False,,True,Drupal
+1910,Retrovirus and RNA Biology,prod,"retrovrna.dev.umn.edu, retrovrna.stg.umn.edu","barne063, luss0021",retrovrna.umn.edu,Vetmed - Veterinarian Medicine,None,False,,True,Drupal
+1934,Secure Food Systems,"test, prod","securefoodsystems.umn.edu, securefoodsystems.dev.umn.edu, securefoodsystems.dl8.umn.edu, securefoodsystems.stg.umn.edu",brin0014,securefoodsystems.umn.edu,Vetmed - Veterinarian Medicine,None,False,,True,Drupal
+1932,Secure Poultry Supply,prod,"securepoultrysupply.dl8.umn.edu, securepoultrysupply.dev.umn.edu, securepoultrysupply.dl.umn.edu",brin0014,securepoultrysupply.umn.edu,Vetmed - Veterinarian Medicine,None,False,,True,Drupal
+1928,Stackable Poultry Training Programs,prod,"poultrytraining.dev.umn.edu, poultrytraining.stg.umn.edu","foxxx055, luss0021",poultrytraining.umn.edu,Vetmed - Veterinarian Medicine,None,False,,True,Drupal
+1929,Student Initiative for Reservation Veterinary Services (SIRVS),prod,sirvs.dev.umn.edu,walzx148,sirvs.umn.edu,Vetmed - Veterinarian Medicine,None,False,,True,Drupal
+1905,The O'Connor Lab,prod,"oconnorlab-vetmed.dev.umn.edu, oconnorlab-vetmed.stg.umn.edu","barne063, luss0021",oconnorlab-vetmed.umn.edu,Vetmed - Veterinarian Medicine,None,False,,True,Drupal
+1903,VMC Payments,"dev, test","myvmcpayments.dev.umn.edu, myvmcpayments.stg.umn.edu",hero0060,myvmcpayments.umn.edu,Vetmed - Veterinarian Medicine,None,False,,True,Drupal

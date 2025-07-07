@@ -1,0 +1,2 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1819,Pirinelli Teaching and Research,"test, prod","pirinellilab.stg.umn.edu, pirinellilab.dev.umn.edu, pirinellilab.dl9.umn.edu",apirinel,pirinellilab.umn.edu,UMM - Morris,None,False,,True,Drupal

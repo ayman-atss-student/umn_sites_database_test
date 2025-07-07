@@ -1,0 +1,9 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+73,Gradmap,"dev, test","gradmap-d8.dev.umn.edu, gradmap-d8.stg.umn.edu","meyer150, lang0925, swart113",gradmap.umn.edu,AAP - VP of Academic Affairs/Provost,None,False,,False,Drupal
+72,Morrill Hall Shared Service,dev,"mhsst.dev.umn.edu, mhsst.stg.umn.edu","meyer150, lang0925, swart113",mhsst.umn.edu,AAP - VP of Academic Affairs/Provost,None,False,,False,Drupal
+6,OSAEnt,"dev, test","osaent.dev.umn.edu, osaent.stg.umn.edu",leibfrie,osaent.umn.edu,AAP - VP of Academic Affairs/Provost,None,False,,False,Drupal
+13,Osalite,dev,"osalite.dev.umn.edu, osalite.stg.umn.edu",leibfrie,osalite.umn.edu,AAP - VP of Academic Affairs/Provost,None,False,,False,Drupal
+31,Profiles,"dev, test","profiles.dev.umn.edu, profiles.stg.umn.edu","meyer150, lang0925, swart113",profiles.umn.edu,AAP - VP of Academic Affairs/Provost,None,False,,False,Drupal
+9,Safety of Minors,"dev, test","safety-minors.dev.umn.edu, safety-minors.stg.umn.edu","meyer150, swart113",safety-minors.umn.edu,AAP - VP of Academic Affairs/Provost,None,False,,False,Drupal
+42,Working Better Together,"dev, test, prod","wbt.dev.umn.edu, wbt.stg.umn.edu, wbt.prd.umn.edu","meyer150, lang0925, swart113",wbt.umn.edu,AAP - VP of Academic Affairs/Provost,None,False,,False,Drupal
+81,Works Demo,"dev, test","demo-works.dev.umn.edu, demo-works.stg.umn.edu","meyer150, lang0925, swart113",demo-works.umn.edu,AAP - VP of Academic Affairs/Provost,None,False,,False,Drupal

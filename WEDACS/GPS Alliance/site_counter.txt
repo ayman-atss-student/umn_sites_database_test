@@ -1,0 +1,5 @@
+GPS Alliance Sites
+Total sites: 20
+Sites in Pope Tech: 14
+Active sites not in Pope Tech: 2
+Inactive sites not in Pope Tech: 4

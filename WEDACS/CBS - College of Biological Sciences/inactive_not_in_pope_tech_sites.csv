@@ -1,0 +1,3 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+185,Campaign for Cedar Creek,prod,"mnecologywalk.dev.umn.edu, mnecologywalk.stg.umn.edu",sxenos,mnecologywalk.umn.edu,CBS - College of Biological Sciences,None,False,,False,Drupal
+177,Nanoliter Crystallization Facility,"dev, prod","ncf.dev.umn.edu, ncf.stg.umn.edu",shixx023,ncf.umn.edu,CBS - College of Biological Sciences,None,False,,False,Drupal

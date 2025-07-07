@@ -1,0 +1,8 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1048,Bee Minnesota Protect our Native Bumblebees,prod,"beeminnesota.dev.umn.edu, beeminnesota.stg.umn.edu","twigg015, amy",beeminnesota.umn.edu,EXT - Extension,None,False,,True,Drupal
+1052,Extension Onboarding,prod,"extensiononboarding.dev.umn.edu, extensiononboarding.stg.umn.edu",amy,extensiononboarding.umn.edu,EXT - Extension,None,False,,True,Drupal
+1046,Great Lakes' Environmental Justice Thriving Communities Technical Assistance Center,"test, prod","greatlakestctac.dev.umn.edu, greatlakestctac.stg.umn.edu, tctac.umn.edu","twigg015, mnextweb, amy",greatlakestctac.umn.edu,EXT - Extension,None,False,,True,Drupal
+1055,Opioid.umn.edu,"test, prod","sandbox-opioid.umn.edu, sandbox-opioid.dev.umn.edu, opioid.umn.edu, opioids.umn.edu, opioids.stg.umn.edu","amy, twigg015",opioid.umn.edu,EXT - Extension,None,False,,True,Drupal
+1041,Systems Approaches for Healthy Communities,"test, prod","sahc.dev.umn.edu, sahc.stg.umn.edu","twigg015, amy",sahc.umn.edu,EXT - Extension,None,False,,True,Drupal
+1043,Walk with Ease,prod,"walkwithease.dev.umn.edu, walkwithease.stg.umn.edu","twigg015, amy",walkwithease.umn.edu,EXT - Extension,None,False,,True,Drupal
+1051,Watershed Engagement Programming (WEP) Hub,"dev, test, prod","wephub.dev.umn.edu, wephub.stg.umn.edu","sawye177, twigg015, amy",wephub.umn.edu,EXT - Extension,None,False,,True,Drupal

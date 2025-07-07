@@ -1,0 +1,2 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1396,Northrop,dev,"northrop.dev.umn.edu, northrop.stg.umn.edu",dreischl,northrop.umn.edu,NMA - Northrop Memorial,None,False,,True,Drupal

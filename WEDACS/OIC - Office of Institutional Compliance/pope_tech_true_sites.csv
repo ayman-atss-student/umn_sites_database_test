@@ -1,0 +1,6 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1438,COI,"dev, test, prod","coi.dev.umn.edu, coi.stg.umn.edu, coi.prd.umn.edu, coi.umn.edu, www.coi.umn.edu",lundquij,coi.umn.edu,OIC - Office of Institutional Compliance,None,True,,True,Drupal
+1441,compliance.umn.edu,"dev, test, prod","compliance.dev.umn.edu, compliance.stg.umn.edu, compliance.prd.umn.edu, compliance.umn.edu, www.compliance.umn.edu, ureport.umn.edu, www.ureport.umn.edu",lundquij,compliance.umn.edu,OIC - Office of Institutional Compliance,None,True,,True,Drupal
+1439,Delegations of Authority,"dev, test, prod","authority.dev.umn.edu, authority.stg.umn.edu, authority.prd.umn.edu, authority.umn.edu, www.authority.umn.edu",lundquij,authority.umn.edu,OIC - Office of Institutional Compliance,None,True,,True,Drupal
+1440,Office of Institutional Compliance,"oittst, dev, test, prod","integrity.dev.umn.edu, integrity.stg.umn.edu, integrity.prd.umn.edu, integrity.umn.edu, www.integrity.umn.edu",lundquij,integrity.umn.edu,OIC - Office of Institutional Compliance,None,True,,True,Drupal
+1437,Policy,"dev, test, prod","policy-d9.dev.umn.edu, policy-d9.prd.umn.edu, www.policy.umn.edu, policy.dev.umn.edu, policy.stg.umn.edu","lundquij, young041",policy.umn.edu,OIC - Office of Institutional Compliance,None,True,,True,Drupal

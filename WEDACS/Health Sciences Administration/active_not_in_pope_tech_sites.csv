@@ -1,0 +1,9 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1084,Center For Immunology,prod,"cfi.dev.umn.edu, cfi.stg.umn.edu",benso010,cfi.umn.edu,Health Sciences Administration,None,False,,True,Drupal
+1076,CTRS Operations,prod,"ctrsoperations.dev.umn.edu, ctrsoperations.stg.umn.edu",mjohnso,ctrsoperations.umn.edu,Health Sciences Administration,None,False,,True,Drupal
+1087,Flow Cytometry Resource,"test, prod","flowcytometry.dev.umn.edu, flowcytometry.stg.umn.edu",motl0007,flowcytometry.umn.edu,Health Sciences Administration,None,False,,True,Drupal
+1078,Health Science Technology,prod,"hst.dev.umn.edu, hst.stg.umn.edu",huhtala,hst.umn.edu,Health Sciences Administration,None,False,,True,Drupal
+1077,Health Sciences Strategic Plan,prod,"health-sciences-strategic-plan.dev.umn.edu, health-sciences-strategic-plan.stg.umn.edu",dlv,health-sciences-strategic-plan.umn.edu,Health Sciences Administration,None,False,,True,Drupal
+1079,Research Biobank,prod,"biobank.dev.umn.edu, biobank.stg.umn.edu",blix0009,biobank.umn.edu,Health Sciences Administration,None,False,,True,Drupal
+1082,Rothenberger Leadership Academy,prod,"rothla.dev.umn.edu, rothla.stg.umn.edu",apendlet,rothla.umn.edu,Health Sciences Administration,None,False,,True,Drupal
+1083,Sample Study Website,prod,"samplestudysite.dev.umn.edu, samplestudysite.stg.umn.edu",blix0009,samplestudysite.umn.edu,Health Sciences Administration,None,False,,True,Drupal

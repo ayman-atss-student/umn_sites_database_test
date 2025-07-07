@@ -1,0 +1,5 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1913,Fang Li Lab,prod,"fanglilab.dev.umn.edu, fanglilab.stg.umn.edu","barne063, luss0021",fanglilab.umn.edu,Vetmed - Veterinarian Medicine,None,False,,False,Drupal
+1909,Morrison Swine Health Monitoring Program,prod,"mnshmp-dl9.dev.umn.edu, mnshmp-dl9.stg.umn.edu, mnshmp.dl9.umn.edu, mshmp.umn.edu","valla020, yue00075",mnshmp.umn.edu,Vetmed - Veterinarian Medicine,None,False,,False,Drupal
+1933,Veterinary Anatomy,prod,veterinary-anatomy.dev.umn.edu,luss0021,veterinary.anatomy.umn.edu,Vetmed - Veterinarian Medicine,None,False,,False,Drupal
+1911,Veterinary Anatomy Museum,prod,"vetanatomy.stg.umn.edu, vetanatomy.dev.umn.edu, vetanatomy.dl9.umn.edu",luss0021,vetanatomy.museum.umn.edu,Vetmed - Veterinarian Medicine,None,False,,False,Drupal

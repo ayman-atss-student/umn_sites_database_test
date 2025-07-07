@@ -1,0 +1,4 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1118,2017 ALWD Conference Website,"test, prod","alwd.stg.umn.edu, alwd.dev.umn.edu, alwd.dl8.umn.edu",dtrexel,alwd.umn.edu,LAW,None,False,,True,Drupal
+1119,Law & Economics Conference,prod,"lawecon-conf.umn.edu, lawecon-conf.dev.umn.edu",kurtz159,lawecon-conf.umn.edu,LAW,None,False,,True,Drupal
+1121,Robina Institute of Criminal Law and Criminal Justice,"dev, test, prod","robinainstitute.dev.umn.edu, robinainstitute.stg.umn.edu, www.robinainstitute.umn.edu, sentencing.umn.edu, www.sentencing.umn.edu","reil0080, incex011, broek023, fuchs142, moria116, dtrexel, byart",robinainstitute.umn.edu,LAW,None,False,,True,Drupal

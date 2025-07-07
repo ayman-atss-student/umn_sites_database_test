@@ -1,0 +1,5 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1124,Course Materials Request,prod,"coursematerials.dev.umn.edu, coursematerials.stg.umn.edu",coursematerials,coursematerials.umn.edu,LIB - Libraries,None,False,,True,Drupal
+1127,digital preservation,prod,"dp.dev.umn.edu, dp.stg.umn.edu",j-nich,dp.umn.edu,LIB - Libraries,None,False,,True,Drupal
+1129,Makerspaces and Shops,"dev, test, prod","makers.dl9.umn.edu, makers.stg.umn.edu, makers.dev.umn.edu","cbishoff, bleau005",makers.umn.edu,LIB - Libraries,None,False,,True,Drupal
+1131,Snackeru,prod,"snackeru.dl8.umn.edu, snackeru.dev.umn.edu, snackeru.umn.edu",snackeru,snackeru.umn.edu,LIB - Libraries,None,False,,True,Drupal

@@ -1,0 +1,2 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+653,Precision Medicine and Health Consortium,"dev, test, prod","pmhc.stg.umn.edu, pmhc.dev.umn.edu, pmhc.dl9.umn.edu",dlv,pmhc.umn.edu,CoP - College of Pharmacy,None,False,,False,Drupal

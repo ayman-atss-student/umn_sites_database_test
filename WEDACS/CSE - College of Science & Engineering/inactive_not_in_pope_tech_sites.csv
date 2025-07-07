@@ -1,0 +1,51 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+899,AEM 2015,prod,"aem2015-cege.dev.umn.edu, aem2015-cege.stg.umn.edu, aem2015-cege.dl9.umn.edu",mcdo0486,aem2015.cege.umn.edu,CSE - College of Science & Engineering,None,False,,False,Drupal
+898,AEM 2017,prod,"aem2017-cege.dev.umn.edu, aem2017-cege.stg.umn.edu, aem2017-cege.dl9.umn.edu",mcdo0486,aem2017.cege.umn.edu,CSE - College of Science & Engineering,None,False,,False,Drupal
+897,AEM 2019,prod,"aem2019-cege.dev.umn.edu, aem2019-cege.stg.umn.edu, aem2019-cege.dl9.umn.edu",mcdo0486,aem2019.cege.umn.edu,CSE - College of Science & Engineering,None,False,,False,Drupal
+936,Anette von der Handt Faculty Page,"test, prod","avdhandt.stg.umn.edu, avdhandt.dev.umn.edu, avdhandt.dl8.umn.edu",avdhandt,avdhandt.umn.edu,CSE - College of Science & Engineering,None,False,,False,Drupal
+885,Ashkenazi Lab,"dev, test, prod","ashkenazi-lab.stg.umn.edu, ashkenazi-lab.dev.umn.edu, ashkenazi-lab.dl9.umn.edu, ashkenazi-lab.umn.edu","ashke003, mcdo0486",ashkenazi-lab.umn.edu,CSE - College of Science & Engineering,None,False,,False,Drupal
+886,Barocas Research Group,prod,"barocas-bme.dev.umn.edu, barocas-bme.stg.umn.edu, barocas.bme.umn.edu",mcdo0486,barocas.bme.umn.edu,CSE - College of Science & Engineering,None,False,,False,Drupal
+932,Center for BioInorganic Chemistry,"test, prod","cbic.dl8.umn.edu, cbic.dev.umn.edu, cbic.stg.umn.edu","barte113, rapa0020",cbic.chem.umn.edu,CSE - College of Science & Engineering,None,False,,False,Drupal
+851,Charles E. Woodward,"test, prod","cwoodward.dev.umn.edu, cwoodward.stg.umn.edu",woodw024,cwoodward.umn.edu,CSE - College of Science & Engineering,None,False,,False,Drupal
+763,Cramer Research Group,"test, prod","cramer.stg.umn.edu, cramer.dev.umn.edu, cramer.dl9.umn.edu",schul132,cramer.chem.umn.edu,CSE - College of Science & Engineering,Moved from CSE - CHEM - Dept of Chemistry on 2025-05-15,False,,False,Drupal
+802,CSE IT Help Guides,"dev, test","help-cse.stg.umn.edu, help-cse.dev.umn.edu","danguyen, sgolley",help.cse.umn.edu,CSE - College of Science & Engineering,None,False,,False,Drupal
+674,CSE Template Demo,"test, prod","demo-csetemplate.dev.umn.edu, demo-csetemplate.stg.umn.edu","rapa0020, danguyen",demo.csetemplate.umn.edu,CSE - College of Science & Engineering,Moved from CSE on 2025-05-15,False,,False,Drupal
+712,Derby Workshop,"test, prod","iwmcg-9.stg.umn.edu, iwmcg-9.dev.umn.edu, iwmcg-9.dl8.umn.edu, iwmcg-9.cems.umn.edu",mcdo0486,iwmcg-9.umn.edu,CSE - College of Science & Engineering,Moved from CSE - CEMS - Chemical Engineering & Materials Sci on 2025-05-15,False,,False,Drupal
+677,Ebtehaj Research Group,"test, prod","ebtehaj-cege.dev.umn.edu, ebtehaj-cege.stg.umn.edu",mcdo0486,ebtehaj.cege.umn.edu,CSE - College of Science & Engineering,Moved from CSE on 2025-05-15,False,,False,Drupal
+708,Ellis Teaching Page,"dev, test, prod","ellis.stg.umn.edu, ellis.dev.umn.edu, ellis.dl9.umn.edu",schul132,ellis.chem.umn.edu,CSE - College of Science & Engineering,Moved from CSE - CEMS - Chemical Engineering & Materials Sci on 2025-05-15,False,,False,Drupal
+687,Experimental Sedimentary Geology: Leftovers,"test, prod","ex-sed-esci.dev.umn.edu, ex-sed-esci.stg.umn.edu","kress004, cpaola",ex-sed.esci.umn.edu,CSE - College of Science & Engineering,Moved from CSE on 2025-05-15,False,,False,Drupal
+746,Grads Research Group,"test, prod","grads.dl8.umn.edu, grads.stg.umn.edu, women-grads.cems.umn.edu",mcdo0486,grads.cems.umn.edu,CSE - College of Science & Engineering,Moved from CSE - CEMS - Chemical Engineering & Materials Sci on 2025-05-15,False,,False,Drupal
+759,GSWC,"test, prod","gswc.stg.umn.edu, gswc.dev.umn.edu, gswc.dl9.umn.edu",schul132,gswc.chem.umn.edu,CSE - College of Science & Engineering,Moved from CSE - CHEM - Dept of Chemistry on 2025-05-15,False,,False,Drupal
+925,Heat and Mass Transfer Laboratory,"test, prod","hmtl.dev.umn.edu, hmtl.stg.umn.edu","agarw161, kulac001",hmtl.umn.edu,CSE - College of Science & Engineering,None,False,,False,Drupal
+734,Hu Research Group,"test, prod","hu.dl8.umn.edu, hu.stg.umn.edu, hugroup.cems.umn.edu",mcdo0486,hu.cems.umn.edu,CSE - College of Science & Engineering,Moved from CSE - CEMS - Chemical Engineering & Materials Sci on 2025-05-15,False,,False,Drupal
+921,Human/Machine Design Lab,prod,"hmdl.dev.umn.edu, hmdl.stg.umn.edu, hmdl.dl8.umn.edu","agarw161, wkdurfee, gotth006",hmdl.umn.edu,CSE - College of Science & Engineering,None,False,,False,Drupal
+863,Jungseok Hong,"test, prod","jungseokhong.stg.umn.edu, jungseokhong.dev.umn.edu, jungseokhong.dl9.umn.edu",jungseok,jungseokhong.umn.edu,CSE - College of Science & Engineering,None,False,,False,Drupal
+859,Keith Olive,prod,"olive.dev.umn.edu, olive.stg.umn.edu","olive, khand113",olive.umn.edu,CSE - College of Science & Engineering,None,False,,False,Drupal
+681,Levin Research Group,prod,"levin-cege.dev.umn.edu, levin-cege.stg.umn.edu",mcdo0486,levin.cege.umn.edu,CSE - College of Science & Engineering,Moved from CSE on 2025-05-15,False,,False,Drupal
+889,Linderman Research Group,"dev, test, prod","linderman.stg.umn.edu, linderman.dev.umn.edu, linderman.dl9.umn.edu, linderman.cege.umn.edu",llinderm,linderman.umn.edu,CSE - College of Science & Engineering,None,False,,False,Drupal
+686,Liuqing Yang,prod,"yang.dev.umn.edu, yang.stg.umn.edu",qingqing,yang.umn.edu,CSE - College of Science & Engineering,Moved from CSE on 2025-05-15,False,,False,Drupal
+745,Mara Research Group,"test, prod","mara.dl8.umn.edu, mara.stg.umn.edu, mara.dev.umn.edu",mcdo0486,mara.cems.umn.edu,CSE - College of Science & Engineering,Moved from CSE - CEMS - Chemical Engineering & Materials Sci on 2025-05-15,False,,False,Drupal
+757,Martiniani Research Group,prod,martiniani.cems.umn.edu,mcdo0486,martiniani.cems.umn.edu,CSE - College of Science & Engineering,Moved from CSE - CEMS - Chemical Engineering & Materials Sci on 2025-05-15,False,,False,Drupal
+887,Meghan Murray Sandbox Site,dev,"mmurray.stg.umn.edu, mmurray.dev.umn.edu, mmurray.dl9.umn.edu",bieve008,mmurray.umn.edu,CSE - College of Science & Engineering,None,False,,False,Drupal
+876,melyasi,"dev, test, prod","melyasi.stg.umn.edu, melyasi.dev.umn.edu, melyasi.dl9.umn.edu",melyasi,melyasi.umn.edu,CSE - College of Science & Engineering,None,False,,False,Drupal
+920,MESA,"test, prod","mesa.stg.umn.edu, mesa.dev.umn.edu, mesa.dl9.umn.edu, mesa.esci.umn.edu",iwada,mesa.umn.edu,CSE - College of Science & Engineering,None,False,,False,Drupal
+868,Michael Coughlin,"test, prod","coughlin.dev.umn.edu, coughlin.stg.umn.edu",cough052,coughlin.umn.edu,CSE - College of Science & Engineering,None,False,,False,Drupal
+947,Micro/Nanoscale Thermal Transport Laboratory,prod,mttl.dev.umn.edu,"zhan5628, lille164",mttl.umn.edu,CSE - College of Science & Engineering,None,False,,False,Drupal
+905,Mosenfelder Faculty Page,"test, prod","mosenfelder.stg.umn.edu, mosenfelder.dev.umn.edu, mosenfelder.dl9.umn.edu",jmosenfe,mosenfelder.umn.edu,CSE - College of Science & Engineering,None,False,,False,Drupal
+872,Murti Salapaka,prod,"salapaka.dev.umn.edu, salapaka.stg.umn.edu",murtis,salapaka.umn.edu,CSE - College of Science & Engineering,None,False,,False,Drupal
+831,Neurotechnology Outreach-Resources-Training Hub for Successfully Translating Advanced Research,"test, prod","northstar-dl9.dev.umn.edu, northstar-dl9.stg.umn.edu, northstar.dl9.umn.edu",mcdo0486,northstar.umn.edu,CSE - College of Science & Engineering,None,False,,False,Drupal
+910,Paleobiology and Paleoecology,"test, prod","paleobio-esci.dev.umn.edu, paleobio-esci.stg.umn.edu","kress004, dlfox",paleobio.esci.umn.edu,CSE - College of Science & Engineering,None,False,,False,Drupal
+909,Paleobiology and Paleoecology Group Site,"test, prod","umn-paleo-esci.dev.umn.edu, umn-paleo-esci.stg.umn.edu",dlfox,umn-paleo.esci.umn.edu,CSE - College of Science & Engineering,None,False,,False,Drupal
+904,"Plasma, Power, and Propulsion Research Lab (3P)","test, prod","3p.dev.umn.edu, 3p.stg.umn.edu","mdunst, biswas",3p.umn.edu,CSE - College of Science & Engineering,None,False,,False,Drupal
+764,Pomerantz Research Group,"test, prod","pomerantz.stg.umn.edu, pomerantz.dev.umn.edu, pomerantz.dl9.umn.edu, pomerantz.chem.umn.edu","schul132, buchh112",pomerantz.umn.edu,CSE - College of Science & Engineering,Moved from CSE - CHEM - Dept of Chemistry on 2025-05-15,False,,False,Drupal
+794,Quantum Phenomena School,"test, prod","quantum.dev.umn.edu, quantum.stg.umn.edu",suku0005,quantum.umn.edu,CSE - College of Science & Engineering,None,False,,False,Drupal
+849,Robert D. Gehrz,"test, prod","gehrz.dev.umn.edu, gehrz.stg.umn.edu",gehrz001,gehrz.umn.edu,CSE - College of Science & Engineering,None,False,,False,Drupal
+858,Robert Lysak,"test, prod","lysak.dev.umn.edu, lysak.stg.umn.edu",lysak001,lysak.umn.edu,CSE - College of Science & Engineering,None,False,,False,Drupal
+912,Sairaj Dhople Faculty Page,"test, prod","sairajdhople.stg.umn.edu, sairajdhople.dev.umn.edu, sairajdhople.dl9.umn.edu",sdhople,sairajdhople.umn.edu,CSE - College of Science & Engineering,None,False,,False,Drupal
+819,Scientific Computing,"test, prod","www.scicomp.umn.edu, scicomp.stg.umn.edu, scicomp.dev.umn.edu, scicomp.dl9.umn.edu",schul132,scicomp.umn.edu,CSE - College of Science & Engineering,None,False,,False,Drupal
+866,Thomas W. Jones,"test, prod","jones.dev.umn.edu, jones.stg.umn.edu",twj,jones.umn.edu,CSE - College of Science & Engineering,None,False,,False,Drupal
+684,Twin Cities Safety Cup,prod,"tcsafetycup.dev.umn.edu, tcsafetycup.stg.umn.edu",draho016,tcsafetycup.umn.edu,CSE - College of Science & Engineering,Moved from CSE on 2025-05-15,False,,False,Drupal
+989,urbangeo,dev,"urbangeo.dev.umn.edu, urbangeo.stg.umn.edu",feinberg,urbangeo.umn.edu,CSE - College of Science & Engineering,None,False,,False,Drupal
+990,Wild Rice: A Grand Challenges Project,dev,"wildrice-gc.dev.umn.edu, wildrice-gc.stg.umn.edu",gcng,wildrice-gc.umn.edu,CSE - College of Science & Engineering,None,False,,False,Drupal
+798,Wonjun Lee,"test, prod","wlee.dev.umn.edu, wlee.stg.umn.edu",lee01273,wlee.umn.edu,CSE - College of Science & Engineering,None,False,,False,Drupal
+1013,Yaman.umn.edu,prod,"yaman.umn.edu, yaman.dev.umn.edu",yaman013,yaman.umn.edu,CSE - College of Science & Engineering,Moved from CSE - ECE - Electrical & Comp Engineering on 2025-05-15,False,,False,Drupal

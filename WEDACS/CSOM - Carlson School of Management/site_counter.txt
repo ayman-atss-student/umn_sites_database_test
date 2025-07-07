@@ -1,0 +1,5 @@
+CSOM - Carlson School of Management Sites
+Total sites: 15
+Sites in Pope Tech: 6
+Active sites not in Pope Tech: 4
+Inactive sites not in Pope Tech: 5

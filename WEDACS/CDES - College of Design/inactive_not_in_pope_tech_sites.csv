@@ -1,0 +1,4 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+225,Diversity and Design Program,prod,ddp.dev.umn.edu,"asamo015, aasojo",ddp.umn.edu,CDES - College of Design,None,False,,False,Drupal
+220,Marvin Collaboration,prod,"marvincollaboration.dev.umn.edu, marvincollaboration.stg.umn.edu",guzow001,marvincollaboration.umn.edu,CDES - College of Design,None,False,,False,Drupal
+222,Masters of Science in Research Practices,prod,"msrp-design.dev.umn.edu, msrp-design.stg.umn.edu",kagez001,msrp.design.umn.edu,CDES - College of Design,None,False,,False,Drupal

@@ -1,0 +1,6 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1801,Champions for Children,prod,"championsforchildren.dev.umn.edu, championsforchildren.stg.umn.edu, championsforchildren.dl9.umn.edu",pet00503,championsforchildren.umn.edu,UMF - University of MN Foundation,None,False,,True,Drupal
+1798,Heritage Society (new),"dev, test, prod","heritagesociety.dev.umn.edu, heritagesociety.stg.umn.edu","cmahan, awojciec, hinte019, rein0455, auden",heritagesociety.umn.edu,UMF - University of MN Foundation,None,False,,True,Drupal
+1815,RSVP,"dev, test, prod","rsvp.dev.umn.edu, rsvp.stg.umn.edu, rsvp.prd.umn.edu, rsvp.umn.edu, www.rsvp.umn.edu","cmahan, awojciec, rein0455, auden",rsvp.umn.edu,UMF - University of MN Foundation,None,False,,True,Drupal
+1808,Student Caller,"dev, test, prod","studentcallers.dev.umn.edu, studentcallers.stg.umn.edu, studentcallers.umn.edu, www.studentcallers.umn.edu, mengage.umn.edu, www.mengage.umn.edu","cmahan, awojciec, rein0455, auden",studentcallers.umn.edu,UMF - University of MN Foundation,None,False,,True,Drupal
+1812,University of Minnesota Women's Club,"dev, test, prod","umwc.dev.umn.edu, umwc.stg.umn.edu, umwc.umn.edu, www.umwc.umn.edu","cundy024, nosek022",umwc.umn.edu,UMF - University of MN Foundation,None,False,,True,Drupal

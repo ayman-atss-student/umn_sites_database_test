@@ -1,0 +1,8 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+210,Antimicrobial Resistance Learning Site,"dev, test, prod","amrls.dev.umn.edu, amrls.stg.umn.edu, amrls.umn.edu, www.amrls.umn.edu",valla020,amrls.umn.edu,CCAPS - Continuing and Professional Studies,None,False,,True,Drupal
+204,APS Homebase,"test, prod","apshomebase.stg.umn.edu, apshomebase.dev.umn.edu, apshomebase.dl9.umn.edu",joh04979,apshomebase.umn.edu,CCAPS - Continuing and Professional Studies,None,False,,True,Drupal
+205,CCAPS Conference,"dev, test, prod","conference.dev.umn.edu, conference.stg.umn.edu",bcross,conference.umn.edu,CCAPS - Continuing and Professional Studies,None,False,,True,Drupal
+207,Digital Storytelling,"test, prod","digitalstory.dev.umn.edu, digitalstory.stg.umn.edu, digitalstory.dl8.umn.edu",stein995,digitalstory.umn.edu,CCAPS - Continuing and Professional Studies,None,False,,True,Drupal
+197,Information Technology Infrastructure Accreditation,prod,"iti.dev.umn.edu, iti.stg.umn.edu",couli005,iti.umn.edu,CCAPS - Continuing and Professional Studies,None,False,,True,Drupal
+202,Learning in the New Millennium: Teachers as Designers of Learning,"test, prod","authenticlearning.stg.umn.edu, authenticlearning.dev.umn.edu, authenticlearning.dl9.umn.edu",reill110,authenticlearning.umn.edu,CCAPS - Continuing and Professional Studies,None,False,,True,Drupal
+206,Minnesota English Language Program Homebase,"test, prod","melphomebase.stg.umn.edu, melphomebase.dl8.umn.edu, melphomebase.dev.umn.edu","joh04979, cleme050",melphomebase.umn.edu,CCAPS - Continuing and Professional Studies,None,False,,True,Drupal

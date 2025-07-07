@@ -1,0 +1,15 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1057,CARLA,"dev, test, prod","carla.dev.umn.edu, carla.stg.umn.edu, carla.prd.umn.edu, carla.umn.edu, www.carla.umn.edu","tdbedner, harri740, emomtche, dkeller",carla.umn.edu,GPS Alliance,None,True,,True,Drupal
+1065,China Center,"dev, test, prod","chinacenter.dev.umn.edu, chinacenter.stg.umn.edu, chinacenter.prd.umn.edu, www.chinacenter.umn.edu","emomtche, tdbedner, harri740",chinacenter.umn.edu,GPS Alliance,None,True,,True,Drupal
+1067,China Office,"dev, test, prod","china-d9.dev.umn.edu, china-d9.stg.umn.edu, www.china.umn.edu","emomtche, tdbedner, harri740, dkeller",china.umn.edu,GPS Alliance,None,True,,True,Drupal
+1062,Global Programs and Strategy Alliance,"dev, test, prod","global.dev.umn.edu, global.stg.umn.edu, global.prd.umn.edu, www.global.umn.edu, global.umn.edu, coil.umn.edu","biala012, tdbedner, harri740, emomtche, dkeller",global.umn.edu,GPS Alliance,None,True,,True,Drupal
+1058,Go Minnesota,"dev, test, prod","gominnesota.dev.umn.edu, gominnesota.stg.umn.edu, gominnesota.prd.umn.edu","harri740, dkeller, emomtche, schul160, tdbedner",gominnesota.umn.edu,GPS Alliance,None,True,,True,Drupal
+1069,GPS International Student and Scholar Services,"dev, test, prod","isss.dev.umn.edu, isss.stg.umn.edu, www.isss.umn.edu","dkeller, tdbedner, harri740, emomtche, schul160",isss.umn.edu,GPS Alliance,None,True,,True,Drupal
+1061,GPS Mental Health App,"dev, test, prod","mentalhealth-global.dev.umn.edu, mentalhealth-global.stg.umn.edu, wellnessabroad.dev.umn.edu, wellnessabroad.stg.umn.edu","harri740, emomtche, tdbedner, dkeller",wellnessabroad.umn.edu,GPS Alliance,None,True,,True,Drupal
+1064,icgc.dev.umn.edu,"dev, test, prod","icgc.dev.umn.edu, icgc.stg.umn.edu, www.icgc.umn.edu","tdbedner, emomtche, harri740, dkeller",icgc.umn.edu,GPS Alliance,None,True,,True,Drupal
+1063,International Study,"dev, test, prod","intlstudy-d9.dev.umn.edu, intlstudy-d9.stg.umn.edu, intlstudy-d9.prd.umn.edu","tdbedner, harri740, emomtche, dkeller",intlstudy.umn.edu,GPS Alliance,None,True,,True,Drupal
+1072,Learning Abroad Center - Drupal 8,"dev, test, prod","umabroad.dev.umn.edu, umabroad.stg.umn.edu, umabroad.prd.umn.edu, www.umabroad.umn.edu","harri740, emomtche, tdbedner, volna007",umabroad.umn.edu,GPS Alliance,None,True,,True,Drupal
+1074,M Global,"dev, test, prod","mglobal.umn.edu, mglobal.dev.umn.edu, mglobal.stg.umn.edu, www.mglobal.umn.edu","ludtke, schul160, tdbedner, harri740, emomtche",mglobal.umn.edu,GPS Alliance,None,True,,True,Drupal
+1068,Passport Office,prod,"passportoffice.dev.umn.edu, passportoffice.stg.umn.edu, passportoffice.dl9.umn.edu, www.passportoffice.umn.edu",ludtke,passportoffice.umn.edu,GPS Alliance,None,True,,True,Drupal
+1071,Satellite,"dev, test, prod","sat-gps.dev.umn.edu, sat-gps.stg.umn.edu, sat-gps.prd.umn.edu","emomtche, tdbedner, harri740",sat.gps.umn.edu,GPS Alliance,None,True,,True,Drupal
+1066,Sustainable Development Goals,"dev, test, prod","sdg.dev.umn.edu, sdg.stg.umn.edu, sdg.prd.umn.edu, www.sdg.umn.edu, sdg.umn.edu","harri740, emomtche, tdbedner, dkeller",sdg.umn.edu,GPS Alliance,None,True,,True,Drupal

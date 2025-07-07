@@ -1,0 +1,9 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+111,Cancer Center Survivorship Research Forum,prod,"ccsrf.umn.edu, ccsrf.dev.umn.edu",ford0439,ccsrf.umn.edu,AHC - Academic Health Center,None,False,,False,Drupal
+122,Foresight,dev,"foresight.dev.umn.edu, foresight.stg.umn.edu",pfan0001,foresight.umn.edu,AHC - Academic Health Center,None,False,,False,Drupal
+85,HealthEdToGo,prod,"healthedtogo.dev.umn.edu, healthedtogo.stg.umn.edu",bjs,healthedtogo.umn.edu,AHC - Academic Health Center,None,False,,False,Drupal
+87,HST PCI DSS function,"dev, test","payments-ahc.dev.umn.edu, payments-ahc.stg.umn.edu",bjs,payments.ahc.umn.edu,AHC - Academic Health Center,None,False,,False,Drupal
+118,Human Resources Site,prod,cancerhr.umn.edu,jalkire,cancerhr.umn.edu,AHC - Academic Health Center,None,False,,False,Drupal
+100,Leung Lab,"test, prod","leunglab.stg.umn.edu, leunglab.dev.umn.edu, leunglab.dl9.umn.edu",ctleung,leunglab.umn.edu,AHC - Academic Health Center,None,False,,False,Drupal
+91,Neurology Research Development,"dev, test, prod","neuroresearchdev.stg.umn.edu, neuroresearchdev.dev.umn.edu, neuroresearchdev.dl9.umn.edu",hans5417,neuroresearchdev.umn.edu,AHC - Academic Health Center,None,False,,False,Drupal
+114,TeleFamilies,"dev, test, prod","telefamilies.dl8.umn.edu, telefamilies.stg.umn.edu, telefamilies.umn.edu",pfan0001,telefamilies.umn.edu,AHC - Academic Health Center,None,False,,False,Drupal

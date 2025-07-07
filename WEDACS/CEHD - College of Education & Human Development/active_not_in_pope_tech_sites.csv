@@ -1,0 +1,34 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+243,Asian Pacific American Resource Center,"dev, test, prod","aparc.stg.umn.edu, aparc.dev.umn.edu, aparc.dl9.umn.edu",kher,aparc.umn.edu,CEHD - College of Education & Human Development,None,False,,True,Drupal
+266,CEHD Folton,"dev, test, prod","folton.stg.umn.edu, folton.dev.umn.edu",jeff,folton.umn.edu,CEHD - College of Education & Human Development,None,False,,True,Drupal
+265,CEHD Web Strategy,prod,web-strategy.umn.edu,sandre,web-strategy.umn.edu,CEHD - College of Education & Human Development,None,False,,True,Drupal
+248,Center for Climate Literacy,prod,"climateliteracy.dev.umn.edu, climateliteracy.stg.umn.edu","mco, ksilver",climateliteracy.umn.edu,CEHD - College of Education & Human Development,None,False,,True,Drupal
+241,Center for Sales Leadership and Education,"dev, test","csle.dev.umn.edu, csle.stg.umn.edu",jeff,csle.umn.edu,CEHD - College of Education & Human Development,None,False,,True,Drupal
+1614,Childcare Access,"dev, test, prod","childcareaccess.stg.umn.edu, childcareaccess.dev.umn.edu, childcareaccess.dl9.umn.edu",leex5089,childcareaccess.umn.edu,CEHD - College of Education & Human Development,Moved from Social Work Admin on 2025-05-14,False,,True,Drupal
+242,Children's Literature Program,"dev, test, prod","childlit.stg.umn.edu, childlit.dev.umn.edu, childlit.dl9.umn.edu",ksilver,childlit.umn.edu,CEHD - College of Education & Human Development,None,False,,True,Drupal
+230,Circle Project,prod,"circle-project.dev.umn.edu, circle-project.stg.umn.edu",jeff,circle-project.umn.edu,CEHD - College of Education & Human Development,None,False,,True,Drupal
+254,College of Education and Human Development,prod,"cehd-lite.dev.umn.edu, cehd-lite.stg.umn.edu","jbehr, turg0018",cehd-lite.umn.edu,CEHD - College of Education & Human Development,None,False,,True,Drupal
+252,Curriculum & Instruction Library,"dev, test, prod","curriculumlibrary.stg.umn.edu, curriculumlibrary.dev.umn.edu, curriculumlibrary.dl9.umn.edu","ksilver, jbehr, turg0018",curriculumlibrary.umn.edu,CEHD - College of Education & Human Development,None,False,,True,Drupal
+271,Curriculum and Instruction Graduate Student Association,"test, prod","cigsa.dl8.umn.edu, cigsa.dev.umn.edu, cigsa.stg.umn.edu","bedar029, jbehr, turg0018",cigsa.umn.edu,CEHD - College of Education & Human Development,Moved from CEHD - ICI - Institute on Community Integration on 2025-05-14,False,,True,Drupal
+260,Dual Language and Immersion Teacher Assessment Rubrics,prod,"dliteachingrubrics.umn.edu, dliteachingrubrics.dev.umn.edu","djtedick, johns484, carlatec, schul160, romju002",dliteachingrubrics.umn.edu,CEHD - College of Education & Human Development,None,False,,True,Drupal
+237,e-portfolio,prod,"wburton.dev.umn.edu, wburton.stg.umn.edu",burt0341,wburton.umn.edu,CEHD - College of Education & Human Development,None,False,,True,Drupal
+268,FAST for Success,prod,fastforsuccess.umn.edu,"whit0782, jeff",fastforsuccess.umn.edu,CEHD - College of Education & Human Development,None,False,,True,Drupal
+256,Gamble-Skogmo Chair in Child Welfare and Youth Policy,prod,"gamble-skogmo.dev.umn.edu, gamble-skogmo.stg.umn.edu",colby041,gamble-skogmo.umn.edu,CEHD - College of Education & Human Development,None,False,,True,Drupal
+244,Human Capital Research Collaborative,"dev, test, prod","hcrc.stg.umn.edu, hcrc.dev.umn.edu, hcrc.dl9.umn.edu","crb, rutki004",hcrc.umn.edu,CEHD - College of Education & Human Development,None,False,,True,Drupal
+261,Human Capital Research Collaborative,prod,hcrc.dl8.umn.edu,rau00024,hcrc.umn.edu,CEHD - College of Education & Human Development,None,False,,True,Drupal
+1109,Kinesiology Quiet / Lactation Space,prod,"kin-quiet.umn.edu, kin-quiet.dev.umn.edu, kin-quiet.dl8.umn.edu",sweet006,kin-quiet.umn.edu,CEHD - College of Education & Human Development,Moved from Kinesiology Administration (11222) on 2025-05-14,False,,True,Drupal
+253,kinquiet.umn.edu,prod,"kinquiet.dev.umn.edu, kinquiet.stg.umn.edu",sweet006,kinquiet.umn.edu,CEHD - College of Education & Human Development,None,False,,True,Drupal
+1105,KINtribute,"dev, test, prod","kintribute.stg.umn.edu, kintribute.dev.umn.edu, kintribute.dl8.umn.edu",sweet006,kintribute.umn.edu,CEHD - College of Education & Human Development,Moved from Kinesiology Administration (11222) on 2025-05-14,False,,True,Drupal
+235,Knowledge for Parents,prod,"knowledgeforparents.dev.umn.edu, knowledgeforparents.stg.umn.edu",roger324,knowledgeforparents.umn.edu,CEHD - College of Education & Human Development,None,False,,True,Drupal
+227,Multidisciplinary Institute for Child Welfare,prod,"micw.umn.edu, micw.dev.umn.edu, micw.stg.umn.edu",nich0121,micw.umn.edu,CEHD - College of Education & Human Development,None,False,,True,Drupal
+1108,Neurorobotics Consortium,prod,"neurorobotics.dev.umn.edu, neurorobotics.umn.edu","jkonczak, smoeller",neurorobotics.umn.edu,CEHD - College of Education & Human Development,Moved from Kinesiology Administration (11222) on 2025-05-14,False,,True,Drupal
+231,Northern Lights Computing Center,"dev, test, prod","northern-lights.dev.umn.edu, northern-lights.stg.umn.edu, northernlights.umn.edu","jbehr, turg0018",northern-lights.umn.edu,CEHD - College of Education & Human Development,None,False,,True,Drupal
+264,p2n.umn.edu,prod,p2n.umn.edu,ksilver,p2n.umn.edu,CEHD - College of Education & Human Development,None,False,,True,Drupal
+236,Positive Recovery Journaling Counselor Study,prod,"positiverecoveryjournalingstudy.dev.umn.edu, positiverecoveryjournalingstudy.stg.umn.edu, prjstudy.umn.edu",blix0009,prjstudy.umn.edu,CEHD - College of Education & Human Development,None,False,,True,Drupal
+259,Research Methodology Consulting Center,prod,"rmcc.umn.edu, rmcc.dev.umn.edu",jeff,rmcc.umn.edu,CEHD - College of Education & Human Development,None,False,,True,Drupal
+228,Teaching Climate Justice with Young People’s Literatures and Media,prod,"climatejusticek12.dev.umn.edu, climatejusticek12.stg.umn.edu",klees023,climatejusticek12.umn.edu,CEHD - College of Education & Human Development,None,False,,True,Drupal
+262,Tech People,prod,tech-people.dl8.umn.edu,jeff,tech-people.umn.edu,CEHD - College of Education & Human Development,None,False,,True,Drupal
+247,The ESPRIT Project,"test, prod","esprit.stg.umn.edu, esprit.dev.umn.edu, esprit.dl9.umn.edu",keisha,esprit.umn.edu,CEHD - College of Education & Human Development,None,False,,True,Drupal
+229,Tucker Center,prod,"tuckercenter.dev.umn.edu, tuckercenter.stg.umn.edu, tuckercenter.prd.umn.edu",jeff,tuckercenter.umn.edu,CEHD - College of Education & Human Development,None,False,,True,Drupal
+263,University Coworking,prod,coworking.umn.edu,jeff,coworking.umn.edu,CEHD - College of Education & Human Development,None,False,,True,Drupal
+251,youthroc.umn.edu,prod,"youthroc.dev.umn.edu, youthroc.stg.umn.edu",jeff,youthroc.umn.edu,CEHD - College of Education & Human Development,None,False,,True,Drupal

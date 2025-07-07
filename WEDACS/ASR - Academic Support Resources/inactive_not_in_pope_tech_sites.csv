@@ -1,0 +1,3 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+127,Academic Support Resources Supervisors,"test, prod","asrsupervisors.stg.umn.edu, asrsupervisors.dev.umn.edu, asrsupervisors.dl9.umn.edu",rceresna,asrsupervisors.umn.edu,ASR - Academic Support Resources,None,False,,False,Drupal
+134,One Stop Configuration Module Export,"dev, test","onestop-d9.dev.umn.edu, onestop-d9.stg.umn.edu, onestop-config.dev.umn.edu, onestop-config-module.dev.umn.edu","isen0011, thoma127, eeklund, whit0694, dlagerro, ande7947, simps614",onestop-config-module.umn.edu,ASR - Academic Support Resources,None,False,,False,Drupal

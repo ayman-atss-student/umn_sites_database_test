@@ -1,0 +1,8 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+108,Be WELL,prod,"bewell.dev.umn.edu, bewell.stg.umn.edu",engeb013,bewell.umn.edu,AHC - Academic Health Center,None,True,,True,Drupal
+121,Biostats Information for Clinicians,"dev, test, prod","biostats4you.dev.umn.edu, biostats4you.stg.umn.edu, biostats4you.umn.edu","angus025, khanx091, dougl361",biostats4you.umn.edu,AHC - Academic Health Center,None,True,,True,Drupal
+115,Health Sciences Education Center,prod,"hsec.umn.edu, hsec.dev.umn.edu",engeb013,hsec.umn.edu,AHC - Academic Health Center,None,True,,True,Drupal
+110,M Simulation,"dev, test, prod","simulation-d8.dev.umn.edu, simulation-d8.stg.umn.edu, www.simulation.umn.edu, msimulation.umn.edu, www.msimulation.umn.edu, simportal.umn.edu, www.simportal.umn.edu, simulation.umn.edu","dlv, broek023, fuchs142, incex011, marks265",simulation.umn.edu,AHC - Academic Health Center,None,True,,True,Drupal
+116,Masonic Cancer Center,"dev, test, prod","cancer-d8.dev.umn.edu, cancer-d8.stg.umn.edu, cancer.umn.edu, www.cancer.umn.edu, cancer.prd.umn.edu, ccgg.umn.edu","jalkire, anderslj, dlv, fuchs142, incex011, broek023, marks265, nuebl001",cancer.umn.edu,AHC - Academic Health Center,None,True,,True,Drupal
+117,Minnesota Northstar Geriatrics Workforce Enhancement Program,"test, prod","mngwep.umn.edu, mngwep.dev.umn.edu, mngwep.stg.umn.edu",dlv,mngwep.umn.edu,AHC - Academic Health Center,None,True,,True,Drupal
+113,Student Research Resources,"dev, test, prod","studentresearch.dl8.umn.edu, studentresearch.stg.umn.edu, studentresearch.umn.edu, studentresearch.nursing.umn.edu",pfan0001,studentresearch.umn.edu,AHC - Academic Health Center,None,True,,True,Drupal

@@ -1,0 +1,26 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1463,Content Hub Demo Site A,"dev, test","chdemo-site-a.umn.edu, chdemo-site-a.dev.umn.edu, chdemo-site-a.stg.umn.edu","kjk, djk, rimbu002, amara060, starr027, dtadege, ehunter, ferna692, kristinw, pbhamidi, peake035, matt, batchiso",chdemo-site-a.umn.edu,OIT - Office of Information Technology,None,False,,False,Drupal
+1462,Content Hub Demo Site B,"dev, test","chdemo-site-b.dev.umn.edu, chdemo-site-b.stg.umn.edu","kjk, rimbu002, starr027, djk, amara060, dtadege, ehunter, ferna692, kristinw, pbhamidi, peake035, matt, batchiso",chdemo-site-b.umn.edu,OIT - Office of Information Technology,None,False,,False,Drupal
+1499,D901 Test site,"dev, test, prod","umnd901.stg.umn.edu, umnd901.dev.umn.edu, umnd901.umn.edu",starr027,aaumnd901.umn.edu,OIT - Office of Information Technology,None,False,,False,Drupal
+1467,d907-01,"dev, test, prod","d907-01.dev.umn.edu, d907-01.stg.umn.edu, d907-01.prd.umn.edu, d907-01-a-record.umn.edu, www.d907-01-a-record.umn.edu, 907edge.umn.edu, www.907edge.umn.edu",kjk,d907-01.umn.edu,OIT - Office of Information Technology,None,False,,False,Drupal
+1466,d907-02,"dev, test, prod","d907-02.dev.umn.edu, d907-02.stg.umn.edu, d907-02.prd.umn.edu, d907-02-a-record.umn.edu, d907-02.umn.edu",kjk,d907-02.umn.edu,OIT - Office of Information Technology,None,False,,False,Drupal
+1445,d907-05,"dev, test, prod","d907-05.stg.umn.edu, d907-05.dev.umn.edu, www.d907-05.umn.edu",,d907-05.umn.edu,OIT - Office of Information Technology,None,False,,False,Drupal
+1507,dl8training.umn.edu,prod,dl8training.umn.edu,nelse007,dl8training.umn.edu,OIT - Office of Information Technology,None,False,,False,Drupal
+1474,IT Content,"dev, test, prod","it-content.dev.umn.edu, it-content.stg.umn.edu","c-good, mamiller",it-content.umn.edu,OIT - Office of Information Technology,None,False,,False,Drupal
+1511,Learning Analytics Meet Up,"test, prod",learning-analytics.stg.umn.edu,"kellie, c-good",learning-analytics.umn.edu,OIT - Office of Information Technology,None,False,,False,Drupal
+1478,ME Lab Website Training,prod,"metraining.dev.umn.edu, metraining.stg.umn.edu",nelse007,metraining.umn.edu,OIT - Office of Information Technology,None,False,,False,Drupal
+1477,Noah's Sandbox,prod,"nc-sandbox.dev.umn.edu, nc-sandbox.stg.umn.edu",chalf007,nc-sandbox.umn.edu,OIT - Office of Information Technology,None,False,,False,Drupal
+1517,OIT D8 02 test site,"dev, test, prod","oit-d8-07.dev.umn.edu, oit-d8-07.stg.umn.edu",,oit-d8-07.umn.edu,OIT - Office of Information Technology,None,False,,False,Drupal
+1491,OIT Employees Center,"dev, test, prod","oit-employees.stg.umn.edu, oit-employees.dev.umn.edu",c-good,oit-employees.umn.edu,OIT - Office of Information Technology,None,False,,False,Drupal
+1495,Open Education Challenge Series,prod,"oechallenge.dev.umn.edu, oechallenge.stg.umn.edu",englu061,oechallenge.umn.edu,OIT - Office of Information Technology,None,False,,False,Drupal
+1516,See Yourself: A History of Women in Technology at UMN,dev,"wit-stories.dev.umn.edu, wit-stories.stg.umn.edu",c-good,wit-stories.umn.edu,OIT - Office of Information Technology,None,False,,False,Drupal
+1486,Solr Test,"test, prod","solrtest.umn.edu, solrtest.dev.umn.edu, solrtest.stg.umn.edu","rimbu002, starr027, amara060, djk",solrtest.umn.edu,OIT - Office of Information Technology,None,False,,False,Drupal
+1518,T2 WSH DE9 Sandbox,"dev, test","t2vcshsandbox.umn.edu, t2vcshsandbox.dev.umn.edu, t2vcshsandbox.stg.umn.edu","t2vcsh, corri129",t2vcshsandbox.umn.edu,OIT - Office of Information Technology,None,False,,False,Drupal
+1508,The Attic,"dev, prod","atline.umn.edu, atline.stg.umn.edu, attic.umn.edu, attic.dev.umn.edu",froye001,atline.umn.edu,OIT - Office of Information Technology,None,False,,False,Drupal
+1482,UMN D801 Test Site,"dev, test, prod","umnd801.dev.umn.edu, umnd801.stg.umn.edu",,umnd801.umn.edu,OIT - Office of Information Technology,None,False,,False,Drupal
+1447,UMN D907 Test site,"dev, test, prod","umnd907.stg.umn.edu, umnd907.dev.umn.edu, umnd907.umn.edu, www.umnd907.umn.edu","starr027, rimbu002, amara060",aumnd907.umn.edu,OIT - Office of Information Technology,None,False,,False,Drupal
+1444,UMND1003 Test Site,"dev, test, prod","umnd1003.umn.edu, umnd1003.stg.umn.edu, umnd1003.dev.umn.edu",starr027,aaumnd1003.umn.edu,OIT - Office of Information Technology,None,False,,False,Drupal
+1493,UMND902 Test site,"dev, test, prod","umnd902.dev.umn.edu, umnd902.stg.umn.edu, umnd902.umn.edu",starr027,aumnd902.umn.edu,OIT - Office of Information Technology,None,False,,False,Drupal
+1461,UMNDM Test site,"dev, test, prod","umndm.umn.edu, umndm.stg.umn.edu, umndm.dev.umn.edu","rimbu002, starr027, amara060, kjk, djk",aumndm.umn.edu,OIT - Office of Information Technology,None,False,,False,Drupal
+1494,Unizin,"dev, test, prod","unizin.stg.umn.edu, unizin.dev.umn.edu, unizin.dl9.umn.edu","c-good, rjkos, kellie, stade",unizin.umn.edu,OIT - Office of Information Technology,None,False,,False,Drupal
+1473,Wei,"dev, test, prod","weidev.dev.umn.edu, weidev.stg.umn.edu, wei.umn.edu",hsuxx272,weidev.umn.edu,OIT - Office of Information Technology,None,False,,False,Drupal

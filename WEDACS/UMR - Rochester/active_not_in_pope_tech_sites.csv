@@ -1,0 +1,3 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1825,Rochester Intranet,"test, prod","intranet-r.dev.umn.edu, intranet-r.stg.umn.edu",dies0044,intranet.r.umn.edu,UMR - Rochester,None,False,,True,Drupal
+1826,Xavier Prat-Resina's site,prod,"pratresina.umn.edu, pratresina.dev.umn.edu",pratr001,pratresina.umn.edu,UMR - Rochester,None,False,,True,Drupal

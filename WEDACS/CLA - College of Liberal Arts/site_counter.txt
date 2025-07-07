@@ -1,0 +1,5 @@
+CLA - College of Liberal Arts Sites
+Total sites: 132
+Sites in Pope Tech: 38
+Active sites not in Pope Tech: 75
+Inactive sites not in Pope Tech: 19

@@ -1,0 +1,5 @@
+OSA - Office of Student Affairs Sites
+Total sites: 34
+Sites in Pope Tech: 21
+Active sites not in Pope Tech: 12
+Inactive sites not in Pope Tech: 1

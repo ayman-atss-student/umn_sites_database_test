@@ -1,0 +1,6 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1617,Foresight Leadership,prod,"foresightleadership.dev.umn.edu, foresightleadership.stg.umn.edu",pfan0001,foresightleadership.umn.edu,SoN - School of Nursing,None,False,,True,Drupal
+1619,Nursing Big Data Repository,prod,"nursingbigdatarepository.dev.umn.edu, nursingbigdatarepository.stg.umn.edu",pfan0001,nursingbigdatarepository.umn.edu,SoN - School of Nursing,None,False,,True,Drupal
+1615,Rural Veterans Applying Mind Body Skills for Pain (RAMP),prod,"ramp.dev.umn.edu, ramp.stg.umn.edu","bange001, evans972",ramp.umn.edu,SoN - School of Nursing,None,False,,True,Drupal
+1620,School of Nursing COVID-19,prod,"nursingcovid-19.dev.umn.edu, foresightinitiative.umn.edu",pfan0001,nursingcovid-19.umn.edu,SoN - School of Nursing,None,False,,True,Drupal
+1616,SoN Current Students,prod,"nursingcurrentstudents.dev.umn.edu, nursingcurrentstudents.stg.umn.edu",pfan0001,nursingcurrentstudents.umn.edu,SoN - School of Nursing,None,False,,True,Drupal

@@ -1,0 +1,6 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1019,Carlson School of Management Undergraduate Program,prod,"carlsonundergraduate.dev.umn.edu, carlsonundergraduate.stg.umn.edu, carlsonundergraduate.dl9.umn.edu",lcamp,carlsonundergraduate.umn.edu,CSOM - Carlson School of Management,None,False,,False,Drupal
+1018,Carlson Women's Network,"test, prod","cwn.stg.umn.edu, cwn.dev.umn.edu, cwn.dl9.umn.edu","cardi051, janeflis",cwn.umn.edu,CSOM - Carlson School of Management,None,False,,False,Drupal
+1024,Commencement 2021 - Carlson School of Management,"dev, test, prod","commencement2021-carlsonschool.dev.umn.edu, commencement2021-carlsonschool.stg.umn.edu",luong108,commencement2021.carlsonschool.umn.edu,CSOM - Carlson School of Management,None,False,,False,Drupal
+1020,MinCorpsMentors,"dev, test, prod","mincorpsmentors.dl9.umn.edu, mincorpsmentors.stg.umn.edu, mincorpsmentors.dev.umn.edu",pavo0003,mincorpsmentors.umn.edu,CSOM - Carlson School of Management,None,False,,False,Drupal
+1021,UMN Innovation,"dev, test, prod","innovate.stg.umn.edu, innovate.dev.umn.edu, innovate.dl9.umn.edu",mylab001,innovate.umn.edu,CSOM - Carlson School of Management,None,False,,False,Drupal

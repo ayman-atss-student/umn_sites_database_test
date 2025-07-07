@@ -1,0 +1,8 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1132,Health Sciences Libraries,"dev, test, prod","hsl-d8.dev.umn.edu, hsl-d8.stg.umn.edu, hsl-d8.prd.umn.edu, hsl.lib.umn.edu","gormsby, mjb, hans1794, jneveau, adrayer, naughton, brams006, barne102, akierig, lawans",hsl.lib.umn.edu,LIB - Libraries,None,True,,True,Drupal
+1123,Health Sciences Library,"dev, test","hsl.dev.umn.edu, hsl.stg.umn.edu",gormsby,hsl.lib.umn.edu,LIB - Libraries,None,True,,True,Drupal
+1130,Libraries,"dev, test, prod","www.lib.dev.umn.edu, www.lib.stg.umn.edu, lib.dev.umn.edu, lib.stg.umn.edu, lib.prd.umn.edu, plantinfo.umn.edu, www.plantinfo.umn.edu, lib.umn.edu, www.lib.umn.edu","gormsby, brams006, hans1794, mjb, naughton, jneveau, adrayer, barne102, lawans, akierig",www.lib.umn.edu,LIB - Libraries,None,True,,True,Drupal
+1126,Libraries Staff Web,prod,"staff-lib.dev.umn.edu, staff-lib.stg.umn.edu, staff-lib.dl9.umn.edu","gormsby, adrayer",staff.lib.umn.edu,LIB - Libraries,None,True,,True,Drupal
+1128,mappingprejudice.umn.edu,"dev, test, prod","mappingprejudice.dev.umn.edu, mappingprejudice.stg.umn.edu, mappingprejudice.prd.umn.edu","mjb, gormsby, corey101, akierig",mappingprejudice.umn.edu,LIB - Libraries,None,True,,True,Drupal
+1125,UMN East Asian Library,prod,"eal.dev.umn.edu, eal.stg.umn.edu",shuqi,eal.umn.edu,LIB - Libraries,None,True,,True,Drupal
+1133,University of Minnesota Women in Technology,dev,"wit.dev.umn.edu, wit.stg.umn.edu",jneveau,wit.umn.edu,LIB - Libraries,None,True,,True,Drupal

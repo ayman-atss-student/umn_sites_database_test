@@ -1,0 +1,5 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1621,Balbo Lab,prod,"balbolab.dev.umn.edu, balbolab.stg.umn.edu",balbo006,balbolab.umn.edu,SPH - School of Public Health,None,False,,True,Drupal
+1640,Flex Monitoring Team,"dev, test, prod","flexmonitoring.dev.umn.edu, flexmonitoring.stg.umn.edu, flexmonitoring.org, www.flexmonitoring.org","dougl361, angus025, lahrx074",flexmonitoring.umn.edu,SPH - School of Public Health,None,False,,True,Drupal
+1623,SHADAC - State Health Access Data Assistance Center,"dev, test","shadac.dev.umn.edu, shadac.stg.umn.edu","dougl361, angus025, dougl330, wals0421",shadac.umn.edu,SPH - School of Public Health,None,False,,True,Drupal
+1634,Smart detection of social distancing,prod,"sd2.dev.umn.edu, sd2.stg.umn.edu",julianw,sd2.umn.edu,SPH - School of Public Health,None,False,,True,Drupal

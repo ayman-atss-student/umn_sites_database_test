@@ -1,0 +1,12 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+646,Changquan Calvin Sun Research Lab,"test, prod","sun-lab.stg.umn.edu, sun-lab.dev.umn.edu, sun-lab.dl9.umn.edu",dlv,sun-lab.umn.edu,CoP - College of Pharmacy,None,False,,True,Drupal
+645,Cognitive Artificial Intelligence Research Lab (CAIR),"dev, test, prod","cair.dev.umn.edu, cair.stg.umn.edu",pakh0002,cair.umn.edu,CoP - College of Pharmacy,None,False,,True,Drupal
+650,Harki Research,prod,"harki.stg.umn.edu, harki.dev.umn.edu, harki.dl9.umn.edu",daharki,harki.umn.edu,CoP - College of Pharmacy,None,False,,True,Drupal
+651,Huang Lab,"dev, test, prod","huang-lab.stg.umn.edu, huang-lab.dev.umn.edu, huang-lab.dl9.umn.edu",rshuang,huang-lab.umn.edu,CoP - College of Pharmacy,None,False,,True,Drupal
+644,OT Research,prod,"otresearch.dev.umn.edu, otresearch.stg.umn.edu",ceele001,otresearch.umn.edu,CoP - College of Pharmacy,None,False,,True,Drupal
+649,Personalized Medicine in Hmong Communities,"test, prod","pm-hmong.stg.umn.edu, pm-hmong.dev.umn.edu, pm-hmong.dl9.umn.edu",sunx0765,pm-hmong.umn.edu,CoP - College of Pharmacy,None,False,,True,Drupal
+648,Rho Chi,"test, prod","rhochi.stg.umn.edu, rhochi.dev.umn.edu, rhochi.dl9.umn.edu","abdel244, and03772",rhochi.umn.edu,CoP - College of Pharmacy,None,False,,True,Drupal
+654,Sury Lab Group,"test, prod","surylabgroup.pharmacy.dev.umn.edu, surylabgroup.dl8.umn.edu, surylabgroup.stg.umn.edu","tracy122, surya001",surylabgroup.pharmacy.umn.edu,CoP - College of Pharmacy,None,False,,True,Drupal
+655,U of M Pain Consortium,prod,pain.dl8.umn.edu,oanh,pain.umn.edu,CoP - College of Pharmacy,None,False,,True,Drupal
+652,University of Minnesota Biennial Pharmacogenomics Conference,prod,"pgxconference.dev.umn.edu, pgxconference.stg.umn.edu, pgx2020.umn.edu",mcgo0064,pgxconference.umn.edu,CoP - College of Pharmacy,None,False,,True,Drupal
+656,Zhang Research Lab,prod,zhanglab.umn.edu,zhan1386,zhanglab.umn.edu,CoP - College of Pharmacy,None,False,,True,Drupal

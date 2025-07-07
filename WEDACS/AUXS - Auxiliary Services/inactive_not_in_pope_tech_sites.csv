@@ -1,0 +1,4 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+151,Auxiliary Services,"dev, test, prod","auxs.dev.umn.edu, auxs.stg.umn.edu, www.auxs.umn.edu","lambe144, anderslj",auxs.umn.edu,AUXS - Auxiliary Services,None,False,,False,Drupal
+153,Printing Services Video Library,dev,"psvideolibrary.dev.umn.edu, psvideolibrary.stg.umn.edu",anderslj,psvideolibrary.umn.edu,AUXS - Auxiliary Services,None,False,,False,Drupal
+140,Transit Pass Activation,prod,"getetp.dev.umn.edu, getetp.stg.umn.edu, getetp.prd.umn.edu",nickm,getetp.umn.edu,AUXS - Auxiliary Services,None,False,,False,Drupal

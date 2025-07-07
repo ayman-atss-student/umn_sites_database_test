@@ -1,0 +1,7 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1120,Dale Trexel,"dev, test, prod","daletrexel.dev.umn.edu, daletrexel.stg.umn.edu",dtrexel,daletrexel.umn.edu,LAW,None,False,,False,Drupal
+1117,Dale Trexel D9,dev,"daletrexel-d9.dev.umn.edu, daletrexel-d9.stg.umn.edu",dtrexel,daletrexel-d9.umn.edu,LAW,None,False,,False,Drupal
+1115,Law Scholar D9,"dev, test, prod","law-scholar-d9.dev.umn.edu, law-scholar-d9.stg.umn.edu, law-scholar-d9.prd.umn.edu, www.scholar.law.umn.edu, scholar.law.umn.edu","dtrexel, fuchs142, incex011, kirkw068, byart",scholar.law.umn.edu,LAW,None,False,,False,Drupal
+1110,Law Stewardship,"dev, test, prod","stewardship-law.dev.umn.edu, stewardship-law.stg.umn.edu, stewardship-law.umn.edu","thale, dtrexel, byart, thom8963",stewardship.law.umn.edu,LAW,None,False,,False,Drupal
+1113,Mark Byart,"dev, test","byart.dev.umn.edu, byart.stg.umn.edu",byart,byart.umn.edu,LAW,None,False,,False,Drupal
+1112,The Clarence Darrow Digital Collection,"dev, test","darrow-librarycollections-law.dev.umn.edu, darrow-librarycollections-law.stg.umn.edu",brown288,darrow-librarycollections.law.umn.edu,LAW,None,False,,False,Drupal

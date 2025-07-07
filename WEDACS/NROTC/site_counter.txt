@@ -1,0 +1,5 @@
+NROTC Sites
+Total sites: 1
+Sites in Pope Tech: 0
+Active sites not in Pope Tech: 1
+Inactive sites not in Pope Tech: 0

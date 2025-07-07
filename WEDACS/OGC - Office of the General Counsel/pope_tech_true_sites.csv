@@ -1,0 +1,2 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1428,Office of the General Counsel,"dev, test, prod","ogc.dev.umn.edu, ogc.stg.umn.edu, ogc.dl9.umn.edu, www.ogc.umn.edu, recordsmgmt.umn.edu, www.recordsmgmt.umn.edu, ogc.umn.edu","klwagner, hindt009, kotta022",ogc.umn.edu,OGC - Office of the General Counsel,None,True,,True,Drupal

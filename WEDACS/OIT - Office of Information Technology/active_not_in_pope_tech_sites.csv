@@ -1,0 +1,33 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1449,Academic Technology SHAREcase,prod,"atsharecase.dev.umn.edu, atsharecase.stg.umn.edu, aticop.umn.edu",kellie,atsharecase.umn.edu,OIT - Office of Information Technology,None,False,,True,Drupal
+1454,Cole's Sandbox,"dev, prod","ck-sandbox.dev.umn.edu, ck-sandbox.stg.umn.edu, ck-sandbox.prd.umn.edu",king1591,ck-sandbox.umn.edu,OIT - Office of Information Technology,None,False,,True,Drupal
+1469,CTS Microsite Testing,"dev, test, prod","cts-testing.dev.umn.edu, cts-testing.stg.umn.edu, cts-microsite-testing.umn.edu, cts-testing.umn.edu","djk, kjk, corri129",cts-testing.umn.edu,OIT - Office of Information Technology,None,False,,True,Drupal
+1465,d907-03,"dev, test, prod","d907-03.dev.umn.edu, d907-03.stg.umn.edu",kjk,d907-03.umn.edu,OIT - Office of Information Technology,None,False,,True,Drupal
+1464,d907-04,"dev, test, prod","d907-04.dev.umn.edu, d907-04.stg.umn.edu",kjk,d907-04.umn.edu,OIT - Office of Information Technology,None,False,,True,Drupal
+1456,d907-06,"dev, test, prod","d907-06.stg.umn.edu, d907-06-a-record.umn.edu, www.d907-06.umn.edu, d907-06.umn.edu, d907-06.dev.umn.edu",,d907-06.umn.edu,OIT - Office of Information Technology,None,False,,True,Drupal
+1505,Dialog.umn.edu,"test, prod","dialog.dev.umn.edu, dialog.dl8.umn.edu, dialog.stg.umn.edu","kellie, c-good",dialog.umn.edu,OIT - Office of Information Technology,None,False,,True,Drupal
+1476,djk,"dev, test, prod","djk.dev.umn.edu, djk.stg.umn.edu",djk,djk.umn.edu,OIT - Office of Information Technology,None,False,,True,Drupal
+1489,Document Management Advisory Council,"test, prod","dmtadvisory.dev.umn.edu, dmtadvisory.stg.umn.edu","neisenkk, spn, weston",dmtadvisory.umn.edu,OIT - Office of Information Technology,None,False,,True,Drupal
+1496,googleadvisory.umn.edu,prod,"googleadvisory.dev.umn.edu, googleadvisory.stg.umn.edu",weston,googleadvisory.umn.edu,OIT - Office of Information Technology,None,False,,True,Drupal
+1455,Navigating AI @ UMN,prod,"ai.dev.umn.edu, ai.stg.umn.edu, ai.prd.umn.edu",c-good,ai.umn.edu,OIT - Office of Information Technology,None,False,,True,Drupal
+1458,Northside Summer Internship Program,"dev, test, prod","northsideinterns.dev.umn.edu, northsideinterns.stg.umn.edu, northsideinterns.umn.edu",coryfoss,northsideinterns.umn.edu,OIT - Office of Information Technology,None,False,,True,Drupal
+1519,OIT D8 01,"dev, test, prod","oit-d8-01.dev.umn.edu, oit-d8-01.stg.umn.edu",starr027,oit-d8-01.umn.edu,OIT - Office of Information Technology,None,False,,True,Drupal
+1506,OIT Intranet,prod,"oit-intranet.umn.edu, oit-intranet.dev.umn.edu",kellie,oit-intranet.umn.edu,OIT - Office of Information Technology,None,False,,True,Drupal
+1457,OIT User Support Performance Metrics,prod,"usmetrics.dev.umn.edu, usmetrics.stg.umn.edu","hsuxx272, perkins",usmetrics.umn.edu,OIT - Office of Information Technology,None,False,,True,Drupal
+1515,PCI D8 Test site,"dev, test, prod","pcid8.dev.umn.edu, pcid8.stg.umn.edu, pcid8.umn.edu, umnpcid8.dev.umn.edu, umnpcid8.stg.umn.edu",,umnpcid8.umn.edu,OIT - Office of Information Technology,None,False,,True,Drupal
+1492,Research Cyberinfrastructure Champions,prod,"rcc.dev.umn.edu, rcc.stg.umn.edu","elar, kellie",rcc.umn.edu,OIT - Office of Information Technology,None,False,,True,Drupal
+1504,sntdx-drupal.umn.edu,"dev, test, prod","sntdx-drupal.dev.umn.edu, sntdx-drupal.stg.umn.edu","mamiller, devel016",it-knowledge.umn.edu,OIT - Office of Information Technology,None,False,,True,Drupal
+1470,Tai's Sandbox Environment,"dev, prod","tm-sandbox.dev.umn.edu, tm-sandbox.stg.umn.edu, taisand.umn.edu",tmclau,taisand.umn.edu,OIT - Office of Information Technology,None,False,,True,Drupal
+1487,The Shed,prod,"the-shed.dev.umn.edu, the-shed.stg.umn.edu",kellie,the-shed.umn.edu,OIT - Office of Information Technology,None,False,,True,Drupal
+1479,U of MN DevOps,"test, prod","devops.stg.umn.edu, devops.dev.umn.edu, devops.dl9.umn.edu","tram0004, jake",devops.umn.edu,OIT - Office of Information Technology,None,False,,True,Drupal
+1497,ULTA - University Learning Technology Advisors,"dev, test, prod","ulta.stg.umn.edu, ulta.dev.umn.edu, ulta.dl8.umn.edu","c-good, kellie",ulta.umn.edu,OIT - Office of Information Technology,None,False,,True,Drupal
+1451,UMN CFANS D8 Test Site,"dev, test, prod","umncfansd8.dev.umn.edu, umncfansd8.stg.umn.edu, umncfansd8.umn.edu",,umncfansd8.umn.edu,OIT - Office of Information Technology,None,False,,True,Drupal
+1481,UMN D802 Test Site,"dev, test, prod","umnd802.stg.umn.edu, umnd802.dev.umn.edu",,umnd802.umn.edu,OIT - Office of Information Technology,None,False,,True,Drupal
+1503,UMN Google Day,"dev, test, prod","google-day.dev.umn.edu, google-day.stg.umn.edu, google-day.umn.edu",c-good,google-day.umn.edu,OIT - Office of Information Technology,None,False,,True,Drupal
+1472,UMND1001 Test Site,"dev, test, prod","umnd1001.umn.edu, umnd1001.stg.umn.edu, umnd1001.dev.umn.edu",starr027,aumnd1001.umn.edu,OIT - Office of Information Technology,None,False,,True,Drupal
+1446,umnd1002 test site,"dev, test, prod","umnd1002.dev.umn.edu, umnd1002.stg.umn.edu, umnd1002.umn.edu","starr027, rimbu002, amara060, djk",umnd1002.umn.edu,OIT - Office of Information Technology,None,False,,True,Drupal
+1450,UMND804 Test Site,"dev, test, prod","umnd804.dev.umn.edu, umnd804.stg.umn.edu, umnd804.umn.edu",,umnd804.umn.edu,OIT - Office of Information Technology,None,False,,True,Drupal
+1502,UMND805 Test Site,"dev, test, prod","umnd805.dev.umn.edu, umnd805.stg.umn.edu, umnd805.umn.edu",starr027,umnd805.umn.edu,OIT - Office of Information Technology,None,False,,True,Drupal
+1500,UMND806 Test site,"dev, test, prod","aumnd806.stg.umn.edu, aumnd806.dev.umn.edu, umnd806.dev.umn.edu, umnd806.stg.umn.edu, umnd806.umn.edu",starr027,umnd806.umn.edu,OIT - Office of Information Technology,None,False,,True,Drupal
+1475,umnd908 test site,"dev, test, prod","umnd908.dl9.umn.edu, umnd908.stg.umn.edu, umnd908.dev.umn.edu, umnd908.umn.edu, umnd908test.stg.umn.edu, umnd908test.umn.edu, cdntest1.umn.edu, cdntest4.umn.edu, cdntest3.umn.edu, cdntest5.umn.edu, cdntest6.umn.edu, cdntest7.umn.edu",oitadmin,aumnd908.umn.edu,OIT - Office of Information Technology,None,False,,True,Drupal
+1480,UMNURD8 Test Site,"urtst, dev, test, prod","umnurd8.dev.umn.edu, umnurd8.stg.umn.edu, umnurd8.urtst.umn.edu",,umnurd8.umn.edu,OIT - Office of Information Technology,None,False,,True,Drupal

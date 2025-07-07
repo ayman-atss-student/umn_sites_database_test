@@ -1,0 +1,2 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1397,Naval ROTC,"test, prod","nrotc.stg.umn.edu, nrotc.dev.umn.edu, nrotc.dl9.umn.edu",chri3051,nrotc.umn.edu,NROTC,None,False,,True,Drupal

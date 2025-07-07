@@ -1,0 +1,76 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+542,Agile Writing Project,"test, prod","agilewriting.stg.umn.edu, agilewriting.dev.umn.edu, agilewriting.dl9.umn.edu",moses004,agilewriting.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+609,AISOS,"test, prod","aisos.stg.umn.edu, aisos.dev.umn.edu, aisos.dl8.umn.edu",mcfa0086,aisos.umn.edu,CLA - College of Liberal Arts,Moved from CLA - LATIS - Liberal Arts Tech Innovation Services on 2025-05-15,False,,True,Drupal
+557,Anthropological Genetics Laboratories at UMN,prod,"anthgen-lab.dev.umn.edu, anthgen-lab.stg.umn.edu",mnievesc,anthgen-lab.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+598,Art Checkout,prod,artcheckout.umn.edu,hase,artcheckout.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+523,ArTeS Collaborative Research Studio,prod,"artes.dev.umn.edu, artes.stg.umn.edu",willow,artes.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+576,Ascan,"test, prod","ascan.stg.umn.edu, ascan.dev.umn.edu, ascan.dl8.umn.edu",koern011,ascan.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+577,Asian Languages & Literatures Summer Program,"test, prod","amesummerprogram.stg.umn.edu, amesummerprogram.dev.umn.edu, amesummerprogram.dl8.umn.edu",kvanpee,amesummerprogram.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+531,Body Knowledge,prod,"bodyknowledge.dev.umn.edu, bodyknowledge.stg.umn.edu",mjeudy,bodyknowledge.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+637,Career Counseling and Assessment Clinic,"test, prod","careercounseling.dl8.umn.edu, careercounseling.dev.umn.edu, careercounseling.stg.umn.edu, www.careercounseling.umn.edu",smoeller,careercounseling.umn.edu,CLA - College of Liberal Arts,Moved from CLA - PSYCH - Psychology on 2025-05-15,False,,True,Drupal
+580,ceramics.umn.edu,prod,"ceramics.dev.umn.edu, ceramics.stg.umn.edu",roth0292,ceramics.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+532,CLA Strategic Innovation Office,prod,"latisstrategy.dev.umn.edu, latisstrategy.stg.umn.edu",hansenj,latisstrategy.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+575,Collaboratory,"test, prod","collaboratory.dev.umn.edu, collaboratory.stg.umn.edu","soneson, carri093",collaboratory.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+554,Colloquium on Innovative World Language Pedagogies,prod,"wlpcolloquium.dev.umn.edu, wlpcolloquium.stg.umn.edu",kvanpee,wlpcolloquium.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+535,"Creativity, Mental Health and the Developing Brain in Adolescence and Young Adulthood",prod,"creativity-central.dev.umn.edu, creativity-central.stg.umn.edu","smoeller, gree3161",creativity-central.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+600,danp.umn.edu,"test, prod","danp.dl8.umn.edu, danp.stg.umn.edu, danp.dev.umn.edu",danp,danp.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+615,Data Analytics & Visualization Lab,prod,"data-analytics-lab.dev.umn.edu, data-analytics-lab.stg.umn.edu",smoeller,data-analytics-lab.psych.umn.edu,CLA - College of Liberal Arts,Moved from CLA - PSYCH - Psychology on 2025-05-15,False,,True,Drupal
+603,Digital Service Bureau,prod,dsb.umn.edu,choudek,dsb.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+602,Environmental Humanities Initiative,prod,envhum.dl8.umn.edu,"danp, mill7447, helge407, bran0487",envhum.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+601,Future of Work NCA'19 Workshop,prod,futureofwork.umn.edu,msw,futureofwork.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+559,Gender & Travel Study,prod,"gts.dev.umn.edu, gts.stg.umn.edu","yingsong, zhan6322",gts.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+526,Geospatial Data Intelligence Lab,prod,"geodi.dev.umn.edu, geodi.stg.umn.edu",dizhu,geodi.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+540,Graduate Program in Cognitive Science,prod,"cogsciphd-dl9.dev.umn.edu, cogsciphd-dl9.stg.umn.edu, www.cogsciphd.umn.edu, cogsciphd.dl9.umn.edu",pato0006,cogsciphd.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+569,Gyabak Portfolio,prod,"gyabakportfolio.dev.umn.edu, gyabakportfolio.stg.umn.edu",khendum,gyabakportfolio.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+585,Houses of Worship,"dev, test, prod","housesofworship.dev.umn.edu, housesofworship.stg.umn.edu, housesofworship.dl9.umn.edu",simonw,housesofworship.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+555,HSJMC Drupal Lite Demo,prod,"hsjmcdemo.dev.umn.edu, hsjmcdemo.stg.umn.edu",dallm082,hsjmcdemo.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+605,Hubbard School of Journalism,"dev, test, prod","hsjmc.dev.umn.edu, hsjmc.stg.umn.edu, hsjmc.umn.edu, www.hsjmc.umn.edu, sjmc.umn.edu, www.sjmc.umn.edu, mjc.umn.edu, www.mjc.umn.edu","simonw, fret0014",hsjmc.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+592,Human Environment GIS,"dev, test, prod","hegis.dl8.umn.edu, hegis.stg.umn.edu, hegis.dev.umn.edu, www.hegis.umn.edu",manson,hegis.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+519,Human Writes,prod,"humanwrites.stg.umn.edu, humanwrites.dev.umn.edu",chri2037,humanwrites.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+537,Humanities Without Walls Career Diversity Workshop 2023,"dev, test, prod","hww2023.dev.umn.edu, hww2023.stg.umn.edu",hofma071,hww2023.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+599,icg.umn.edu,prod,icg.umn.edu,carri093,icg.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+1611,Institute for Research in Statistics and its Applications,"test, prod","irsa.stg.umn.edu, irsa.dev.umn.edu, irsa.dl9.umn.edu, irsa.stat.umn.edu",axel0072,irsa.umn.edu,CLA - College of Liberal Arts,Moved from School of Statistics(10991) on 2025-05-15,False,,True,Drupal
+578,Ivory Tower,"test, prod","thetower.dl8.umn.edu, thetower.stg.umn.edu, thetower.dev.umn.edu, tower.umn.edu, www.ivory-tower.umn.edu, ivory-tower.umn.edu",cihla002,thetower.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+564,Kuncel Lab,prod,"kuncel-psych.dl9.umn.edu, kuncel-psych.dev.umn.edu, kuncel-psych.stg.umn.edu",smoeller,kuncel.psych.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+560,LATIS Learning,prod,"latislearning.dev.umn.edu, latislearning.stg.umn.edu",ronn0044,latislearning.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+608,LATIS Research,"test, prod","latisresearch.stg.umn.edu, latisresearch.dev.umn.edu, latisresearch.dl9.umn.edu",jrturbes,latisresearch.umn.edu,CLA - College of Liberal Arts,Moved from CLA - LATIS - Liberal Arts Tech Innovation Services on 2025-05-15,False,,True,Drupal
+595,LATIS Video,prod,,sjk,latisvideo.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+586,manson.umn.edu,"dev, test, prod","manson.dl8.umn.edu, manson.dev.umn.edu, manson.stg.umn.edu, manson.cla.umn.edu",manson,manson.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+581,MCAL (Minnesota Computational Advertising Laboratory),prod,"mcal.dev.umn.edu, mcal.stg.umn.edu",kimx5125,mcal.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+530,MCTFR Administration Intranet,prod,"intranet-mctfr.dev.umn.edu, intranet-mctfr.stg.umn.edu",amsuchy,intranet.mctfr.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+588,Middle East Studies Collaborative,"dev, test, prod","mideaststudies.dl8.umn.edu, mideaststudies.stg.umn.edu",kvanpee,mideaststudies.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+597,Minnesota Ethics Bowl,"dev, test, prod","ethicsbowl.dev.umn.edu, ethicsbowl.stg.umn.edu",csaintx,ethicsbowl.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+520,Minnesota Journalism Center Ecosystem Mapping Project,prod,"newsmap.dev.umn.edu, newsmap.stg.umn.edu",bjtoff,newsmap.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+596,Minnesota MAP (Minorities and Philosophy),prod,"map.umn.edu, mapforthegap.umn.edu, map.dl8.umn.edu",csaintx,map.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+610,Minnesota Twin Registry,prod,"twinstudy-psych.dev.umn.edu, twinstudy-psych.stg.umn.edu, twinstudy-psych.dl9.umn.edu",smoeller,twinstudy.psych.umn.edu,CLA - College of Liberal Arts,Moved from CLA - PSYCH - Psychology on 2025-05-15,False,,True,Drupal
+616,MN Lab for Low Vision Research,"test, prod","gellab.stg.umn.edu, gellab.dev.umn.edu, gellab.dl8.umn.edu",smoeller,gellab.psych.umn.edu,CLA - College of Liberal Arts,Moved from CLA - PSYCH - Psychology on 2025-05-15,False,,True,Drupal
+614,MNRead,prod,"mnread.dev.umn.edu, mnread.stg.umn.edu",smoeller,mnread.umn.edu,CLA - College of Liberal Arts,Moved from CLA - PSYCH - Psychology on 2025-05-15,False,,True,Drupal
+561,mwp.umn.edu,prod,"mwp.dev.umn.edu, mwp.stg.umn.edu, mwp.dl9.umn.edu",jkt,mwp.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+546,Networks and Policy Workshop,"dev, test, prod","networks.stg.umn.edu, networks.dev.umn.edu, networks.dl9.umn.edu",msw,networks.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+568,NSF NRT Graduate Training Program in Sensory Science,prod,"nrt-catss.dev.umn.edu, nrt-catss.stg.umn.edu",smoeller,nrt.catss.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+541,Pediatric Mental Health Education,prod,"pedsmentalhealtheducation.dev.umn.edu, pedsmentalhealtheducation.stg.umn.edu",smoeller,pedsmentalhealtheducation.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+593,Philosophy Camp,prod,philosophycamp.dl8.umn.edu,csaintx,philosophycamp.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+1599,Political Science Intranet,"test, prod","intranet-polisci.stg.umn.edu, intranet-polisci.dev.umn.edu, intranet-polisci.dl9.umn.edu","schw1468, pasch082",intranet.polisci.umn.edu,CLA - College of Liberal Arts,Moved from Political Science Department (10984) on 2025-05-15,False,,True,Drupal
+536,Professor Geoffrey Hellman's website,"test, prod","hellman.stg.umn.edu, hellman.dev.umn.edu, hellman.dl9.umn.edu",grand006,hellman.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+584,Qian Qin,prod,qqin.dev.umn.edu,qqin,qqin.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+556,REP Information,prod,"rep-info.dev.umn.edu, rep-info.stg.umn.edu",smoeller,rep-info.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+517,Ringwald Lab,prod,"ringwaldlab.psych.umn.edu, ringwaldlab-psych.stg.umn.edu, ringwaldlab-psych.dev.umn.edu",smoeller,ringwaldlab.psych.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+1613,Sara Algeri,"dev, test, prod","salgeri.dl8.umn.edu, salgeri.stg.umn.edu, salgeri.umn.edu",salgeri,salgeri.umn.edu,CLA - College of Liberal Arts,Moved from School of Statistics(10991) on 2025-05-15,False,,True,Drupal
+552,Sensory Aid and Perception Lab,"test, prod","splice.stg.umn.edu, splice.dev.umn.edu, splice.dl9.umn.edu",venn,splice.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+558,Sentience,prod,"sentience-psych.dev.umn.edu, sentience-psych.stg.umn.edu",smoeller,sentience.psych.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+589,Spatial Research,"test, prod","spatial.dev.umn.edu, spatial.stg.umn.edu, spatial.dl8.umn.edu, spatial.cla.umn.edu",manson,spatial.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+548,State of Our Satirical Union,"test, prod","stateofoursatiricalunion.stg.umn.edu, stateofoursatiricalunion.dev.umn.edu, stateofoursatiricalunion.dl9.umn.edu","hargr003, sdierks, silha",stateofoursatiricalunion.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+573,TandemPlus,"test, prod","tandemplus.stg.umn.edu, tandemplus.dev.umn.edu, tandemplus.dl9.umn.edu","prest211, sisom008",tandemplus.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+591,The Many Faces of Reproducibility,"dev, test, prod","reproducibility.dev.umn.edu, reproducibility.stg.umn.edu, www.reproducibility.umn.edu",aclove,reproducibility.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+521,The Minnesota Poll: Public Opinion Research,prod,"mnpoll.umn.edu, mnpoll.dev.umn.edu, mnpoll.stg.umn.edu",grann049,mnpoll.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+567,UMN Drumline,"dev, test, prod","drumline.stg.umn.edu, drumline.dev.umn.edu, drumline.dl9.umn.edu, drumline.umn.edu",limax003,drumline.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+528,UMN GooseChase,prod,"umngoosechase.dev.umn.edu, umngoosechase.stg.umn.edu",wzeitz,umngoosechase.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+579,UMN Racial Justice Resources,prod,"umnrjr.dev.umn.edu, umnrjr.stg.umn.edu",pikex063,umnrjr.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+539,Wearables Research Collaboratory,"test, prod","wrcollab.umn.edu, etrc.stg.umn.edu, etrc.dev.umn.edu, etrc.dl9.umn.edu",ahduin,etrc.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+529,Woodward Lab,prod,"woodwardlab-psych.dev.umn.edu, woodwardlab-psych.stg.umn.edu",smoeller,woodwardlab.psych.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+547,WRIT 3671 / EHI - Green Guys,"test, prod","ehi-gg.stg.umn.edu, ehi-gg.dev.umn.edu, ehi-gg.dl9.umn.edu",lapey002,ehi-gg.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+549,WRIT 3671 / EHI - VR Gals,"test, prod","ehi-vrg.stg.umn.edu, ehi-vrg.dev.umn.edu, ehi-vrg.dl9.umn.edu",lapey002,ehi-vrg.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+562,writing.umn.edu,prod,"writing.dev.umn.edu, writing.stg.umn.edu, writing.dl9.umn.edu",jkt,writing.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+565,XYZ Lab,"dev, test, prod","xyzlab.stg.umn.edu, xyzlab.dev.umn.edu, xyzlab.dl9.umn.edu",schwa966,xyzlab.umn.edu,CLA - College of Liberal Arts,None,False,,True,Drupal
+625,Yoga Research,"test, prod","yoga.stg.umn.edu, yoga.dev.umn.edu, yoga.dl8.umn.edu","sweet006, kin",yoga.umn.edu,CLA - College of Liberal Arts,Moved from CLA - PSYCH - Psychology on 2025-05-15,False,,True,Drupal
+1644,Ziyue Zhu,"test, prod","zhux0502.stg.umn.edu, zhux0502.dev.umn.edu, zhux0502.dl9.umn.edu",zhux0502,zhux0502.umn.edu,CLA - College of Liberal Arts,Moved from Statistics School of (10991) on 2025-05-15,False,,True,Drupal

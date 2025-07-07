@@ -1,0 +1,6 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1547,Coaching Skills Training Program,"dev, test, prod","coachingskills.dev.umn.edu, coachingskills.stg.umn.edu, cstp.umn.edu","meyer150, lang0925",coachingskills.umn.edu,OUE - Office of Undergraduate Education,None,False,,True,Drupal
+1550,Just Education,prod,"justeducation.dev.umn.edu, justeducation.stg.unumn.edu","meyer150, lang0925",justeducation.umn.edu,OUE - Office of Undergraduate Education,None,False,,True,Drupal
+1541,Office of National and International Scholarships,"dev, test, prod","onis.dev.umn.edu, onis.stg.umn.edu","aemig, swart113, meyer150, lang0925",onis.umn.edu,OUE - Office of Undergraduate Education,None,False,,True,Drupal
+1552,Tour Guides,"dev, test, prod","tourguide.dev.umn.edu, tourguide.stg.umn.edu, tourguide.umn.edu, www.tourguide.umn.edu","wals0214, meyer150, lang0925",tourguide.umn.edu,OUE - Office of Undergraduate Education,None,False,,True,Drupal
+1651,Undergraduate Academic Advising,"dev, test, prod","advisor.dev.umn.edu, advisor.stg.umn.edu, advisor.umn.edu, www.advisor.umn.edu, advisors.umn.edu, www.advisors.umn.edu, adviser.umn.edu, www.adviser.umn.edu","meyer150, lang0925",advisor.umn.edu,OUE - Office of Undergraduate Education,Moved from Student Success Undergrad Ed on 2025-05-15,False,,True,Drupal

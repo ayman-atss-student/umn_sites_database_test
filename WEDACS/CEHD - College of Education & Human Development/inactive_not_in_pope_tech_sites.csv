@@ -1,0 +1,6 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+234,CEHD Site Tracker,"dev, test","cehd-sites.dev.umn.edu, cehd-sites.stg.umn.edu","jbehr, turg0018",cehd-sites.umn.edu,CEHD - College of Education & Human Development,None,False,,False,Drupal
+250,CEHD Web Project,"dev, test","web-project-cehd.dev.umn.edu, web-project-cehd.stg.umn.edu","jbehr, turg0018",web-project.cehd.umn.edu,CEHD - College of Education & Human Development,None,False,,False,Drupal
+267,Jonathan Sweet Staff Website,dev,"sweet006.dev.umn.edu, sweet006.stg.umn.edu",sweet006,sweet006.umn.edu,CEHD - College of Education & Human Development,None,False,,False,Drupal
+257,lt-d8.umn.edu,"dev, test, prod","lt-d8.dev.umn.edu, lt-d8.stg.umn.edu, learningtechnologies.umn.edu, lt.umn.edu, www.lt.umn.edu","shui0003, jeff, jbartucz, valde200, jbehr, turg0018, scharber",lt-d8.umn.edu,CEHD - College of Education & Human Development,None,False,,False,Drupal
+245,University of Minnesota Lab School,"test, prod","newlabschool.stg.umn.edu, newlabschool.dev.umn.edu, newlabschool.dl9.umn.edu",jeff,newlabschool.umn.edu,CEHD - College of Education & Human Development,None,False,,False,Drupal

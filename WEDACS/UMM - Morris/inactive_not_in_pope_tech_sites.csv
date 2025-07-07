@@ -1,0 +1,2 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1816,Morris Temp Dev Site,"dev, test","morris-d9-temp.dev.umn.edu, morris-d9-temp.stg.umn.edu","dtadege, nels2371, matt, thom7978, ehunter, ferna692, kristinw, pbhamidi, peake035, batchiso",morris-d9-temp.umn.edu,UMM - Morris,None,False,,False,Drupal

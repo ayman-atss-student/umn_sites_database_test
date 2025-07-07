@@ -1,0 +1,13 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+278,Agronomy Intranet,prod,"agronomyintranet-cfans.dev.umn.edu, agronomyintranet-cfans.stg.umn.edu",lamxx025,agronomyintranet.cfans.umn.edu,"CFANS - Food, Ag, & Natural Resource Sci",None,False,,False,Drupal
+330,Biofuels Coproducts,prod,"biofuelscoproducts.stg.umn.edu, biofuelscoproducts.dev.umn.edu, biofuelscoproducts.dl9.umn.edu, www.biofuelscoproducts.umn.edu",lamxx025,biofuelscoproducts.umn.edu,"CFANS - Food, Ag, & Natural Resource Sci",None,False,,False,Drupal
+341,Center for Forest Ecology,prod,"cffe-cfans.dev.umn.edu, cffe-cfans.stg.umn.edu, cffe-cfans.dl9.umn.edu, www.cffe.cfans.umn.edu",lamxx025,cffe.cfans.umn.edu,"CFANS - Food, Ag, & Natural Resource Sci",None,False,,False,Drupal
+458,CFANS Alumni Global Learning Adventure,"test, prod","agla.stg.umn.edu, agla.dl8.umn.edu, www.agla.cfans.umn.edu, agla.cfans.umn.edu",lamxx025,agla.umn.edu,"CFANS - Food, Ag, & Natural Resource Sci",None,False,,False,Drupal
+485,CFANS Clone,"dev, test, prod","cfansclone.dev.umn.edu, cfansclone.stg.umn.edu",lamxx025,cfansclone.umn.edu,"CFANS - Food, Ag, & Natural Resource Sci",None,False,,False,Drupal
+495,CFANS Training,dev,"training.cfans.umn.edu, training-cfans.dev.umn.edu, training-cfans.stg.umn.edu",lamxx025,training.cfans.umn.edu,"CFANS - Food, Ag, & Natural Resource Sci",None,False,,False,Drupal
+273,CFANS websites,prod,"websites-cfans.dev.umn.edu, websites-cfans.stg.umn.edu",lamxx025,websites.cfans.umn.edu,"CFANS - Food, Ag, & Natural Resource Sci",None,False,,False,Drupal
+490,Forest Ecosystem Health @ UMN,"test, prod","health.dl8.umn.edu, health.dl8.stg.umn.edu, health.dl8.dev.umn.edu, health.forestry.umn.edu",lamxx025,health.forestry.umn.edu,"CFANS - Food, Ag, & Natural Resource Sci",None,False,,False,Drupal
+284,Forestry intranet,prod,"intranet-forestry.dev.umn.edu, intranet-forestry.stg.umn.edu","guerber, lamxx025",intranet.forestry.umn.edu,"CFANS - Food, Ag, & Natural Resource Sci",None,False,,False,Drupal
+277,LivestockEnvEng,prod,"livestockenveng-bbe.dev.umn.edu, livestockenveng-bbe.stg.umn.edu",lamxx025,livestockenveng.bbe.umn.edu,"CFANS - Food, Ag, & Natural Resource Sci",None,False,,False,Drupal
+489,Minnesota Wood Innovation Team,"test, prod","woodinnovation.dl8.umn.edu, woodinnovation.dev.umn.edu, woodinnovation.stg.umn.edu",lamxx025,woodinnovation.umn.edu,"CFANS - Food, Ag, & Natural Resource Sci",None,False,,False,Drupal
+292,UlrikeTschirner,prod,"ulriketschirner-cfans.dev.umn.edu, ulriketschirner-cfans.stg.umn.edu","tschi007, lamxx025",ulriketschirner.cfans.umn.edu,"CFANS - Food, Ag, & Natural Resource Sci",None,False,,False,Drupal

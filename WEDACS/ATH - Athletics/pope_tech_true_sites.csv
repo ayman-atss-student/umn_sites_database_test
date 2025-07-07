@@ -1,0 +1,2 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+139,Gopher E-Sports,prod,"gopheresports.dev.umn.edu, gopheresports.stg.umn.edu",goon,gopheresports.umn.edu,ATH - Athletics,None,True,,True,Drupal

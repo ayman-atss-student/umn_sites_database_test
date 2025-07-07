@@ -1,0 +1,54 @@
+wedac_contacts.gsheet
+AAP - VP of Academic Affairs_Provost
+The Graduate School
+UMM - Morris
+UMF - University of MN Foundation
+UMC - Crookston
+OVPR - Office of Vice President for Research
+UMR - Rochester
+UMD - Duluth
+SPH - School of Public Health
+University Ticketing Services
+SoN - School of Nursing
+OSA - Office of Student Affairs
+UMRA - Retireees Association
+University of Minnesota Alumni Association
+OUE - Office of Undergraduate Education
+UFIN - University Finance
+Vetmed - Veterinarian Medicine
+US - University Services
+UR - University Relations (URel)
+OIC - Office of Institutional Compliance
+OED - Office for Equity & Diversity
+OGC - Office of the General Counsel
+NMA - Northrop Memorial
+LIB - Libraries
+LAW
+OHR - Office of Human Resources
+MyU
+NROTC
+HHH - Humphrey School of Public Affairs
+Office of Admissions
+MED - Medical School
+OIT - Office of Information Technology
+HRL - Housing & Residential Life
+CEHD - College of Education & Human Development
+CoP - College of Pharmacy
+Health Sciences Administration
+Government and Community Relations
+CFANS - Food, Ag, & Natural Resource Sci
+DENT - Dentistry
+EXT - Extension
+CSOM - Carlson School of Management
+GPS Alliance
+CSE - College of Science & Engineering
+CLA - College of Liberal Arts
+AUXS - Auxiliary Services
+Bell Museum
+AHC - Academic Health Center
+ASR - Academic Support Resources
+ATH - Athletics
+CBS - College of Biological Sciences
+CDES - College of Design
+CCAPS - Continuing and Professional Studies
+list of folders

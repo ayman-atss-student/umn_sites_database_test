@@ -1,0 +1,30 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1253,3D Printing & Imaging Lab,prod,"3dprinting.dev.umn.edu, 3dprinting.stg.umn.edu",comis010,3dprinting.umn.edu,MED - Medical School,None,False,,False,Drupal
+1167,ACTIV-6 NW,prod,"activ6-nw.dev.umn.edu, activ6-nw.stg.umn.edu",adangol,activ6-nw.umn.edu,MED - Medical School,None,False,,False,Drupal
+1331,Addictome,prod,"addictome.dev.umn.edu, addictome.stg.umn.edu",holmb178,addictome.umn.edu,MED - Medical School,None,False,,False,Drupal
+1312,APAMSA UMN,prod,"apamsa.dev.umn.edu, apamsa.stg.umn.edu",muth0011,apamsa.umn.edu,MED - Medical School,None,False,,False,Drupal
+1305,Artistic Antidote for a Pandemic,prod,"artistic.dev.umn.edu, artistic.stg.umn.edu",adangol,artistic.umn.edu,MED - Medical School,None,False,,False,Drupal
+1229,Ataxia Center,prod,"ataxiacenter.dev.umn.edu, ataxiacenter.stg.umn.edu, www.ataxiacenter.umn.edu, ataxiacenter.dl9.umn.edu","adangol, hans5471, neuro",ataxiacenter.umn.edu,MED - Medical School,None,False,,False,Drupal
+1188,Campo Lab,prod,"campolab.dev.umn.edu, campolab.stg.umn.edu",mcampo,campolab.umn.edu,MED - Medical School,None,False,,False,Drupal
+1150,Center for Healthy Youth Development,prod,"hyd.prd.umn.edu, hyd.dev.umn.edu, hyd.stg.umn.edu, hyd.umn.edu, chyd.prd.umn.edu, chyd.umn.edu, prc.umn.edu","baum0272, adangol",hyd.umn.edu,MED - Medical School,None,False,,False,Drupal
+1393,Cha Lab,"test, prod","cha-lab.dev.umn.edu, cha-lab.stg.umn.edu",ycha,cha-lab.umn.edu,MED - Medical School,Moved from NEUR on 2025-05-15,False,,False,Drupal
+1341,Chan Laboratory,prod,chan.dev.umn.edu,"buczy003, sschan",chan.umn.edu,MED - Medical School,None,False,,False,Drupal
+1402,CompNeuro,prod,"compneuro.umn.edu, neuroeconomics.umn.edu",redish,compneuro.umn.edu,MED - Medical School,Moved from NSCI Neuroscience Admin (11918) on 2025-05-15,False,,False,Drupal
+1371,Converging Approaches to Neurodevelopment Lab,"dev, test, prod","canlab.dl.umn.edu, canlab.stg.umn.edu, canlab.dev.umn.edu, canlab.dl9.umn.edu, find.umn.edu",cconelea,canlab.umn.edu,MED - Medical School,Moved from MED - PSYCH - Psychiatry on 2025-05-15,False,,False,Drupal
+1329,COVEX Mask Comparison Study,prod,"covexmask.dev.umn.edu, covexmask.stg.umn.edu",germo004,covexmask.umn.edu,MED - Medical School,None,False,,False,Drupal
+1335,COVID-19: Evidence Based Medicine,prod,"covidebm.dl8.umn.edu, covidebm.dl8.dev.umn.edu",adangol,covidebm.umn.edu,MED - Medical School,None,False,,False,Drupal
+1364,CPOMResearch,prod,"cpomresearch.dev.umn.edu, cpomresearch.stg.umn.edu",jens0034,cpomresearch.umn.edu,MED - Medical School,Moved from MED - PEDS - Pediatric on 2025-05-15,False,,False,Drupal
+1314,Davenport Lab,prod,"davlab.stg.umn.edu, davlab.dev.umn.edu",gammo025,davlab.umn.edu,MED - Medical School,None,False,,False,Drupal
+1315,Dementia Caregiver Mastery Using American Indian Cultural Practices,prod,"ai-caregiver-mastery.dev.umn.edu, ai-caregiver-mastery.stg.umn.edu",jplewis,ai-caregiver-mastery.umn.edu,MED - Medical School,None,False,,False,Drupal
+1149,DOMHub,prod,"domhub.dev.umn.edu, domhub.stg.umn.edu","sporter, adangol",domhub.umn.edu,MED - Medical School,None,False,,False,Drupal
+1255,Drupal Lite Standard Template,"dev, test, prod","medlabs.dl.umn.edu, medlabs.stg.umn.edu, medlabs.dev.umn.edu, medlabs.dl9.umn.edu",adangol,medlabs.umn.edu,MED - Medical School,None,False,,False,Drupal
+1211,Infectious Disease and International Medicine Research Opportunities,prod,"idim-research-opp.dev.umn.edu, idim-research-opp.stg.umn.edu, idim-research.umn.edu",jeffy011,idim-research-opp.umn.edu,MED - Medical School,None,False,,False,Drupal
+1346,Med Drupal Lite 8,prod,"med.dl8.umn.edu, med-dl8.dev.umn.edu, msfa.umn.edu",adangol,med.dl8.umn.edu,MED - Medical School,None,False,,False,Drupal
+1200,Medical School Media Mentions,"dev, prod","mmm.dev.umn.edu, mmm.stg.umn.edu",adangol,mmm.umn.edu,MED - Medical School,None,False,,False,Drupal
+1334,MN CHIP,prod,"mnchip.dev.umn.edu, mnchip.stg.umn.edu",hayde138,mnchip.umn.edu,MED - Medical School,None,False,,False,Drupal
+1151,NEAT-O Research Study,prod,"neato.dev.umn.edu, neato.stg.umn.edu","adangol, mark0675",neato.umn.edu,MED - Medical School,None,False,,False,Drupal
+1309,Pharmacology Graduate Student Organization,"dev, test, prod","pgso.stg.umn.edu, pgso.dev.umn.edu, pgso.dl9.umn.edu, pgso.umn.edu",maju0014,pgso.umn.edu,MED - Medical School,None,False,,False,Drupal
+1333,Rehab Lab,"test, prod","rehablab.dev.umn.edu, rehablab.stg.umn.edu",adangol,rehablab.umn.edu,MED - Medical School,None,False,,False,Drupal
+1332,Rivera Mulia Lab,prod,"rivera-mulialab.dev.umn.edu, rivera-mulialab.stg.umn.edu",riveramj,rivera-mulialab.umn.edu,MED - Medical School,None,False,,False,Drupal
+1261,Saydam Lab,prod,"saydam-lab.dev.umn.edu, saydam-lab.stg.umn.edu","camer308, osaydam",saydam-lab.umn.edu,MED - Medical School,None,False,,False,Drupal
+1378,USIG - Undergraduate Surgery Interest Group,prod,usig.umn.edu,harm0031,usig.umn.edu,MED - Medical School,Moved from MED - SURG (Surgery) on 2025-05-15,False,,False,Drupal

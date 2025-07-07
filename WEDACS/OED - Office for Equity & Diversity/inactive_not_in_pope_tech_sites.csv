@@ -1,0 +1,3 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1416,OED Intranet,"dev, test, prod","oedintranet.stg.umn.edu, oedintranet.dev.umn.edu, oedintranet.dl8.umn.edu, oedintranet.umn.edu","lisamars, incex011, angus025, dougl361, dougl330",oedintranet.umn.edu,OED - Office for Equity & Diversity,None,False,,False,Drupal
+1412,OED VP Candidate Search,prod,"oedcandidates.dev.umn.edu, oedcandidates.stg.umn.edu",lisamars,oedcandidates.umn.edu,OED - Office for Equity & Diversity,None,False,,False,Drupal

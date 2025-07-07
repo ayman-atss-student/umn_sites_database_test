@@ -1,0 +1,25 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+96,Association of Multicultural Scientists,"test, prod","ams.stg.umn.edu, ams.dev.umn.edu, ams.dl9.umn.edu","good0546, mcca1048",ams.umn.edu,AHC - Academic Health Center,None,False,,True,Drupal
+103,Bierle Lab,"test, prod","bierle.stg.umn.edu, bierle.dev.umn.edu, bierle.dl9.umn.edu",cjbierle,bierle.umn.edu,AHC - Academic Health Center,None,False,,True,Drupal
+92,Breast Oncology – Life after Diagnosis (BOLD) Cohort Study,"test, prod","bold.stg.umn.edu, bold.dev.umn.edu, bold.dl9.umn.edu",blaes004,bold.umn.edu,AHC - Academic Health Center,None,False,,True,Drupal
+88,CMRR Research,"test, prod","research-cmrr.dev.umn.edu, research-cmrr.stg.umn.edu",csoria,research.cmrr.umn.edu,AHC - Academic Health Center,None,False,,True,Drupal
+107,COMPASS,prod,"compass.dev.umn.edu, compass.stg.umn.edu",kenny048,compass.umn.edu,AHC - Academic Health Center,None,False,,True,Drupal
+101,"Consortium on One Medicine, One Science","dev, test, prod","comos.stg.umn.edu, comos.dev.umn.edu, comos.dl9.umn.edu",keauxier,comos.umn.edu,AHC - Academic Health Center,None,False,,True,Drupal
+90,Fetal Alcohol Spectrum Disorders Research,"dev, test, prod","fasd.stg.umn.edu, fasd.dev.umn.edu, fasd.dl9.umn.edu","ernst260, antho248",fasd.umn.edu,AHC - Academic Health Center,None,False,,True,Drupal
+120,Ling Li Lab,prod,li-lab.umn.edu,"dlv, palap005",li-lab.umn.edu,AHC - Academic Health Center,None,False,,True,Drupal
+104,Masopust & Vezys Laboratory,"dev, test, prod","masopustvezyslabs.stg.umn.edu, masopustvezyslabs.dev.umn.edu, masopustvezyslabs.dl9.umn.edu","conem003, vvezys",masopustvezyslabs.umn.edu,AHC - Academic Health Center,None,False,,True,Drupal
+102,Medical Student Council,"test, prod","medstudentcouncil.stg.umn.edu, medstudentcouncil.dev.umn.edu, medstudentcouncil.dl9.umn.edu, medstudentcouncil.umn.edu","doeng005, gale0061, adangol",medstudentcouncil.umn.edu,AHC - Academic Health Center,None,False,,True,Drupal
+89,Minnesota Precision Medicine Collaborative,"test, prod","mpmc.stg.umn.edu, mpmc.dev.umn.edu, mpmc.dl9.umn.edu","dlv, mcgo0064",mpmc.umn.edu,AHC - Academic Health Center,None,False,,True,Drupal
+86,MnDRIVE DBS Core,"test, prod","mndrivedbscore.dev.umn.edu, mndrivedbscore.stg.umn.edu, mndrivedbscore.umn.edu, dbs.umn.edu",thom8868,mndrivedbscore.umn.edu,AHC - Academic Health Center,None,False,,True,Drupal
+106,National Tribal Tobacco Conference,prod,"nttc.dev.umn.edu, nttc.stg.umn.edu",dlv,nttc.umn.edu,AHC - Academic Health Center,None,False,,True,Drupal
+95,neuroscience,"test, prod","www.neuroscience.umn.edu, neuroscience-d9.stg.umn.edu, neuroscience-d9.dev.umn.edu, neuroscience.dl9.umn.edu, neuroscience.umn.edu",paton,neuroscience.umn.edu,AHC - Academic Health Center,None,False,,True,Drupal
+119,P4P Update,prod,"p4presearch.umn.edu, p4pupdate.umn.edu","hilli076, sati0003, conwa277",p4pupdate.umn.edu,AHC - Academic Health Center,None,False,,True,Drupal
+94,Potter Lab,"dev, test, prod","potterlab.stg.umn.edu, potterlab.dev.umn.edu, potterlab.dl9.umn.edu",dapotter,potterlab.umn.edu,AHC - Academic Health Center,None,False,,True,Drupal
+97,Schallmo Lab,"dev, test, prod","schallmolab.stg.umn.edu, schallmolab.dev.umn.edu, schallmolab.dl9.umn.edu","kmac, schal110",schallmolab.umn.edu,AHC - Academic Health Center,None,False,,True,Drupal
+105,Steven Shen's Lab,"dev, prod","shen.dev.umn.edu, shen.stg.umn.edu","nanda072, shens",shen.umn.edu,AHC - Academic Health Center,None,False,,True,Drupal
+109,Subree Lab,"test, prod","subreelab.stg.umn.edu, subreelab.dev.umn.edu, subreelab.dl8.umn.edu",subree,subreelab.umn.edu,AHC - Academic Health Center,None,False,,True,Drupal
+99,The Chemical Biology Initiative,"test, prod","www.chembio.umn.edu, chembio.stg.umn.edu, chembio.dev.umn.edu, chembio.dl9.umn.edu",henn0305,chembio.umn.edu,AHC - Academic Health Center,None,False,,True,Drupal
+84,The Gunlicks-Stoessel Lab,prod,"gunlicks-stoessel-lab.dev.umn.edu, gunlicks-stoessel-lab.stg.umn.edu",beckl118,gunlicks-stoessel-lab.umn.edu,AHC - Academic Health Center,None,False,,True,Drupal
+112,The William R. Kennedy Lab,"dev, test, prod","kennedylab.dl8.umn.edu, kennedylab.stg.umn.edu, kennedylab.dev.umn.edu",camil015,kennedylab.med.umn.edu,AHC - Academic Health Center,None,False,,True,Drupal
+93,Udall Center of Excellence in Parkinson's Disease Research,"test, prod","udall.stg.umn.edu, udall.dev.umn.edu, udall.dl9.umn.edu",hans5471,udall.umn.edu,AHC - Academic Health Center,None,False,,True,Drupal
+98,Zhang Research Group,"test, prod","ruizhang.stg.umn.edu, ruizhang.dev.umn.edu, ruizhang.dl9.umn.edu",zhan1386,ruizhang.umn.edu,AHC - Academic Health Center,None,False,,True,Drupal

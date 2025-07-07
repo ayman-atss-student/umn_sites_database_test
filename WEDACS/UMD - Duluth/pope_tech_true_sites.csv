@@ -1,0 +1,96 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1747,About UMD,"dev, test, prod","about-d.dev.umn.edu, about-d.stg.umn.edu, about.d.umn.edu","batchiso, sbradt, amanteuf",about.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1757,Academic Affairs,prod,"evcaa-d.dev.umn.edu, evcaa-d.stg.umn.edu","batchiso, sbradt, amanteuf",evcaa.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1750,academic writing and learning center,prod,"academic-writing-and-learning-center-d.dev.umn.edu, academic-writing-and-learning-center-d.stg.umn.edu, awlc.d.umn.edu, academic-writing-and-learning-center.d.umn.edu","batchiso, sbradt, amanteuf",academic-writing-and-learning-center.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1704,Academics Duluth,"dev, test, prod","academics-d.dev.umn.edu, academics-d.stg.umn.edu, www.academics.d.umn.edu","batchiso, sbradt, amanteuf, dtadege, nels2371, ehunter, ferna692, kristinw, pbhamidi, peake035, matt",academics.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1740,Accessible Academic Technology Team,prod,"aatt-d.dev.umn.edu, aatt-d.stg.umn.edu","batchiso, sbradt, amanteuf",aatt.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1789,Admissions,"dev, prod","admissions-d.dev.umn.edu, admissions-d.stg.umn.edu, admissions-d.prd.umn.edu, admissions.d.umn.edu","batchiso, sbradt, amanteuf, dtadege, nels2371, ehunter, ferna692, kristinw, pbhamidi, peake035, matt",admissions.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1771,Air Force Reserve Officer Training Corps,prod,"afrotc-d.dev.umn.edu, afrotc-d.stg.umn.edu","batchiso, sbradt, amanteuf",afrotc.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1720,alumni relations,prod,"alumni-relations-d.dev.umn.edu, alumni-relations-d.stg.umn.edu, alumni.d.umn.edu","batchiso, sbradt, amanteuf",alumni-relations.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1745,"Assessment, Improvement and Review",prod,"assessment-d.dev.umn.edu, assessment-d.stg.umn.edu","batchiso, sbradt, amanteuf",assessment.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1778,Boulder Lake Environmental Learning Center,prod,"boulderlake.dev.umn.edu, boulderlake.stg.umn.edu, boulderlake.org, www.boulderlake.org","batchiso, sbradt, amanteuf",boulderlake.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1758,Budget & Analysis,prod,"budget-d.dev.umn.edu, budget-d.stg.umn.edu","batchiso, sbradt, amanteuf",budget.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1749,bulldog resource center,prod,"bulldog-resource-center-d.dev.umn.edu, bulldog-resource-center-d.stg.umn.edu","batchiso, sbradt, amanteuf",bulldog-resource-center.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1706,campus-life,"dev, test, prod","campus-life-d.dev.umn.edu, campus-life-d.stg.umn.edu","batchiso, sbradt, amanteuf, dtadege, nels2371, ehunter, ferna692, kristinw, pbhamidi, peake035, matt",campus-life.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1728,campus climate,prod,"campus-climate-d.dev.umn.edu, campus-climate-d.stg.umn.edu","batchiso, sbradt, amanteuf",campus-climate.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1756,Career Center,prod,"career-d.dev.umn.edu, career-d.stg.umn.edu","batchiso, sbradt, amanteuf",career.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1715,Center for Restorative Justice and Peacemaking,prod,"rjp-d.dev.umn.edu, rjp-d.stg.umn.edu, rjp-d.dl8.umn.edu, rjp.umn.edu","batchiso, sbradt, amanteuf",rjp.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1765,chancellor's office,prod,"chancellor-d.dev.umn.edu, chancellor-d.stg.umn.edu","batchiso, sbradt, amanteuf",chancellor.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1719,Collaborative Online International Learning,prod,"coil-d.dev.umn.edu, coil-d.stg.umn.edu","batchiso, sbradt, amanteuf",coil.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1727,college in the schools,prod,"cits-d.dev.umn.edu, cits-d.stg.umn.edu","batchiso, sbradt, amanteuf",cits.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1779,"College of Arts, Humanities, and Social Sciences","dev, test, prod","cla-d-d8.dev.umn.edu, cla-d-d8.stg.umn.edu, cla-d.prd.umn.edu, sfa.d.umn.edu, cahss.d.umn.edu","batchiso, amanteuf, sbradt",cla.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1773,College of Education and Human Service Professions,"dev, test, prod","cehsp-d.dev.umn.edu, cehsp-d.stg.umn.edu, cehsp-d.prd.umn.edu","batchiso, amanteuf, sbradt",cehsp.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1726,Commencement,prod,"commencement-d.dev.umn.edu, commencement-d.stg.umn.edu, commencement.d.umn.edu","batchiso, sbradt, amanteuf",commencement.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1772,Commission on Disabilities,prod,"commission-disabilities-d.dev.umn.edu, commission-disabilities-d.stg.umn.edu","batchiso, sbradt, amanteuf",commission-disabilities.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1775,"Commission on Equity, Race, & Ethnicity",prod,"cere.d.umn.edu, cere-d.dev.umn.edu, cere-d.stg.umn.edu","batchiso, sbradt, amanteuf",cere.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1725,Commission on Women,prod,"cfw-d.dev.umn.edu, cfw-d.stg.umn.edu, cfw.d.umn.edu","batchiso, sbradt, amanteuf",cfw.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1697,Commission QT,prod,"commission-qt-d.dev.umn.edu, commission-qt-d.stg.umn.edu","batchiso, amanteuf",commission-qt.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1759,Controller's office,prod,"controller-d.dev.umn.edu, controller-d.stg.umn.edu","batchiso, sbradt, amanteuf",controller.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1730,Covid Stories,prod,"covidstories-d.dev.umn.edu, covidstories-d.stg.umn.edu","batchiso, sbradt, amanteuf",covidstories.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1754,development office,prod,"give-d.dev.umn.edu, give-d.stg.umn.edu","batchiso, sbradt, amanteuf",give.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1737,dining services,prod,"dining-services-d.dev.umn.edu, dining-services-d.stg.umn.edu","batchiso, sbradt, amanteuf",dining-services.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1735,Disability Resources,prod,"disability-resources-d.dev.umn.edu, disability-resources-d.stg.umn.edu","batchiso, sbradt, amanteuf",disability-resources.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1705,Emergency,,"emergency-d.dev.umn.edu, emergency-d.stg.umn.edu","batchiso, sbradt, amanteuf",emergency.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1707,Emergency Information for Duluth Campus,prod,"itss-5-d.dev.umn.edu, itss-5-d.stg.umn.edu, emergency.d.umn.edu","batchiso, sbradt, amanteuf",itss-5.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1718,employee health and wellbeing center,prod,"employee-health-wellbeing-center-d.dev.umn.edu, employee-health-wellbeing-center-d.stg.umn.edu","batchiso, sbradt, amanteuf",employee-health-wellbeing-center.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1748,enrollment management,prod,"enrollment-management-d.dev.umn.edu, enrollment-management-d.stg.umn.edu","batchiso, sbradt, amanteuf",enrollment-management.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1734,Environmental Health & Safety Office,prod,"ehso-d.dev.umn.edu, ehso-d.stg.umn.edu","batchiso, sbradt, amanteuf",ehso.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1712,Facilities Management,prod,"fm-d.dev.umn.edu, fm-d.stg.umn.edu, fm-d.dl8.umn.edu","batchiso, sbradt, amanteuf",fm.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1767,faculty senate,prod,"facultysenate-d.dev.umn.edu, facultysenate-d.stg.umn.edu","batchiso, sbradt, amanteuf",facultysenate.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1760,Finance and Operations,prod,"vcfinance-d.dev.umn.edu, vcfinance-d.stg.umn.edu","batchiso, sbradt, amanteuf",vcfinance.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1699,Financial Wellness,prod,"financial-wellness.dev.umn.edu, financial-wellness.stg.umn.edu","amanteuf, batchiso, sbradt",financial-wellness.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1787,Fresh Leaf Catering,prod,"freshleafcatering.dev.umn.edu, freshleafcatering.d.umn.edu","batchiso, sbradt, amanteuf",freshleafcatering.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1701,Graduate School Duluth,prod,"graduate-school-d.dev.umn.edu, graduate-school-d.stg.umn.edu","amanteuf, batchiso, sbradt",graduate-school.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1702,Great Lakes Worm Watch,prod,"wormwatch-d.dev.umn.edu, wormwatch-d.stg.umn.edu, wormwatch.org, www.wormwatch.org","batchiso, sbradt, amanteuf, jmreed",wormwatch.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1751,health services,"test, prod","health-services-d.dev.umn.edu, health-services-d.stg.umn.edu","batchiso, sbradt, amanteuf",health-services.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1786,Heikal Laboratory,prod,heikal-lab-d.dev.umn.edu,"batchiso, sbradt, amanteuf",heikal-lab.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1736,Homecoming,prod,"homecoming-d.dev.umn.edu, homecoming-d.stg.umn.edu","batchiso, sbradt, amanteuf",homecoming.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1742,Housing & Residence Life,prod,"housing-d.dev.umn.edu, housing-d.stg.umn.edu","batchiso, sbradt, amanteuf",housing.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1721,Human Resources,prod,"hr.d.umn.edu, hr-d.dev.umn.edu, hr-d.stg.umn.edu","batchiso, sbradt, amanteuf",summer-session.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1790,Information Technology Systems and Services,"dev, test, prod","itss-d.dev.umn.edu, itss-d.stg.umn.edu, www.itss.d.umn.edu","batchiso, sbradt, amanteuf",itss.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1698,InnovaTree,prod,"innovatree.dev.umn.edu, innovatree.stg.umn.edu","amanteuf, batchiso",innovatree.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1738,Institute on the Environment,prod,"ione-d.dev.umn.edu, ione-d.stg.umn.edu","batchiso, sbradt, amanteuf",ione.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1762,international programs and services,prod,"ips-d.dev.umn.edu, ips-d.stg.umn.edu","batchiso, sbradt, amanteuf",ips.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1761,international student services,prod,"iss-d.dev.umn.edu, iss-d.stg.umn.edu","batchiso, sbradt, amanteuf",iss.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1746,Internationalization Initiative,prod,"intz-d.dev.umn.edu, intz-d.stg.umn.edu, intz.d.umn.edu","batchiso, sbradt, amanteuf",intz.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1782,Kathryn A. Martin Library,"dev, test, prod","lib-d-d8.dev.umn.edu, lib-d-d8.stg.umn.edu, lib-d-d8.prd.umn.edu, lib.d.umn.edu","batchiso, sbradt, amanteuf",lib.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1709,Kids Count,prod,"itss-1-d.dev.umn.edu, itss-1-d.stg.umn.edu, kids-count.d.umn.edu","batchiso, sbradt, amanteuf",itss-1.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1711,Kirby Student Center,prod,"kirby-d.dev.umn.edu, kirby-d.stg.umn.edu","batchiso, sbradt, amanteuf",kirby.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1777,Labovitz School of Business and Economics,"dev, test, prod","lsbe-d.dev.umn.edu, lsbe-d.stg.umn.edu, lsbe-d.prd.umn.edu, lsbe.d.umn.edu","batchiso, sbradt, amanteuf",lsbe.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1695,Liberal Education,prod,"liberaleducation.d.umn.edu, liberaleducation-d.stg.umn.edu, liberaleducation-d.dev.umn.edu",amanteuf,liberaleducation.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1708,Mentor Program,prod,"itss-2-d.dev.umn.edu, itss-2-d.stg.umn.edu, mentor.d.umn.edu","batchiso, sbradt, amanteuf",itss-2.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1774,Minnesota Mammals,prod,"mnmammals-d.dev.umn.edu, mnmammals-d.stg.umn.edu, mnmammals.d.umn.edu","jmreed, batchiso, sbradt, amanteuf",mnmammals.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1753,natural resource research institute,"dev, test, prod","nrri-d8.dev.umn.edu, nrri-d8.stg.umn.edu, www.nrri.umn.edu, nrri.umn.edu","batchiso, amanteuf, sbradt",nrri.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1703,news,"dev, test, prod","news-d.dev.umn.edu, news-d.stg.umn.edu, news-d.prd.umn.edu, www.news.d.umn.edu","batchiso, sbradt, amanteuf, dtadege, nels2371, ehunter, ferna692, kristinw, pbhamidi, peake035, matt",news.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1733,office of diversity and inclusion,prod,"diversity-d.dev.umn.edu, diversity-d.stg.umn.edu","batchiso, sbradt, amanteuf",diversity.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1732,Office of Institutional Research,prod,"oir-d.dev.umn.edu, oir-d.stg.umn.edu","batchiso, sbradt, amanteuf",oir.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1783,Orientation,prod,orientation-d.dev.umn.edu,"batchiso, sbradt, amanteuf",orientation.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1763,passport office,prod,"passport-d.dev.umn.edu, passport-d.stg.umn.edu","batchiso, sbradt, amanteuf",passport.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1724,Police Department Duluth,"dev, prod","police-d.dev.umn.edu, police-d.stg.umn.edu","batchiso, sbradt, amanteuf",police.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1731,Post Secondary Enrollment Option,prod,"pseo-d.dev.umn.edu, pseo-d.stg.umn.edu","batchiso, sbradt, amanteuf",pseo.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1776,Print Shop,"test, prod","print-d.dev.umn.edu, print-d.stg.umn.edu","batchiso, sbradt, amanteuf",print-shop.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1752,recreational sports outdoor program,"test, prod","rsop-d.dev.umn.edu, rsop-d.stg.umn.edu, rsop-d.dl8.umn.edu, umdrsop.d.umn.edu","batchiso, sbradt, amanteuf",rsop.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1781,Research Duluth,"dev, test, prod","research-d.dev.umn.edu, research-d.stg.umn.edu","batchiso, sbradt, amanteuf, dtadege, nels2371, ehunter, ferna692, kristinw, pbhamidi, peake035, matt",research.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1723,Responding to Sexual Misconduct at UMD,"dev, prod","sexual-assault.d.umn.edu, sexual-assault-d.dev.umn.edu, sexual-assault-d.stg.umn.edu","batchiso, sbradt, amanteuf",sexual-assault.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1769,safe campus,prod,"safe-campus-d.dev.umn.edu, safe-campus-d.stg.umn.edu","batchiso, sbradt, amanteuf",safe-campus.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1785,Sea Grant,"dev, test, prod","seagrant.dev.umn.edu, seagrant.stg.umn.edu, seagrant.prd.umn.edu, www.seagrant.umn.edu, watershedgame.umn.edu, seagrant.umn.edu","batchiso, amanteuf, sbradt",seagrant.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1722,Sexuality & Gender Equity Initiatives,"dev, prod","sgei-d.dev.umn.edu, sgei-d.stg.umn.edu, sgei.d.umn.edu","batchiso, sbradt, amanteuf",sgei.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1766,shared governance,prod,"sharedgovernance-d.dev.umn.edu, sharedgovernance-d.stg.umn.edu","batchiso, sbradt, amanteuf",sharedgovernance.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1768,staff senate,prod,"staffsenate-d.dev.umn.edu, staffsenate-d.stg.umn.edu","batchiso, sbradt, amanteuf",staffsenate.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1700,Student Care Team,prod,"student-care-team-d.stg.umn.edu, student-care-team-d.dev.umn.edu","amanteuf, batchiso, sbradt",student-care-team.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1755,Student Conduct & Conflict Resolution,prod,"conduct-d.dev.umn.edu, conduct-d.stg.umn.edu","batchiso, sbradt, amanteuf",conduct.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1713,student consumer information,prod,"student-consumer-information-d.dev.umn.edu, student-consumer-information-d.stg.umn.edu","batchiso, sbradt, amanteuf",student-consumer-information.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1739,Student Government Association,prod,"sa-d.dev.umn.edu, sa-d.stg.umn.edu, sga.d.umn.edu, sa.d.umn.edu","batchiso, sbradt, amanteuf",sa.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1743,student life,prod,"student-life-d.dev.umn.edu, student-life-d.stg.umn.edu","batchiso, sbradt, amanteuf",student-life.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1716,Student Services Fee,prod,"ssf-d.dev.umn.edu, ssf-d.stg.umn.edu","batchiso, sbradt, amanteuf",ssf.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1764,study abroad,"dev, test, prod","studyabroad-d.dev.umn.edu, studyabroad-d.stg.umn.edu","batchiso, sbradt, amanteuf",studyabroad.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1780,Summer Session,prod,summer-d.dev.umn.edu,"batchiso, sbradt, amanteuf",summer.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1717,sustainability,prod,"sustainability-d.dev.umn.edu, sustainability-d.stg.umn.edu","batchiso, sbradt, amanteuf",sustainability.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1784,Swenson College of science and engineering,"dev, test, prod","scse-d.dev.umn.edu, scse-d.stg.umn.edu, scse-d.prd.umn.edu","amanteuf, batchiso, sbradt",scse.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1729,Transportation & Parking Services,prod,"transportation-parking-services-d.dev.umn.edu, transportation-parking-services-d.stg.umn.edu, tps.d.umn.edu","batchiso, sbradt, amanteuf",transportation-parking-services.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1741,tweed.d.umn.edu,"dev, test, prod","tweed-d.dev.umn.edu, tweed-d.stg.umn.edu","batchiso, sbradt, amanteuf",tweed.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1696,UMD Engage,prod,"community-engagement-d.dev.umn.edu, community-engagement-d.stg.umn.edu, umd-engage.d.umn.edu","amanteuf, batchiso",community-engagement.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1770,university for seniors,prod,"university-seniors-d.dev.umn.edu, university-seniors-d.stg.umn.edu","batchiso, sbradt, amanteuf",university-seniors.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1744,university honors,prod,"university-honors-d.dev.umn.edu, university-honors-d.dstg.umn.edu","batchiso, sbradt, amanteuf",university-honors.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1791,University Marketing and Public Relations,"oittst, dev, prod","umpr.d.umn.edu, umpr.dev.umn.edu","batchiso, sbradt, amanteuf",umpr.d.umn.edu,UMD - Duluth,None,True,,True,Drupal
+1714,Women's Resource & Action Center,prod,"wrac-d.dev.umn.edu, wrac-d.stg.umn.edu","batchiso, sbradt, amanteuf",wrac.d.umn.edu,UMD - Duluth,None,True,,True,Drupal

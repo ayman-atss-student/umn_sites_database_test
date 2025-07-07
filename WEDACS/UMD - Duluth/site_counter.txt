@@ -1,0 +1,5 @@
+UMD - Duluth Sites
+Total sites: 99
+Sites in Pope Tech: 95
+Active sites not in Pope Tech: 0
+Inactive sites not in Pope Tech: 4

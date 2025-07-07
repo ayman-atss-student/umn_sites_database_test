@@ -1,0 +1,12 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+223,Biophilic Net-Positive Design Project,"test, prod","biophilic-net-positive.dev.umn.edu, biophilic-net-positive.stg.umn.edu, biophilicdesign.umn.edu","guzow001, walla610, sheri141",biophilic-net-positive.umn.edu,CDES - College of Design,None,False,,True,Drupal
+213,Design Assist - Minnesota Design Center (MDC),"test, prod","designassist.dev.umn.edu, designassist.stg.umn.edu","hang0049, zhu00351",designassist.umn.edu,CDES - College of Design,None,False,,True,Drupal
+219,Design for Youth,prod,"designforyouth.dev.umn.edu, designforyouth.stg.umn.edu",robin003,designforyouth.umn.edu,CDES - College of Design,None,False,,True,Drupal
+221,Destination Discovery St Paul,prod,"destinationdiscovery.dev.umn.edu, destinationdiscovery.stg.umn.edu",s-yang,destinationdiscovery.umn.edu,CDES - College of Design,None,False,,True,Drupal
+218,E-Games Lab,prod,"egameslab.dev.umn.edu, egameslab.stg.umn.edu","lars7049, malini",egameslab.umn.edu,CDES - College of Design,None,False,,True,Drupal
+215,kdi.umn.edu,"dev, test","kdi.dev.umn.edu, kdi.stg.umn.edu","yuan0472, vace0008",kdi.umn.edu,CDES - College of Design,None,False,,True,Drupal
+216,Laura Musacchio,prod,"musacchio.dev.umn.edu, musacchio.stg.umn.edu",musac003,musacchio.umn.edu,CDES - College of Design,None,False,,True,Drupal
+1602,Product Design Minnesota,"test, prod","pdesmn.stg.umn.edu, pdesmn.dev.umn.edu, pdesmn.dl9.umn.edu",pdesmn,pdesmn.umn.edu,CDES - College of Design,Moved from Product Design on 2025-05-15,False,,True,Drupal
+224,Tarlov Cyst Project,prod,"tarlovcystproject.dev.umn.edu, tarlovcystproject.stg.umn.edu",tric0001,tarlovcystproject.umn.edu,CDES - College of Design,None,False,,True,Drupal
+214,The College of Design Scholar Site,"dev, test, prod","designscholar.dev.umn.edu, designscholar.stg.umn.edu","chen8732, thale, thom8963",designscholar.umn.edu,CDES - College of Design,None,False,,True,Drupal
+217,University of Minnesota Juneteenth Celebration,prod,"juneteenth.dev.umn.edu, juneteenth.stg.umn.edu",moses,juneteenth.umn.edu,CDES - College of Design,None,False,,True,Drupal

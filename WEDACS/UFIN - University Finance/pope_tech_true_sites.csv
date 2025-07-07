@@ -1,0 +1,19 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1681,Campus Maps,"dev, test, prod","campusmaps.stg.umn.edu, campusmaps.dev.umn.edu, campusmaps.prd.umn.edu, www.campusmaps.umn.edu",irsfe008,campusmaps.umn.edu,UFIN - University Finance,None,True,,True,Drupal
+1673,Controller,"test, prod","controller-dl9.dev.umn.edu, controller-dl9.stg.umn.edu, controller.dl9.umn.edu, finsys.umn.edu, www.finsys.umn.edu, www.controller.umn.edu",c-meye1,controller.umn.edu,UFIN - University Finance,None,True,,True,Drupal
+1685,Controller's Office,dev,"controller.dev.umn.edu, controller.stg.umn.edu",jfthor,controller.umn.edu,UFIN - University Finance,None,True,,True,Drupal
+1683,Enterprise Asset Management,"dev, test, prod","eam-d8.dev.umn.edu, eam-d8.stg.umn.edu, eam-d8.prd.umn.edu, www.eam.umn.edu, eam.umn.edu",irsfe008,eam.umn.edu,UFIN - University Finance,None,True,,True,Drupal
+1675,Finance,"test, prod","finance-dl9.dev.umn.edu, finance-dl9.stg.umn.edu, finance.dl9.umn.edu","c-meye1, dtadege, nels2371, ehunter, ferna692, kristinw, pbhamidi, peake035, matt, batchiso",finance.umn.edu,UFIN - University Finance,None,True,,True,Drupal
+1666,oib.umn.edu,"dev, test, prod","oib.umn.edu, oib.dev.umn.edu, oib.stg.umn.edu, oib.prd.umn.edu",c-meye1,oib.umn.edu,UFIN - University Finance,None,True,,True,Drupal
+1674,Pay,"test, prod","pay-dl9.dev.umn.edu, pay-dl9.stg.umn.edu, pay.dl9.umn.edu, www.pay.umn.edu",c-meye1,pay.umn.edu,UFIN - University Finance,None,True,,True,Drupal
+1664,PEAK Initiative,"dev, test, prod","peak.dev.umn.edu, peak.stg.umn.edu, peak-intranet.umn.edu","c-meye1, roge0002, dtadege, nels2371, ehunter, ferna692, kristinw, pbhamidi, peake035, matt, batchiso",peak.umn.edu,UFIN - University Finance,None,True,,True,Drupal
+1669,prepaid.umn.edu,prod,"prepaid.dl9.umn.edu, prepaid-dl9.dev.umn.edu, prepaid-dl9.stg.umn.edu","c-meye1, co-ecs",prepaid.umn.edu,UFIN - University Finance,None,True,,True,Drupal
+1667,purchasing.umn.edu,prod,"purchasing-dl9.dev.umn.edu, purchasing-dl9.stg.umn.edu, purchasing.dl9.umn.edu",c-meye1,purchasing.umn.edu,UFIN - University Finance,None,True,,True,Drupal
+1671,RRC,"test, prod","rrc.dev.umn.edu, rrc.stg.umn.edu, rrc-dl9.umn.edu",c-meye1,rrc.umn.edu,UFIN - University Finance,None,True,,True,Drupal
+1670,Tax,"test, prod","tax.dl9.umn.edu, tax-dl9.dev.umn.edu, tax-dl9.stg.umn.edu",c-meye1,tax.umn.edu,UFIN - University Finance,None,True,,True,Drupal
+1676,Travel,prod,"travel.dl9.umn.edu, travel.dev.umn.edu, travel.stg.umn.edu, www.travel.umn.edu",c-meye1,travel.umn.edu,UFIN - University Finance,None,True,,True,Drupal
+1682,Tririga Training,"dev, test, prod","tririgatraining.dev.umn.edu, tririgatraining.stg.umn.edu, tririgatraining.umn.edu",irsfe008,tririgatraining.umn.edu,UFIN - University Finance,None,True,,True,Drupal
+1680,U Card Morris,"dev, test, prod","ucard-morris.dev.umn.edu, ucard-morris.stg.umn.edu","irsfe008, nickm",ucard.morris.umn.edu,UFIN - University Finance,None,True,,True,Drupal
+1679,U Card Rochester,"dev, test, prod","ucard-r.dev.umn.edu, ucard-r.stg.umn.edu","irsfe008, nickm",ucard.r.umn.edu,UFIN - University Finance,None,True,,True,Drupal
+1684,University Survey & Assessment Services (USAS),"dev, test, prod","oms.dev.umn.edu, oms.stg.umn.edu, oms.prd.umn.edu, survey.umn.edu, mstp.umn.edu, usas.umn.edu, mnstatesurvey.umn.edu","usas, glove002, c-meye1",oms.umn.edu,UFIN - University Finance,None,True,,True,Drupal
+1672,uwidecontracts,"test, prod","uwidecontracts.dev.umn.edu, uwidecontracts.stg.umn.edu, uwidecontracts-dl9.umn.edu",c-meye1,uwidecontracts.umn.edu,UFIN - University Finance,None,True,,True,Drupal

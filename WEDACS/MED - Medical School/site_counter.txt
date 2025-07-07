@@ -1,0 +1,5 @@
+MED - Medical School Sites
+Total sites: 256
+Sites in Pope Tech: 6
+Active sites not in Pope Tech: 221
+Inactive sites not in Pope Tech: 29

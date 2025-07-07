@@ -1,0 +1,5 @@
+AUXS - Auxiliary Services Sites
+Total sites: 15
+Sites in Pope Tech: 9
+Active sites not in Pope Tech: 3
+Inactive sites not in Pope Tech: 3

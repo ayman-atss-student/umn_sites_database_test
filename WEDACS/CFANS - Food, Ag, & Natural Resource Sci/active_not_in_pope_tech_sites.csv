@@ -1,0 +1,9 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+457,All About Corn,"test, prod","allaboutcorn.dl8.umn.edu, www.allaboutcorn.umn.edu, allaboutcorn.stg.umn.edu",lamxx025,allaboutcorn.umn.edu,"CFANS - Food, Ag, & Natural Resource Sci",None,False,,True,Drupal
+123,Arboretum Intranet,prod,"arbintranet.dev.umn.edu, arbintranet.stg.umn.edu",crowe015,arbintranet.umn.edu,"CFANS - Food, Ag, & Natural Resource Sci",None Not active; Moved from ARB - Arboretum on 2025-05-15,False,,True,Drupal
+412,Arbweb,"dev, test","arbweb.dev.umn.edu, arbweb.stg.umn.edu",lamxx025,arbweb.umn.edu,"CFANS - Food, Ag, & Natural Resource Sci",None,False,,True,Drupal
+387,Drupal Lite CFANS,"dev, test, prod","drupallite.cfans.stg.umn.edu, drupallite.cfans.dev.umn.edu, drupallite.cfans.dl8.umn.edu, drupallite.cfans.umn.edu",lamxx025,drupallite.cfans.umn.edu,"CFANS - Food, Ag, & Natural Resource Sci",None,False,,True,Drupal
+359,Feasibility of Restoring Elk to Northeastern Minnesota,"test, prod","elk.stg.umn.edu, elk.dev.umn.edu, elk.dl9.umn.edu",walbe032,elk.umn.edu,"CFANS - Food, Ag, & Natural Resource Sci",None,False,,True,Drupal
+318,Forest Carbon in Minnesota,prod,"carbon.dev.umn.edu, carbon.stg.umn.edu",russellm,carbon.umn.edu,"CFANS - Food, Ag, & Natural Resource Sci",None,False,,True,Drupal
+423,Philip C. Hamm Lecture and Scholarship Program,"dev, test, prod","www.hammscholarship.umn.edu, hammscholarship.stg.umn.edu, hammscholarship.dev.umn.edu, hammscholarship.dl8.umn.edu",lamxx025,hammscholarship.umn.edu,"CFANS - Food, Ag, & Natural Resource Sci",None,False,,True,Drupal
+308,University of Minnesota Plant Sciences Symposium,"test, prod","plantsciencesymposium.stg.umn.edu, plantsciencesymposium.dev.umn.edu, plantsciencesymposium.dl9.umn.edu",ley00022,plantsciencesymposium.umn.edu,"CFANS - Food, Ag, & Natural Resource Sci",None,False,,True,Drupal

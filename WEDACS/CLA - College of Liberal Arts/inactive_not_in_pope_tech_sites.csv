@@ -1,0 +1,20 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+533,CLA Sandbox,"dev, test","sandbox-cla.dev.umn.edu, sandbox-cla.stg.umn.edu",simonw,sandbox.cla.umn.edu,CLA - College of Liberal Arts,None,False,,False,Drupal
+594,Commencement,"dev, test, prod","commencement.dl8.umn.edu, asecommencement.umn.edu, commencement.dev.umn.edu, commencement.stg.umn.edu",jcoffman,commencement.umn.edu,CLA - College of Liberal Arts,None,False,,False,Drupal
+566,"Film, Media, and Sound Studies","dev, test","filmmediasound-d9.dev.umn.edu, filmmediasound-d9.stg.umn.edu","marran, kamat052, simonw",filmmediasound.umn.edu,CLA - College of Liberal Arts,None,False,,False,Drupal
+545,FRIT-GNSD-HUB-INTRANET,prod,"frit-gnsd-hub-intranet.dev.umn.edu, frit-gnsd-hub-intranet.stg.umn.edu",ejshort,frit-gnsd-hub-intranet.umn.edu,CLA - College of Liberal Arts,None,False,,False,Drupal
+544,frit-intranet.umn.edu,prod,"frit-intranet.dev.umn.edu, frit-intranet.stg.umn.edu",ejshort,frit-intranet.umn.edu,CLA - College of Liberal Arts,None,False,,False,Drupal
+587,Geographic Information Science,"dev, test, prod","gis.dev.umn.edu, gis.stg.umn.edu, gis.dl8.umn.edu",manson,gis.umn.edu,CLA - College of Liberal Arts,None,False,,False,Drupal
+543,GNSD Intranet,prod,"gnsd-intranet.dev.umn.edu, gnsd-intranet.stg.umn.edu",ejshort,gnsd-intranet.umn.edu,CLA - College of Liberal Arts,None,False,,False,Drupal
+604,hellman.dl.umn.edu,prod,hellman.dl8.umn.edu,grand006,hellman.dl.umn.edu,CLA - College of Liberal Arts,None,False,,False,Drupal
+607,History of the University of Minnesota in 9 Episodes,"test, prod","hist1913.stg.umn.edu, hist1913.dev.umn.edu, hist1913.dl9.umn.edu",scrosson,hist1913.umn.edu,CLA - College of Liberal Arts,Moved from CLA - LATIS - Liberal Arts Tech Innovation Services on 2025-05-15,False,,False,Drupal
+551,LATIS Sandbox,"dev, test, prod","latis.stg.umn.edu, latis.dev.umn.edu, latis.dl9.umn.edu",dolsen,dlsandbox.latis.umn.edu,CLA - College of Liberal Arts,None,False,,False,Drupal
+611,NSF REU Site: Neuroimaging for Cognitive Neuroscience,"test, prod","neuroimagingreu.stg.umn.edu, neuroimagingreu.dev.umn.edu, neuroimagingreu.dl9.umn.edu",engel,neuroimagingreu.umn.edu,CLA - College of Liberal Arts,Moved from CLA - PSYCH - Psychology on 2025-05-15,False,,False,Drupal
+534,Ojibwe People's Dictionary,"dev, test","ojibwe.dev.umn.edu, ojibwe.stg.umn.edu",live0015,ojibwe.umn.edu,CLA - College of Liberal Arts,None,False,,False,Drupal
+635,Psychology Sandbox,prod,"sandbox.psych.dl8.umn.edu, sandbox-psych.dev.umn.edu",smoeller,sandbox.psych.umn.edu,CLA - College of Liberal Arts,Moved from CLA - PSYCH - Psychology on 2025-05-15,False,,False,Drupal
+1612,School of Statistics Intranet,"test, prod","intranet-stat.dev.umn.edu, intranet.stat.umn.edu, intranet-stat.stg.umn.edu",axel0072,intranet.stat.umn.edu,CLA - College of Liberal Arts,Moved from School of Statistics(10991) on 2025-05-15,False,,False,Drupal
+538,Staff Intranet,prod,"frit-gnsd-staff-intranet.dev.umn.edu, frit-gnsd-staff-intranet.stg.umn.edu",ejshort,frit-gnsd-staff-intranet.umn.edu,CLA - College of Liberal Arts,None,False,,False,Drupal
+628,Stellmack Stat Site,"test, prod","stellmack.stg.umn.edu, stellmack.dev.umn.edu, stellmack.dl8.umn.edu, stellmack.psych.umn.edu",smoeller,stellmack.umn.edu,CLA - College of Liberal Arts,Moved from CLA - PSYCH - Psychology on 2025-05-15,False,,False,Drupal
+572,Theatre Arts and Dance Intranet,"test, prod","intranet-theatre.stg.umn.edu, intranet-theatre.dev.umn.edu, intranet-theatre.dl9.umn.edu","volkm003, huxx0071",intranet.theatre.umn.edu,CLA - College of Liberal Arts,None,False,,False,Drupal
+550,U of M Maker Spaces,"dev, test, prod","makerspace.stg.umn.edu, makerspace.dev.umn.edu, makerspace.dl9.umn.edu",hase,makerspace.umn.edu,CLA - College of Liberal Arts,None,False,,False,Drupal
+518,UMPhil,prod,"umphil.dev.umn.edu, umphil.stg.umn.edu",grand006,umphil.umn.edu,CLA - College of Liberal Arts,None,False,,False,Drupal

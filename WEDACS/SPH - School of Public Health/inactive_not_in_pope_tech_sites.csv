@@ -1,0 +1,6 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1641,CCBR data management assets,dev,"ccbr-datmgt.dev.umn.edu, ccbr-datmgt.stg.umn.edu",colin,ccbr-datmgt.umn.edu,SPH - School of Public Health,None,False,,False,Drupal
+1632,Leadership Education and Training in Maternal and Child Health,prod,"let.dev.umn.edu, let.stg.umn.edu, www.let.umn.edu",johns260,let.umn.edu,SPH - School of Public Health,None,False,,False,Drupal
+1639,Nun Study,"dev, test, prod","nunstudy.dev.umn.edu, nunstudy.umn.edu, nunstudy.stg.umn.edu",meger001,nunstudy.umn.edu,SPH - School of Public Health,None,False,,False,Drupal
+1642,PLUS Consortium Intranet,"dev, test, prod","plusintranet.dev.umn.edu, plusintranet.stg.umn.edu, www.plusintranet.umn.edu, plusintranet.prd.umn.edu","chary, archi009, putnams",plusintranet.umn.edu,SPH - School of Public Health,None,False,,False,Drupal
+1627,SPH Branding Development,"dev, test","dl-brand-sph.dev.umn.edu, dl-brand-sph.stg.umn.edu",stan0347,dl-brand.sph.umn.edu,SPH - School of Public Health,None,False,,False,Drupal

@@ -1,0 +1,2 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1085,Health Discovery Hub,dev,"healthdiscoveryhub.dev.umn.edu, healthdiscoveryhub.stg.umn.edu",dlv,healthdiscoveryhub.umn.edu,Health Sciences Administration,None,False,,False,Drupal

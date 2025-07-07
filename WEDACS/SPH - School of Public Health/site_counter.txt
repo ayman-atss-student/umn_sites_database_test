@@ -1,0 +1,5 @@
+SPH - School of Public Health Sites
+Total sites: 23
+Sites in Pope Tech: 14
+Active sites not in Pope Tech: 4
+Inactive sites not in Pope Tech: 5

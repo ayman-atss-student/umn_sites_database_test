@@ -1,0 +1,2 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1938,Christina Ewig,"dev, test, prod","christinaewig.stg.umn.edu, christinaewig.dev.umn.edu, christinaewig.dl9.umn.edu",cewig,christinaewig.umn.edu,HHH - Humphrey School of Public Affairs,Moved from Women and Public Policy (10752) on 2025-05-15,False,,True,Drupal

@@ -1,0 +1,5 @@
+AHC - Academic Health Center Sites
+Total sites: 39
+Sites in Pope Tech: 7
+Active sites not in Pope Tech: 24
+Inactive sites not in Pope Tech: 8

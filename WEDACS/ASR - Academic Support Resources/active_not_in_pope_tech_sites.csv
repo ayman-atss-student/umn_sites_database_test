@@ -1,0 +1,2 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+135,One Stop Sandbox,"dev, test, prod","onestop.dl9.umn.edu, onestop-dl9.dev.umn.edu, onestop-dl9.stg.umn.edu, onestop-sandbox.dev.umn.edu, onestop-sandbox.stg.umn.edu, onestop-sandbox.umn.edu","thoma127, isen0011, whit0694, dlagerro, eeklund, ande7947, simps614",onestop-sandbox.umn.edu,ASR - Academic Support Resources,None,False,,True,Drupal

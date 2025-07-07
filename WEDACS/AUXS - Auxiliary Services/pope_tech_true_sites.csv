@@ -1,0 +1,10 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+147,Conference and Event Services,"dev, test, prod","uces-d8.dev.umn.edu, uces-d8.stg.umn.edu, uces.umn.edu, www.uces.umn.edu","broek023, fuchs142, phamx039, cdmeyer",uces.umn.edu,AUXS - Auxiliary Services,None,True,,True,Drupal
+149,Contract Administration,prod,"ca.dev.umn.edu, ca.dl8.umn.edu, www.ca.umn.edu",crowe015,ca.umn.edu,AUXS - Auxiliary Services,None,True,,True,Drupal
+152,Contract Administration,dev,"ca-d8.dev.umn.edu, ca-d8.stg.umn.edu",crowe015,ca.umn.edu,AUXS - Auxiliary Services,None,True,,True,Drupal
+145,M Dining Twin Cities,"dev, test, prod","dining-tc.dev.umn.edu, dining-tc.stg.umn.edu, www.dining.tc.umn.edu, dining.umn.edu, www.dining.umn.edu, diningfuture.umn.edu, diningjobs.umn.edu, catering.umn.edu","irsfe008, nickm",dining.tc.umn.edu,AUXS - Auxiliary Services,None,True,,True,Drupal
+144,The Huntington Bank Sponsorship,"dev, test, prod","hbs-tc.dev.umn.edu, hbs-tc.stg.umn.edu","nickm, irsfe008",hbs.tc.umn.edu,AUXS - Auxiliary Services,None,True,,True,Drupal
+146,U Card Twin Cities,"dev, test, prod","ucard-tc.dev.umn.edu, ucard-tc.stg.umn.edu, g4g.umn.edu","irsfe008, nickm, asche069",ucard.tc.umn.edu,AUXS - Auxiliary Services,None,True,,True,Drupal
+150,U Market,"dev, test, prod","umarket.dev.umn.edu, umarket.stg.umn.edu, umarketservices.umn.edu, www.umarketservices.umn.edu, www.umarket.umn.edu","schwarzk, anderslj, thale",umarket.umn.edu,AUXS - Auxiliary Services,None,True,,True,Drupal
+141,UMN Universal Access,"dev, test, prod","ua.dev.umn.edu, ua.stg.umn.edu, ea.umn.edu, universalaccess.umn.edu, courseworks.umn.edu, ua.umn.edu",irsfe008,courseworks.umn.edu,AUXS - Auxiliary Services,None,True,,True,Drupal
+148,Vending Services,prod,"vending.dev.umn.edu, vending.stg.umn.edu, vending.dl8.umn.edu",crowe015,vending.umn.edu,AUXS - Auxiliary Services,None,True,,True,Drupal

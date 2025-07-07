@@ -1,0 +1,38 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+164,Acoustic Communication Lab,"dev, test, prod","froglab.stg.umn.edu, froglab.dev.umn.edu, froglab.dl9.umn.edu",mbee,froglab.umn.edu,CBS - College of Biological Sciences,None,True,,True,Drupal
+161,Bat Cave,prod,"bat-cave.dev.umn.edu, bat-cave.stg.umn.edu",michaelw,bat-cave.umn.edu,CBS - College of Biological Sciences,None,True,,True,Drupal
+184,Bond Lab,prod,"bondlab.dev.umn.edu, bondlab.stg.umn.edu, bondlab.umn.edu",dbond,bondlab.umn.edu,CBS - College of Biological Sciences,None,True,,True,Drupal
+176,Broadening Representation and Equity with Science (BREWS) at the University of Minnesota,"dev, test, prod","brews-cbs.stg.umn.edu, brews-cbs.dev.umn.edu, brews-cbs.dl9.umn.edu",muellert,brews.cbs.umn.edu,CBS - College of Biological Sciences,None,True,,True,Drupal
+195,BTI,"dev, test, prod","bti.dev.umn.edu, bti.stg.umn.edu, bti.prd.umn.edu, bti.umn.edu, www.bti.umn.edu","michaelw, chrislee, waltonen",bti.umn.edu,CBS - College of Biological Sciences,None,True,,True,Drupal
+174,CBS Intranet,prod,"intranet-cbs.dev.umn.edu, intranet-cbs.stg.umn.edu",ljanssen,intranet.cbs.umn.edu,CBS - College of Biological Sciences,None,True,,True,Drupal
+156,Cedar Creek,"dev, test, prod","cedarcreek.dev.umn.edu, cedarcreek.stg.umn.edu, cedarcreek.umn.edu, www.cedarcreek.umn.edu","chrislee, waltonen",cedarcreek.umn.edu,CBS - College of Biological Sciences,None,True,,True,Drupal
+173,Center for Mass Spectrometry and Proteomics,"dev, test, prod","cmsp.dev.umn.edu, cmsp.stg.umn.edu, cmsp.prd.umn.edu","chrislee, waltonen, devel016",cmsp.umn.edu,CBS - College of Biological Sciences,None,True,,True,Drupal
+190,Center for Precision Plant Genomics,"test, prod","cppg.dev.umn.edu, cppg.dl8.umn.edu, cppg.stg.umn.edu",mleffler,cppg.umn.edu,CBS - College of Biological Sciences,None,True,,True,Drupal
+194,Chen Lab,prod,chenlab.umn.edu,"chrislee, tjkautz",chenlab.umn.edu,CBS - College of Biological Sciences,None,True,,True,Drupal
+178,College of Biological Sciences,"dev, test, prod","cbs-d9.dev.umn.edu, cbs-d9.stg.umn.edu, cbs-d9.prd.umn.edu, www.cbs.umn.edu, gralnick.cbs.umn.edu, cbs.umn.edu","chrislee, waltonen",cbs.umn.edu,CBS - College of Biological Sciences,None,True,,True,Drupal
+172,Community College Anatomy and Physiology Research Project,prod,"caper.dev.umn.edu, caper.stg.umn.edu",msjensen,caper.umn.edu,CBS - College of Biological Sciences,None,True,,True,Drupal
+154,Contract Administration,prod,"researchtoolkit.dev.umn.edu, researchtoolkit.stg.umn.edu",mccal240,researchtoolkit.umn.edu,CBS - College of Biological Sciences,None,True,,True,Drupal
+186,Costa Lab,"test, prod","costalab.stg.umn.edu, costalab.dev.umn.edu, costalab.dl8.umn.edu",kcosta,costalab.umn.edu,CBS - College of Biological Sciences,None,True,,True,Drupal
+175,Genetics and Genomics Predoctoral Training Program,"dev, prod","genomicstraining-cbs.dev.umn.edu, genomicstraining-cbs.stg.umn.edu","tjkautz, blekhman, cbs-rlt",genomicstraining.cbs.umn.edu,CBS - College of Biological Sciences,None,True,,True,Drupal
+183,GopheResearch,"dev, prod","gopheresearch.dl9.umn.edu, gopheresearch.dev.umn.edu, gopheresearch.stg.umn.edu","qures072, tjkautz",gopheresearch.umn.edu,CBS - College of Biological Sciences,None,True,,True,Drupal
+167,HHMI Faculty Fellows Project: Showcasing Diversity in the Biological Sciences,"dev, test, prod","scientistshowcase.stg.umn.edu, scientistshowcase.dev.umn.edu, scientistshowcase.dl9.umn.edu","song0175, gibbens",scientistshowcase.umn.edu,CBS - College of Biological Sciences,None,True,,True,Drupal
+171,Institutional Research and Academic Career Development Awards,prod,"mniracda.dev.umn.edu, mniracda.stg.umn.edu","tjkautz, green959",mniracda.umn.edu,CBS - College of Biological Sciences,None,True,,True,Drupal
+168,Isbell Biodiversity Lab,prod,"biodiversitylab.dev.umn.edu, biodiversitylab.stg.umn.edu",isbell,biodiversitylab.umn.edu,CBS - College of Biological Sciences,None,True,,True,Drupal
+188,Ishii Lab,"test, prod","ishii-lab.stg.umn.edu, ishii-lab.dl8.umn.edu, ishii-lab.dev.umn.edu",ishi0040,ishii-lab.umn.edu,CBS - College of Biological Sciences,None,True,,True,Drupal
+191,Mashek Laboratory,"test, prod","masheklab.dl8.umn.edu, masheklab.dev.umn.edu, masheklab.stg.umn.edu",dmashek,masheklab.umn.edu,CBS - College of Biological Sciences,None,True,,True,Drupal
+182,Minneapolis-St. Paul Metropolitan Area (MSP) Long Term Ecological Research Program,"dev, prod","mspurbanlter.dev.umn.edu, mspurbanlter.stg.umn.edu",ljanssen,mspurbanlter.umn.edu,CBS - College of Biological Sciences,None,True,,True,Drupal
+160,Minneapolis-St. Paul Stewardship Mapping Project,prod,"mspstewmap.dev.umn.edu, mspstewmap.stg.umn.edu",sdonovan,mspstewmap.umn.edu,CBS - College of Biological Sciences,None,True,,True,Drupal
+163,Minnesota NMR Center,"dev, test, prod","nmr.stg.umn.edu, nmr.dev.umn.edu, nmr.dl9.umn.edu","tmclane, rapp0006",nmr.umn.edu,CBS - College of Biological Sciences,None,True,,True,Drupal
+165,Naismet 2018,"test, prod","naismet2018.stg.umn.edu, naismet2018.dev.umn.edu, naismet2018.dl9.umn.edu",allene,naismet2018.umn.edu,CBS - College of Biological Sciences,None,True,,True,Drupal
+158,Nectary Genomics,prod,"nectarygenomics.dev.umn.edu, nectarygenomics.stg.umn.edu",cjcarter,nectarygenomics.umn.edu,CBS - College of Biological Sciences,None,True,,True,Drupal
+166,Niehaus Lab,"dev, test, prod","niehauslab.dl9.umn.edu, niehauslab.dev.umn.edu, niehauslab.stg.umn.edu",tniehaus,niehauslab.umn.edu,CBS - College of Biological Sciences,None,True,,True,Drupal
+157,Pretty Good Guided Inquiry,"dev, prod","pggi.dev.umn.edu, pggi.stg.umn.edu","chrislee, waltonen",pggi.umn.edu,CBS - College of Biological Sciences,None,True,,True,Drupal
+169,Protein Acrobatics Lab,"test, prod","proteinacrobaticslab.stg.umn.edu, proteinacrobaticslab.dev.umn.edu, proteinacrobaticslab.dl9.umn.edu","sivaraj, mritt",proteinacrobaticslab.umn.edu,CBS - College of Biological Sciences,None,True,,True,Drupal
+187,Schilling Lab,"test, prod","schillinglab.stg.umn.edu, schillinglab.dev.umn.edu, schillinglab.dl8.umn.edu",schillin,schillinglab.umn.edu,CBS - College of Biological Sciences,None,True,,True,Drupal
+180,The Dong Lab,prod,"dong.dev.umn.edu, dong.stg.umn.edu",kholmest,dong.umn.edu,CBS - College of Biological Sciences,None,True,,True,Drupal
+179,The Gill Lab,prod,"gill.dev.umn.edu, gill.stg.umn.edu",kholmest,gill.umn.edu,CBS - College of Biological Sciences,None,True,,True,Drupal
+155,The Lion Center,prod,"lioncenter.dev.umn.edu, lioncenter.stg.umn.edu, lioncenter.prd.umn.edu",chrislee,lioncenter.umn.edu,CBS - College of Biological Sciences,None,True,,True,Drupal
+159,The Zhang Lab,prod,"zhang.dev.umn.edu, zhang.stg.umn.edu",kholmest,zhang.umn.edu,CBS - College of Biological Sciences,None,True,,True,Drupal
+170,Titus Faculty Page,"test, prod","titus.stg.umn.edu, titus.dev.umn.edu, titus.dl9.umn.edu",titus004,titus.umn.edu,CBS - College of Biological Sciences,None,True,,True,Drupal
+193,titus.dl.umn.edu,prod,titus.dl8.umn.edu,arthu038,titus.umn.edu,CBS - College of Biological Sciences,None,True,,True,Drupal
+189,Web Anatomy,"dev, test, prod","webanatomy.dev.umn.edu, webanatomy.stg.umn.edu","chrislee, waltonen, swansen",webanatomy.umn.edu,CBS - College of Biological Sciences,None,True,,True,Drupal

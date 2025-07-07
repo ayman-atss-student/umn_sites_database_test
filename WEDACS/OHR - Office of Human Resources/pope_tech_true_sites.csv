@@ -1,0 +1,5 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1434,Community Fund Drive,prod,"cfd.stg.umn.edu, cfd.dev.umn.edu, cfd.dl9.umn.edu, www.cfd.umn.edu",nola0058,cfd.umn.edu,OHR - Office of Human Resources,None,True,,True,Drupal
+1435,hrmsO8dev,"dev, test, prod","hrms.dev.umn.edu, hrms.stg.umn.edu","ksblock, devel016, irsfe008",hrms.umn.edu,OHR - Office of Human Resources,None,True,,True,Drupal
+1436,Supervisory Development Program,"dev, test, prod","supervising.dl9.umn.edu, supervising.dev.umn.edu, supervising.stg.umn.edu","oalepova, cristaly, mohan130, barne693",supervising.umn.edu,OHR - Office of Human Resources,None,True,,True,Drupal
+1433,UMN Office of Human Resources,"dev, test, prod","hr.dev.umn.edu, hr.stg.umn.edu, hr.prd.umn.edu, humanresources.umn.edu, www.humanresources.umn.edu, wellness.umn.edu, www.wellness.umn.edu, ee.ltd.umn.edu, hr.umn.edu","irsfe008, devel016, dtadege, nels2371, ehunter, ferna692, kristinw, pbhamidi, peake035, matt, batchiso",hr.umn.edu,OHR - Office of Human Resources,None,True,,True,Drupal

@@ -1,0 +1,4 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+200,CIS Database User Guide,"dev, test, prod","db-user-guide.stg.umn.edu, db-user-guide.dev.umn.edu, db-user-guide.dl9.umn.edu",ccecis,db-user-guide.umn.edu,CCAPS - Continuing and Professional Studies,None,False,,False,Drupal
+211,Online and Educational Services,dev,"oes.dev.umn.edu, oes.stg.umn.edu",stein995,oes.umn.edu,CCAPS - Continuing and Professional Studies,None,False,,False,Drupal
+201,Student Help,"dev, test, prod","studenthelp.stg.umn.edu, studenthelp.dev.umn.edu",joh04979,studenthelp.umn.edu,CCAPS - Continuing and Professional Studies,None,False,,False,Drupal

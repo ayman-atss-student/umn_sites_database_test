@@ -1,0 +1,21 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+14,Apply MSROP,"dev, test, prod","apply-msrop.dev.umn.edu, apply-msrop.stg.umn.edu, apply-pathways.umn.edu, apply-msrop.umn.edu","meyer150, lang0925, swart113",apply-pathways.umn.edu,AAP - VP of Academic Affairs/Provost,None,False,,True,Drupal
+15,Apply URS,"dev, test, prod","apply-urs.dev.umn.edu, apply-urs.stg.umn.edu","meyer150, lang0925, swart113",apply-urs.umn.edu,AAP - VP of Academic Affairs/Provost,None,False,,True,Drupal
+71,Career Services,"test, prod","career-dl8.dev.umn.edu, career.dl8.umn.edu, career.stg.umn.edu, www.career.umn.edu",jhoarn,career.umn.edu,AAP - VP of Academic Affairs/Provost,None,False,,True,Drupal
+1,Center for Developmental NeuroImaging,prod,"cdni.dev.umn.edu, cdni.stg.umn.edu",kweldon,cdni.umn.edu,AAP - VP of Academic Affairs/Provost,None,False,,True,Drupal
+79,Coursera for Minnesota,prod,coursera.umn.edu,"senenge, vandover",coursera.umn.edu,AAP - VP of Academic Affairs/Provost,None,False,,True,Drupal
+2,Cultural Centers CMU,"dev, test, prod","cultural-centers-cmu.dev.umn.edu, cultural-centers-cmu.stg.umn.edu",fonta056,cultural-centers-cmu.umn.edu,AAP - VP of Academic Affairs/Provost,None,False,,True,Drupal
+19,CURA Evictions Research,"dev, test, prod","evictions.dl.umn.edu, evictions.stg.umn.edu, evictions.dev.umn.edu, evictions.dl9.umn.edu",jrmiller,evictions.cura.umn.edu,AAP - VP of Academic Affairs/Provost,None,False,,True,Drupal
+23,CURA Twin Cities Gentrification Project,"test, prod","gentrification.stg.umn.edu, gentrification.dev.umn.edu, gentrification.dl9.umn.edu",jrmiller,gentrification.umn.edu,AAP - VP of Academic Affairs/Provost,None,False,,True,Drupal
+21,Detachment 415 University of Minnesota Air Force ROTC,"test, prod","www.afrotc.umn.edu, afrotc.stg.umn.edu, afrotc.dev.umn.edu, afrotc.dl9.umn.edu",servi022,afrotc.umn.edu,AAP - VP of Academic Affairs/Provost,None,False,,True,Drupal
+65,Healthy Youth Development - Prevention Research Center,dev,prc.dev.umn.edu,baum0272,prc.umn.edu,AAP - VP of Academic Affairs/Provost,None,False,,True,Drupal
+29,hire.umn.edu,"dev, test, prod","hire.umn.edu, hire.dev.umn.edu, hire.stg.umn.edu","jhoarn, fonta056",hire.umn.edu,AAP - VP of Academic Affairs/Provost,None,False,,True,Drupal
+32,Human Milk and Nutrition Research Group,"dev, test, prod","milkresearch.dev.umn.edu, milkresearch.stg.umn.edu, www.milkresearch.umn.edu",jens0490,milkresearch.umn.edu,AAP - VP of Academic Affairs/Provost,None,False,,True,Drupal
+36,Office for Community Standards,prod,"communitystandards.dl9.umn.edu, communitystandards-dl9.dev.umn.edu, communitystandards-dl9.stg.umn.edu, www.communitystandards.umn.edu","fonta056, leibfrie",communitystandards.umn.edu,AAP - VP of Academic Affairs/Provost,None,False,,True,Drupal
+11,Office of Distributed Learning,"dev, test, prod","odl.dev.umn.edu, odl.stg.umn.edu, odl.umn.edu","meyer150, swart113",odl.umn.edu,AAP - VP of Academic Affairs/Provost,None,False,,True,Drupal
+20,Provost Web Support,"dev, test, prod","websupport-provost.dev.umn.edu, websupport-provost.stg.umn.edu","meyer150, lang0925, swart113",websupport.provost.umn.edu,AAP - VP of Academic Affairs/Provost,None,False,,True,Drupal
+8,Sample Plan,"dev, test, prod","sampleplan.dev.umn.edu, sampleplan.stg.umn.edu",meyer150,sampleplan.umn.edu,AAP - VP of Academic Affairs/Provost,None,False,,True,Drupal
+24,SNAP for UMN Students,prod,"snap.dev.umn.edu, snap.stg.umn.edu",onarheim,snap.umn.edu,AAP - VP of Academic Affairs/Provost,None,False,,True,Drupal
+4,SUA Art,"dev, test, prod","sua-art.umn.edu, sua-art.dev.umn.edu, sua-art.stg.umn.edu",fonta056,sua-art.umn.edu,AAP - VP of Academic Affairs/Provost,None,False,,True,Drupal
+46,Transfer Student Experience,"dev, test, prod","transfer.dev.umn.edu, transfer.stg.umn.edu, transfer.prd.umn.edu, www.transfer.umn.edu","meyer150, lang0925, swart113",transfer.umn.edu,AAP - VP of Academic Affairs/Provost,None,False,,True,Drupal
+53,umjf.umn.edu,prod,"umjf.dev.umn.edu, umjf.stg.umn.edu, jobfair.umn.edu, www.jobfair.umn.edu","steph595, rahrah",umjf.umn.edu,AAP - VP of Academic Affairs/Provost,None,False,,True,Drupal

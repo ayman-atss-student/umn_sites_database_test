@@ -1,0 +1,5 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1788,Incubator for Digital Entrepreneurship in the Creative Industries,prod,"idece.dev.umn.edu, ideci.d.umn.edu","batchiso, sbradt, amanteuf",idece.d.umn.edu,UMD - Duluth,None,False,,False,Drupal
+1710,kirby weddings,prod,"kirbyweddings-d.dev.umn.edu, kirbyweddings-d.stg.umn.edu","batchiso, sbradt, amanteuf",kirbyweddings.d.umn.edu,UMD - Duluth,None,False,,False,Drupal
+1793,Sandbox (Enterprise),dev,"d8sandbox.dev.d.umn.edu, d8sandbox.stg.d.umn.edu","amanteuf, batchiso, sbradt",d8sandbox.d.umn.edu,UMD - Duluth,None,False,,False,Drupal
+1792,Sandbox (Lite),prod,"d8-lite.d.umn.edu, d8-lite-d.dev.umn.edu","batchiso, sbradt, amanteuf",d8-lite.d.umn.edu,UMD - Duluth,None,False,,False,Drupal

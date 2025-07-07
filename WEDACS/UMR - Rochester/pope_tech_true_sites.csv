@@ -1,0 +1,2 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1827,Rochester D8 PCI,"dev, test, prod","r.prd.umn.edu, r-d8.dev.umn.edu, r-d8.stg.umn.edu, r.umn.edu, www.r.umn.edu","mason170, shan0178, sjoqu032, nclark, wells438, dtadege, nels2371, ehunter, ferna692, kristinw, pbhamidi, peake035, matt, batchiso",r.umn.edu,UMR - Rochester,None,True,,True,Drupal

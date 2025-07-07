@@ -1,0 +1,3 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1038,School of Dentistry Intranet,prod,"sodintranet.dev.umn.edu, sodintranet.stg.umn.edu",conradz,sodintranet.umn.edu,DENT - Dentistry,None,False,,False,Drupal
+1037,School of Dentistry Student Intranet,prod,"sodstudents.dev.umn.edu, sodstudents.stg.umn.edu",conradz,sodstudents.umn.edu,DENT - Dentistry,None,False,,False,Drupal

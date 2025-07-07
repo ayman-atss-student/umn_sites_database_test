@@ -1,0 +1,4 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1900,Drupal 8 Skunkworks,dev,"d8skunkworks.dev.umn.edu, d8skunkworks.stg.umn.edu",irsfe008,d8skunkworks.umn.edu,US - University Services,None,False,,False,Drupal
+1899,USIT D8 Folwell,"dev, test","d8usitfolwell.dev.umn.edu, d8usitfolwell.stg.umn.edu",irsfe008,d8usitfolwell.umn.edu,US - University Services,None,False,,False,Drupal
+1898,USIT DL8 Skunkworks,prod,usitskunkworks.dl8.umn.edu,irsfe008,usitskunkworks.umn.edu,US - University Services,None,False,,False,Drupal

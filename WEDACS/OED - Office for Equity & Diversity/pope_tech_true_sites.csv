@@ -1,0 +1,4 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1405,CORE,"dev, test, prod","core.dev.umn.edu, core.stg.umn.edu","abreland, dougl361, dougl330, irsfe008, lisamars",core.umn.edu,OED - Office for Equity & Diversity,None,True,,True,Drupal
+1425,Disability Resource Center,"dev, test, prod","disability.stg.umn.edu, disability.dev.umn.edu, disability.dl8.umn.edu, cap.umn.edu","lisamars, tmikk, marsh058, angus025, dougl361, dougl330",disability.umn.edu,OED - Office for Equity & Diversity,None,True,,True,Drupal
+1415,Social Justice Directory,"dev, test, prod","socialjusticedirectory.dev.umn.edu, socialjusticedirectory.stg.umn.edu","meyer150, lisamars, lang0925",socialjusticedirectory.umn.edu,OED - Office for Equity & Diversity,None,True,,True,Drupal

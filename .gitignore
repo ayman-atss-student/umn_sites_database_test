@@ -1,0 +1,5 @@
+.venev/
+instance/
+__pychache__/
+*.gsheet
+*.gdoc

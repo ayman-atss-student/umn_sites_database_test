@@ -1,0 +1,2 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1098,housing.umn.edu,"dev, test, prod","housing-d8.dev.umn.edu, housing-d8.stg.umn.edu, housing-d8.prd.umn.edu, www.housing.umn.edu, resnet.umn.edu, rentals.tc.umn.edu, offcampus.umn.edu, www.offcampus.umn.edu, www.resnet.umn.edu","broek023, fuchs142, phamx039, cdmeyer",housing.umn.edu,HRL - Housing & Residential Life,None,True,,True,Drupal

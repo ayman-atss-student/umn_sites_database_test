@@ -1,0 +1,3 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1094,6th World Conference,prod,"6thworldconference.dev.umn.edu, 6thworldconference.stg.umn.edu",myers006,6thworldconference.umn.edu,HHH - Humphrey School of Public Affairs,None,False,,False,Drupal
+1095,Humphrey School of Public Affairs Intranet,"dev, test, prod","intranet-hhh-d9.dev.umn.edu, intranet-hhh-d9.stg.umn.edu, hub.hhh.umn.edu, intranet-hhh-d9.prd.umn.edu, intranet.hhh.umn.edu, hhh.umn.edu",tsalkas,intranet.hhh.umn.edu,HHH - Humphrey School of Public Affairs,None,False,,False,Drupal

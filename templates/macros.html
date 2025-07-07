@@ -1,0 +1,169 @@
+{% macro render_table(table_id, table_title, data, contacts) %}
+  <div class="table-dropdown">
+    <button class="table-button" id="toggle{{ table_id }}">
+      <i class="material-icons" style="color: #ffcc33;">folder</i><!--#7a0019-->
+      <p style="font-size: 14px; font-family: 'Roboto', sans-serif; font-weight: bold; margin: 0; padding: 0; line-height: inherit; color: #202124;">{{ table_title }}</p> 
+      <i class="material-icons">arrow_drop_down</i> 
+    </button>
+
+    <div class="table-content" id="{{ table_id }}">
+      <div class="department-header">
+        <h2>{{ table_title }}</h2>
+        <button type="button" class="move-all-button" onclick="openMoveAllModal('{{ table_title }}')" aria-label="Move all data from this department">
+          Move All Data
+        </button>
+      </div>
+        <h3>WEDAC Contacts</h3>
+        <!-- Department Contacts Table -->
+        <table>
+          <thead>
+            <tr>
+              <th>Name</th>
+              <th>Email</th>
+              <th>Site (if applicable)</th>
+              <th>Actions</th>
+            </tr>
+          </thead>
+          <tbody>
+            {% for contact in contacts if contact.department == table_title %}
+            <tr>
+              <td>{{ contact.name }}</td>
+              <td>
+                <a href="mailto:{{ contact.email }}">{{ contact.email }}</a>
+              </td>
+              <td>{{ contact.site }}</td>
+              <td>
+                <button type="button" onclick="openEditContactModal('{{ contact-name }}', '{{ contact-site }}' )" aria-label="Edit row">
+                <i class="material-icons">edit</i>
+              </button>
+              </td>
+            </tr>
+            {% else %}
+              <tr>
+                <td colspan="3"><em>No contacts listed for this department.</em></td>
+              </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+        
+        <!--Create function appears above table data, replace with code in drive-->
+        <h3>Add new entry to {{ table_title }}</h3>
+
+        <form action="/create" method="post" class="add-entry-form">
+          <input type="hidden" id="table_id" name="table_name" value="{{ table_id }}">
+          <input type="hidden" id="department" name="department" value="{{ table_title }}">
+         
+          <table style="width: 100%; border-collapse: collapse; margin-bottom: 15px;">
+            <tr>
+              <!-- Skip the ID column as it's auto-generated -->
+              <!--Title-->
+              <td style="width: 9.09%;">
+                <input type="text" name="title" placeholder="Title" style="width: 95%;">
+              </td>
+              <!--Environments-->
+              <td style="width: 9.09%;">
+                <input type="text" name="environments" placeholder="Environments" style="width: 95%;">
+              </td>
+              <!--Aliases-->
+              <td style="width: 9.09%;">
+                <input type="text" name="aliases" placeholder="Aliases" style="width: 95%;">
+              </td>
+              <!--Owners-->
+              <td style="width: 9.09%;">
+                <input type="text" name="owners" placeholder="Owners" style="width: 95%;">
+              </td>
+              <!--Primary URL-->
+              <td style="width: 9.09%;">
+                <input type="text" name="primary_url" placeholder="Primary URL" style="width: 95%;">
+              </td>
+              <!--Notes-->
+              <td style="width: 5%;">
+                <input type="text" name="notes" placeholder="Notes" style="width: 95%;">
+              </td>
+              <!--Pope Tech-->
+              <td style="width: 11%; text-align: center; padding: 4px;">
+                <div class="select-container">
+                  <label for="pope_tech_{{ table_id }}" class="select-label">Pope Tech: </label>
+                  <select name="pope_tech" id="pope_tech_{{ table_id }}" class="styled-select">
+                    <option value="false" selected>False</option>
+                    <option value="true">True</option>
+                  </select>
+                </div>
+              </td>
+              <!--Errors-->
+              <td style="width: 4%;">
+                <input type="number" name="errors" id="errors_{{ table_id }}" placeholder="Errors" min="0" step="1" pattern="[0-9]*" style="width: 95%;" inputmode="numeric">
+              </td>
+              <!--Active-->
+              <td style="width: 8.5%; text-align: center;">
+                <div class="select-container">
+                  <label for="active_{{ table_id }}" class="select-label">Active: </label>
+                  <select name="active" id="active_{{ table_id }}" class="styled-select">
+                    <option value="false" selected>False</option>
+                    <option value="true">True</option>
+                  </select>
+                </div>
+              </td>
+              <!--CMS-->
+              <td style="width: 5%;">
+                <input type="text" name="cms" placeholder="CMS" style="width: 95%;">
+              </td>
+              <!--Create button-->
+              <td style="width: 4%; text-align: center;">
+                <button type="submit" class="create-button">Create</button>
+              </td>
+            </tr>
+          </table>
+        </form>
+
+
+      <!--Create table for department data-->
+      <table class="department-table">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Title</th>
+            <th>Environments</th>
+            <th>Aliases</th>
+            <th>Owners</th>
+            <th>Primary URL</th>
+            <th>Notes</th>
+            <th>Pope Tech</th>
+            <th>Errors</th>
+            <th>Active</th>
+            <th>CMS</th>
+            <th>Edit</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for row in data %}
+          <tr>
+            <td>{{ loop.index }}</td> <!--counts-->
+            <td>{{ row[1] }}</td> <!--title-->
+            <td>{{ row[2] }}</td> <!--environments-->
+            <td>{{ row[3] }}</td> <!--aliases-->
+            <td>{{ row[4] }}</td> <!--owners-->
+            <td><!--Primary URL cells are formatted as links-->
+              <a href="{{ row[5] }}" title="{{ row[5] }}" target="_blank"><!--opens link in new tab for every clicked link; use 'target="blank"' 
+                instead for opening only the first-clicked link to a new tab, and opening future links to that tab-->
+                  {{ row[5] }}
+              </a>
+            </td>
+            <td>{{ row[6] }}</td> <!--notes-->
+            <td>{{ row[7] }}</td> <!--pope tech-->
+            <td>{{ row[8]}}</td> <!--errors-->
+            <td>{{ row[9]}}</td> <!--active-->
+            <td>{{ row[10]}}</td> <!--cms-->
+            <td class="edit-column">
+              <!-- Edit button -->
+              <button type="button" class="edit-button" onclick="openEditModal('{{ row[0] }}', '{{ table_id }}', '{{ row[1] }}', '{{ row[2] }}', '{{ row[3] }}', '{{ row[4] }}', '{{ row[5] }}', '{{ row[6] }}', '{{ row[7] }}', '{{ row[8] }}', '{{ row[9] }}', '{{ row[10] }}')" aria-label="Edit row">
+                <i class="material-icons">edit</i>
+              </button>
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+{% endmacro %}

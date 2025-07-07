@@ -1,0 +1,222 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1224,3D Bioprinting Facility,prod,"bioprint.dev.umn.edu, bioprint.stg.umn.edu, bioprint.dl9.umn.edu, bioprint.umn.edu, www.bioprint.umn.edu",pacel012,bioprint.umn.edu,MED - Medical School,None,False,,True,Drupal
+1206,ACRC within the Dept. of Emergency Medicine,prod,"acrc.dev.umn.edu, acrc.stg.umn.edu","staug002, sannam, silva364, megant",acrc.umn.edu,MED - Medical School,None,False,,True,Drupal
+1169,ACTIV-6 OVMC,prod,"activ6-ovmc.dev.umn.edu, activ6-ovmc.stg.umn.edu",adangol,activ6-ovmc.umn.edu,MED - Medical School,None,False,,True,Drupal
+1274,activ6.umn.edu,prod,"activ6.dev.umn.edu, activ6.stg.umn.edu","shanb007, hage0573, pate1125",activ6.umn.edu,MED - Medical School,None,False,,True,Drupal
+1372,Adolescent Brain Function Lab (ABF Lab),prod,"abflab.umn.edu, abflab.dev.umn.edu",lewi1538,abflab.umn.edu,MED - Medical School,Moved from MED - PSYCH - Psychiatry on 2025-05-15,False,,True,Drupal
+1322,Adrenoleukodystrophy National Registry,prod,"aldnr.dev.umn.edu, aldnr.stg.umn.edu, aldnr.umn.edu","gupta461, stof0040",aldnr.umn.edu,MED - Medical School,None,False,,True,Drupal
+1221,Advanced Cardiac Physiology & Anatomy Short Course,"test, prod","cardiacshortcoursematerials.dev.umn.edu, cardiacshortcoursematerials.stg.umn.edu","adangol, mayhe001",cardiacshortcoursematerials.umn.edu,MED - Medical School,None,False,,True,Drupal
+1298,Airway Accelerated Learning (AAL),"test, prod","airway.dev.umn.edu, airway.stg.umn.edu","joh17977, willi067, abarrett",airway.umn.edu,MED - Medical School,None,False,,True,Drupal
+1202,Alejandro Lab,prod,"alejandrolab.dev.umn.edu, alejandrolab.stg.umn.edu",mayhe001,alejandrolab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1399,Alex Kalyuzhny Research,"test, prod","alexkalyuzhnyresearch.stg.umn.edu, alexkalyuzhnyresearch.dev.umn.edu, alexkalyuzhnyresearch.dl9.umn.edu",kalyu001,alexkalyuzhnyresearch.umn.edu,MED - Medical School,Moved from NSCI Neuroscience Admin (11918) on 2025-05-15,False,,True,Drupal
+1368,Alport Syndrome Treatments and Outcomes Registry,"test, prod","astor.umn.edu, astor.stg.umn.edu, astor.ahc.umn.edu","mert0067, rheau002",astor.umn.edu,MED - Medical School,Moved from MED - PEDS - Pediatric on 2025-05-15,False,,True,Drupal
+1142,ALRT Human Resources,prod,"alrthr.umn.edu, alrthr.dev.umn.edu, alrthr.stg.umn.edu","heine354, adangol",alrthr.umn.edu,MED - Medical School,None,False,,True,Drupal
+1166,ALS Clinical and Research Program,prod,"als.stg.umn.edu, als.dev.umn.edu",adangol,als.umn.edu,MED - Medical School,None,False,,True,Drupal
+1210,ALS Natural History Study,prod,"alsnaturalhistory.dev.umn.edu, alsnaturalhistory.stg.umn.edu, alsnaturalhistory.umn.edu","neuro-comms, hans5471",alsnaturalhistory.umn.edu,MED - Medical School,None,False,,True,Drupal
+1340,Anup Dangol,prod,"medres.umn.edu, medres.dev.umn.edu, bios.med.umn.edu",adangol,medres.umn.edu,MED - Medical School,None,False,,True,Drupal
+1320,Apply Mindfulness to Pain (LAMP) Project,"test, prod","lamp.dl9.umn.edu, lamp.stg.umn.edu, lamp.dev.umn.edu",ehagel,lamp.umn.edu,MED - Medical School,None,False,,True,Drupal
+1355,ARMOR,prod,"armor.dl8.umn.edu, armor.umn.edu",mhubblin,armor.umn.edu,MED - Medical School,None,False,,True,Drupal
+1294,Asakura Lab,prod,"asakuralab.dev.umn.edu, asakuralab.stg.umn.edu",hans5471,asakuralab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1369,Autism Research,"dev, test, prod","autismresearch.stg.umn.edu, autismresearch.dev.umn.edu, autismresearch.dl9.umn.edu",atseng,autismresearch.umn.edu,MED - Medical School,Moved from MED - PSYCH - Psychiatry on 2025-05-15,False,,True,Drupal
+1254,bartolomucci.ibp.umn.edu,prod,"bartolomucci.dev.umn.edu, bartolomucci.stg.umn.edu, bartolomucci.prd.umn.edu, bartolomuccilab.umn.edu","abartolo, adangol",bartolomuccilab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1347,Batchelor Lab,prod,"batchelorlab.dev.umn.edu, batchelorlab.umn.edu",ebatchel,batchelorlab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1228,Behavioral Coaching for Parents of Children with ADHD,prod,"adhdparentcoaching.dev.umn.edu, adhdparentcoaching.stg.umn.edu","drbarnes, chapm041, perle021, schu3699, kale0040",adhdparentcoaching.umn.edu,MED - Medical School,None,False,,True,Drupal
+1339,Bielinsky Lab,prod,"bielinsky.dev.umn.edu, bielinsky.umn.edu",bieli003,bielinsky.umn.edu,MED - Medical School,None,False,,True,Drupal
+1222,Biography for Rehab Medicine Department,prod,"bios-rehabmedicine.dev.umn.edu, bios-rehabmedicine.stg.umn.edu",adangol,bios.rehabmedicine.umn.edu,MED - Medical School,None,False,,True,Drupal
+1209,Bios for Department of Otolaryngology - Head & Neck Surgery,prod,"bios-ent.dev.umn.edu, bios-ent.stg.umn.edu, bios.ent.umn.edu","adangol, gulli209",bios.ent.umn.edu,MED - Medical School,None,False,,True,Drupal
+1230,Bios for Pediatrics Department,prod,"bios-pediatrics.dev.umn.edu, bios-pediatrics.stg.umn.edu",adangol,bios.pediatrics.umn.edu,MED - Medical School,None,False,,True,Drupal
+1214,bios.pathology.umn.edu,prod,"bios-pathology.dev.umn.edu, bios-pathology.stg.umn.edu","adangol, hoffm003",bios.pathology.umn.edu,MED - Medical School,None,False,,True,Drupal
+1171,Blood and Marrow Transplantation & Cellular Therapy Rare Disease Programs,prod,"rare.dev.umn.edu, rare.stg.umn.edu","buczy003, pedsweb, jutila, adangol",rare.umn.edu,MED - Medical School,None,False,,True,Drupal
+1291,bohjanen_lab,prod,"bohjanenlab.dev.umn.edu, bohjanenlab.stg.umn.edu, bohjanenlab.dl9.umn.edu","tim, bohja001",bohjanenlab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1262,Brachytherapy Research Group,prod,"brachytherapy.stg.umn.edu, brachytherapy.dev.umn.edu",comis010,brachytherapy.umn.edu,MED - Medical School,None,False,,True,Drupal
+1156,Brains in Motion Lab,prod,"brainsinmotionlab.dev.umn.edu, brainsinmotionlab.stg.umn.edu","adangol, palmerj",brainsinmotionlab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1147,Bramante Laboratory,prod,"bramante.dev.umn.edu, bramante.stg.umn.edu","hage0573, adangol",bramante.umn.edu,MED - Medical School,None,False,,True,Drupal
+1374,Cab lab,prod,"cablab.dl8.umn.edu, cablab.umn.edu","chaox045, yu000289",cablab.umn.edu,MED - Medical School,Moved from MED - PSYCH - Psychiatry on 2025-05-15,False,,True,Drupal
+1153,Cai,prod,"cai.umn.edu, cai.dev.umn.edu, cai.stg.umn.edu, cailab.umn.edu","kdanders, adangol",cai.umn.edu,MED - Medical School,None,False,,True,Drupal
+1191,Cardiothoracic and Vascular Education Collaboration,prod,"cvec.dev.umn.edu, cvec.stg.umn.edu","willi067, adangol",cvec.umn.edu,MED - Medical School,None,False,,True,Drupal
+1328,Center for Cerebellar Network Structure/Function in Health and Disease,prod,"cerebellum.stg.umn.edu, cerebellum.dev.umn.edu",ekrookma,cerebellum.umn.edu,MED - Medical School,None,False,,True,Drupal
+1327,Center for Structural Virology,"test, prod","csv.dev.umn.edu, csv.stg.umn.edu, ccr.umn.edu, cev.umn.edu",adangol,csv.umn.edu,MED - Medical School,None,False,,True,Drupal
+1144,Center of Perinatal Research,prod,"cpr.dev.umn.edu, cpr.stg.umn.edu","mayhe001, adangol",cpr.umn.edu,MED - Medical School,None,False,,True,Drupal
+1293,Cha Lab,prod,"ychalab.dev.umn.edu, ychalab.stg.umn.edu","neuro, hans5471",ychalab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1353,Change That Matters,"dev, test, prod","changethatmatters.stg.umn.edu, changethatmatters.dev.umn.edu, changethatmatters.umn.edu",hook0044,changethatmatters.umn.edu,MED - Medical School,None,False,,True,Drupal
+1177,Children's Activity Project,prod,"child-activity-research.dev.umn.edu, child-activity-research.stg.umn.edu",shaft011,child-activity-research.umn.edu,MED - Medical School,None,False,,True,Drupal
+1207,cis.med.umn.edu,prod,"cis-med.dev.umn.edu, cis-med.stg.umn.edu, cis.med.umn.edu","mayhe001, adangol",cis.med.umn.edu,MED - Medical School,None,False,,True,Drupal
+1257,"Cognition, Aging, and Technology (CAT) Lab",prod,"catlab.stg.umn.edu, catlab.dev.umn.edu",weave368,catlab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1140,Consortium for Maternal and Perinatal Research,prod,"cmpr.dev.umn.edu, cmpr.stg.umn.edu","mayhe001, adangol",cmpr.umn.edu,MED - Medical School,None,False,,True,Drupal
+1310,Covid-Brain project,prod,"covidbrainstudy.dev.umn.edu, covidbrainstudy.stg.umn.edu","kgundry, ozxxx001",covidbrainstudy.umn.edu,MED - Medical School,None,False,,True,Drupal
+1307,CovidFuera,prod,"covidfuera.dev.umn.edu, covidfuera.stg.umn.edu",adangol,covidfuera.umn.edu,MED - Medical School,None,False,,True,Drupal
+1247,Cytokine Reference Laboratory,prod,"cytokinelab-dl9.dev.umn.edu, cytokinelab-dl9.stg.umn.edu, cytokinelab.dl9.umn.edu, www.cytokinelab.umn.edu","stof0040, buczy003, lanzx014, adangol",cytokinelab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1359,Czyzyk Research Lab,prod,czyzyklab.umn.edu,ykryvala,czyzyklab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1272,Daniel J. Garry Lab,prod,"djgarrylab.dev.umn.edu, djgarrylab.stg.umn.edu",lhi,djgarrylab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1308,Davydova Laboratory,prod,"davydovalab.dev.umn.edu, davydovalab.stg.umn.edu",roman470,davydovalab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1248,"Debes Lab, University of Minnesota",prod,"debeslab.dev.umn.edu, debeslab.stg.umn.edu","mwalton, debes003",debeslab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1232,Department of Integrative Biology and Physiology,prod,"bios-physiology.dev.umn.edu, bios-physiology.stg.umn.edu",adangol,bios.physiology.umn.edu,MED - Medical School,None,False,,True,Drupal
+1159,Department of Pediatrics Annual Report 2024,prod,"pediatrics-annual-report.umn.edu, pediatrics-annual-report.dev.umn.edu, pediatrics-annual-report.stg.umn.edu","adangol, buczy003, pedsweb, elgray",pediatrics-annual-report.umn.edu,MED - Medical School,None,False,,True,Drupal
+1164,Department of Surgery Annual Report,"dev, test, prod","surgeryar.dev.umn.edu, surgeryar.prd.umn.edu",adangol,surgeryar.umn.edu,MED - Medical School,None,False,,True,Drupal
+1196,Department of Surgery Bios,prod,"bios-surgery.dev.umn.edu, bios-surgery.stg.umn.edu","adindorf, adangol",bios.surgery.umn.edu,MED - Medical School,None,False,,True,Drupal
+1260,Design of Medical Devices Conference,prod,"dmd.dl9.umn.edu, dmd-dl9.dev.umn.edu, dmd-dl9.stg.umn.edu, www.dmd.umn.edu","adangol, johnsont",dmd.umn.edu,MED - Medical School,None,False,,True,Drupal
+1313,DiversityCNS,prod,"diversitycns.dev.umn.edu, diversitycns.stg.umn.edu, diversifyingcns.umn.edu",adangol,diversitycns.umn.edu,MED - Medical School,None,False,,True,Drupal
+1267,DOM Drupal Lite Test Site,prod,"domtest.dev.umn.edu, domtest.stg.umn.edu",sporter,domtest.umn.edu,MED - Medical School,None,False,,True,Drupal
+1264,Earl E. Bakken Medical Devices Center,prod,"www.mdc.umn.edu, mdc.dl9.umn.edu, mdc.dev.umn.edu, mdc.stg.umn.edu, bmdc.umn.edu, mdc.umn.edu","adangol, johnsont",mdc.umn.edu,MED - Medical School,None,False,,True,Drupal
+1362,Enhanced Pregnancy Support for People in Prison (E4P),prod,"e4p.dev.umn.edu, e4p.stg.umn.edu","stof0040, shlaf002",e4p.umn.edu,MED - Medical School,Moved from MED - PEDS - Pediatric on 2025-05-15,False,,True,Drupal
+1278,Esophageal Atresia and Tracheoesophageal Fistula: Purpose,prod,"eateftreatment.dev.umn.edu, eateftreatment.stg.umn.edu",casti020,eateftreatment.umn.edu,MED - Medical School,None,False,,True,Drupal
+1259,Facial Paralysis Center,prod,"facialparalysis.dev.umn.edu, facialparalysis.stg.umn.edu",adangol,facialparalysis.umn.edu,MED - Medical School,None,False,,True,Drupal
+1249,Farrar lab,prod,"farrarlab.dev.umn.edu, farrarlab.stg.umn.edu, www.farrarlab.umn.edu",farra005,farrarlab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1279,FASTEST Research Study,prod,"fastest.dev.umn.edu, fastest.stg.umn.edu",vsanchez,fastest.umn.edu,MED - Medical School,None,False,,True,Drupal
+1367,Gale Lab,"test, prod","galelab.dl8.umn.edu, galelab.dev.umn.edu, galelab.stg.umn.edu",kegle015,galelab.umn.edu,MED - Medical School,Moved from MED - PEDS - Pediatric on 2025-05-15,False,,True,Drupal
+1148,Global Online Pain Fellowship,prod,"gopf.dev.umn.edu, gopf.stg.umn.edu","nguy4359, rkbanik, adangol",gopf.umn.edu,MED - Medical School,None,False,,True,Drupal
+1217,Global Surgery Fundraiser,prod,"globalsurgery.dev.umn.edu, globalsurgery.stg.umn.edu","stephw, lorih",globalsurgery.umn.edu,MED - Medical School,None,False,,True,Drupal
+1157,GME Institutional Manual,prod,"gmepolicy.dev.umn.edu, gmepolicy.stg.umn.edu","adangol, cillig, s-engst",gmepolicy.umn.edu,MED - Medical School,None,False,,True,Drupal
+1175,Halberg Chronobiology Center,prod,"halbergchronobiologycenter.stg.umn.edu, halbergchronobiologycenter.dev.umn.edu, halbergchronobiologycenter.prd.umn.edu, halbergchronobiologycenter.umn.edu","leegi001, corne001",halbergchronobiologycenter.umn.edu,MED - Medical School,None,False,,True,Drupal
+1180,HarelLab,"dev, test, prod","harellab-cmrr.dev.umn.edu, harellab-cmrr.stg.umn.edu",hbraun,harellab.cmrr.umn.edu,MED - Medical School,None,False,,True,Drupal
+1311,Haskell-Luevano Laboratory,"dev, test, prod","haskell-luevano-laboratory.stg.umn.edu, haskell-luevano-laboratory.dev.umn.edu, haskell-luevano-laboratory.dl9.umn.edu",dlv,haskell-luevano-laboratory.umn.edu,MED - Medical School,None,False,,True,Drupal
+1375,hdl,prod,hdl.umn.edu,herma686,hdl.umn.edu,MED - Medical School,Moved from MED - PSYCH - Psychiatry on 2025-05-15,False,,True,Drupal
+1302,Healthy Environments and Vulnerable Youth,prod,"healtheasy.dev.umn.edu, healtheasy.stg.umn.edu",eisen012,healtheasy.umn.edu,MED - Medical School,None,False,,True,Drupal
+1243,Healthy UMN,prod,"healthy.dev.umn.edu, healthy.stg.umn.edu",hage0573,healthy.umn.edu,MED - Medical School,None,False,,True,Drupal
+1398,Heilbronner Lab Website,"dev, test, prod","heilbronnerlab.stg.umn.edu, heilbronnerlab.dev.umn.edu, heilbronnerlab.dl9.umn.edu",heilb028,heilbronnerlab.umn.edu,MED - Medical School,Moved from NSCI Neuroscience Admin (11918) on 2025-05-15,False,,True,Drupal
+1295,Henry Lab,prod,"thenrylab.dev.umn.edu, thenrylab.stg.umn.edu",hans5471,thenrylab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1290,Howell Lab,prod,"howell-lab.dev.umn.edu, howell-lab.stg.umn.edu",hans5471,howell-lab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1181,Hulleman Lab - UMN,"dev, test, prod","hulleman-lab.dev.umn.edu, hulleman-lab.stg.umn.edu","daniel7, kambh021",hulleman-lab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1198,IBP Undergrad Symposium,prod,"ibpugsymposium.dev.umn.edu, ibpugsymposium.stg.umn.edu",mayhe001,ibpugsymposium.umn.edu,MED - Medical School,None,False,,True,Drupal
+1270,IBPGraduateProgramNews,prod,"ibpgraduateprogramnews.dev.umn.edu, ibpgraduateprogramnews.stg.umn.edu",mayhe001,ibpgraduateprogramnews.umn.edu,MED - Medical School,None,False,,True,Drupal
+1208,IBPT32,prod,"ibpt32.dev.umn.edu, ibpt32.stg.umn.edu, ibpt32.umn.edu","mayhe001, adangol",ibpt32.umn.edu,MED - Medical School,None,False,,True,Drupal
+1189,ICAR-8 (International Conference on Adoption Research),prod,"icar8.dev.umn.edu, icar8.stg.umn.edu",princ092,icar8.umn.edu,MED - Medical School,None,False,,True,Drupal
+1299,input.umn.edu,prod,"input.dev.umn.edu, input.stg.umn.edu",mayhe001,input.umn.edu,MED - Medical School,None,False,,True,Drupal
+1176,Institute for Engineering in Medicine Archives,prod,"archives-iem.dev.umn.edu, archives-iem.stg.umn.edu","adangol, johnsont",archives-iem.umn.edu,MED - Medical School,None,False,,True,Drupal
+1223,Integrated Circuit Neuroscience labs (ICNlabs),prod,"icnlabs.dev.umn.edu, icnlabs.stg.umn.edu",mkannan,icnlabs.umn.edu,MED - Medical School,None,False,,True,Drupal
+1377,Integrated Program Manual: Plastic & Reconstructive Surgery,"test, prod","prsprogrammanual-integrated.stg.umn.edu, prsprogrammanual-integrated.dev.umn.edu, prsprogrammanual-integrated.dl9.umn.edu",mipsan,prsprogrammanual-integrated.umn.edu,MED - Medical School,Moved from MED - SURG (Surgery) on 2025-05-15,False,,True,Drupal
+1271,INTEGRATIVE CARDIOVASCULAR NEUROSCIENCE LABORATORY,"test, prod","osbornlab.stg.umn.edu, osbornlab.dev.umn.edu, osbornlab.dl9.umn.edu","osbor003, tyshy003",osbornlab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1239,Interventional Psychiatry (Nahas) Research Lab,prod,"ipl.dev.umn.edu, ipl.stg.umn.edu",john4830,ipl.umn.edu,MED - Medical School,None,False,,True,Drupal
+1350,Jamequist Lab,prod,jamequist.umn.edu,hogqu001,jamequist.umn.edu,MED - Medical School,None,False,,True,Drupal
+1319,Kang Lab,prod,"kang.dev.umn.edu, kang.stg.umn.edu",pkang,kang.umn.edu,MED - Medical School,None,False,,True,Drupal
+1226,Kang Lab,prod,"kanglab.dev.umn.edu, kanglab.stg.umn.edu",hans5471,kanglab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1269,Kelekar Lab,"dev, test, prod","kelekarlab.stg.umn.edu, kelekarlab.dev.umn.edu, kelekarlab.dl9.umn.edu","kreck006, ameeta",kelekarlab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1241,kotzlab,"test, prod","kotzlab.dl9.umn.edu, kotzlab.stg.umn.edu, kotzlab.dev.umn.edu",kotzx004,kotzlab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1273,Kurt Prins Lab,"test, prod","prinslab.dev.umn.edu, prinslab.stg.umn.edu","lhi, dekay001",prinslab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1162,Laboratory of Structural Biology of Disease,prod,"structure.dev.umn.edu, structure.stg.umn.edu","cook0581, adangol, rugge009",structure.umn.edu,MED - Medical School,None,False,,True,Drupal
+1186,Largaespada Lab,"dev, test, prod","largaespadalab.dev.umn.edu, largaespadalab.stg.umn.edu","kbritos, adangol",largaespadalab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1268,LeBeau Lab,"dev, test, prod","lebeaulab.stg.umn.edu, lebeaulab.dev.umn.edu, lebeaulab.dl9.umn.edu","alebeau, comfo017",lebeaulab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1135,Lefevre Lab,prod,"lefevrelab.dev.umn.edu, lefevrelab.stg.umn.edu","elefevre, adangol",lefevrelab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1345,Lions Gift of Sight,"test, prod","lionsgiftofsight.umn.edu, lionsgiftofsight.dev.umn.edu, lionsgiftofsight.org, www.lionsgiftofsight.org, agiftofsight.org, www.agiftofsight.org, mnlionseyebank.org, www.mnlionseyebank.org, lionsgiftofsight.stg.umn.edu",mader005,lionsgiftofsight.umn.edu,MED - Medical School,None,False,,True,Drupal
+1237,LOCATE Trial,prod,"locate.dev.umn.edu, locate.stg.umn.edu",snyd0014,locate.umn.edu,MED - Medical School,None,False,,True,Drupal
+1330,Long Acting Growth Hormone,prod,"growth.dev.umn.edu, growth.stg.umn.edu, growth.umn.edu","adangol, mille685, harv0090",growth.umn.edu,MED - Medical School,None,False,,True,Drupal
+1168,Long COVID,prod,"longcovid.dev.umn.edu, longcovid.stg.umn.edu",adangol,longcovid.umn.edu,MED - Medical School,None,False,,True,Drupal
+1215,Lowe Lab,"dev, prod","lowelab.dev.umn.edu, lowelab.stg.umn.edu",percy011,lowelab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1203,MAAX Conference 2023,prod,"maax23.dev.umn.edu, maax23.stg.umn.edu, maax24.umn.edu, maax.umn.edu, maax23.umn.edu",fulle281,maax23.umn.edu,MED - Medical School,None,False,,True,Drupal
+1250,Mantyh Lab,prod,"mantyhlab.dev.umn.edu, mantyhlab.stg.umn.edu",block367,mantyhlab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1317,McGovern Neurosurgery Lab,"dev, test, prod","mcgovernlab.dev.umn.edu, mcgovernlab.stg.umn.edu",jeanx014,mcgovernlab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1280,Medical Imaging Lab (MILab),prod,"milab.stg.umn.edu, milab.dev.umn.edu",bondy023,milab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1190,Medical School Annual Report 2020,prod,"annualreport2020-med.dev.umn.edu, annualreport2020-med.stg.umn.edu, annualreport2020-med.prd.umn.edu",adangol,annualreport2020.med.umn.edu,MED - Medical School,None,False,,True,Drupal
+1183,Medical School Annual Report 2023,"dev, test, prod","annualreport2023.dev.umn.edu, annualreport2023.stg.umn.edu, annualreport-med.prd.umn.edu, ar.med.umn.edu",adangol,annualreport.med.umn.edu,MED - Medical School,None,False,,True,Drupal
+1338,Medical School COVID-19 Clinical Trials,prod,"covidclinicaltrials.dev.umn.edu, covidclinicaltrials.umn.edu",adangol,covidclinicaltrials.umn.edu,MED - Medical School,None,False,,True,Drupal
+1343,Medical School D8 Training Site,"dev, test, prod","training-med-d8.stg.umn.edu, training-med-d8.dev.umn.edu","adangol, devel016",training.med.umn.edu,MED - Medical School,None,False,,True,Drupal
+1163,Medical School Department Annual Report,"dev, test, prod","msdeptar.dev.umn.edu, msdeptar.stg.umn.edu",adangol,msdeptar.umn.edu,MED - Medical School,None,False,,True,Drupal
+1275,Medical School Memorials,"dev, test, prod","memorials-med.dev.umn.edu, memorials-med.stg.umn.edu",mlong,memorials.med.umn.edu,MED - Medical School,None,False,,True,Drupal
+1197,Medical School News Network - Journalist Pass,prod,"newsnetwork.dev.umn.edu, newsnetwork.stg.umn.edu, reporterpass.umn.edu",adangol,newsnetwork.umn.edu,MED - Medical School,None,False,,True,Drupal
+1199,Medical Scientist Training Program (MD/PhD) Student Directory,prod,"bios-mdphd.stg.umn.edu, bios-mdphd.dev.umn.edu","adangol, nick",bios.mdphd.umn.edu,MED - Medical School,None,False,,True,Drupal
+1342,Medical Student COVID 19,prod,"mdstudentcovidinfo.dev.umn.edu, mdstudentcommarchive.umn.edu",adangol,mdstudentcovidinfo.umn.edu,MED - Medical School,None,False,,True,Drupal
+1141,MedTest,prod,"medtest.dev.umn.edu, medtest.stg.umn.edu","cjjohn, adangol",medtest.umn.edu,MED - Medical School,None,False,,True,Drupal
+1195,Mental Health Month,prod,"mentalhealthmonth.dev.umn.edu, mentalhealthmonth.stg.umn.edu",adangol,mentalhealthmonth.umn.edu,MED - Medical School,None,False,,True,Drupal
+1143,MICaB Graduate Program Student Profiles,prod,"micabgradstudents.dev.umn.edu, micabgradstudents.stg.umn.edu","rufx0007, adangol",micabgradstudents.umn.edu,MED - Medical School,None,False,,True,Drupal
+1231,Midwest Antiviral Drug Discovery Center,prod,"midwestavidd.dev.umn.edu, midwestavidd.stg.umn.edu",adangol,midwestavidd.umn.edu,MED - Medical School,None,False,,True,Drupal
+1349,Mini Medical School,prod,"minimedicalschool.umn.edu, minimedicalschool.dev.umn.edu",dlv,minimedicalschool.umn.edu,MED - Medical School,None,False,,True,Drupal
+1244,Minnesota-Mayo Clinic Center for Microbiomes and Microbial Communities,prod,"mmc.dev.umn.edu, mmc.stg.umn.edu",rchunter,mmc.umn.edu,MED - Medical School,None,False,,True,Drupal
+1137,Minnesota Biomedical Undergraduate Research Program,prod,"mburp.umn.edu, mburp.stg.umn.edu, mburp.dev.umn.edu","adangol, span0005",mburp.umn.edu,MED - Medical School,None,False,,True,Drupal
+1178,Minnesota Center for Eating Disorders Research,prod,"mcedr.dev.umn.edu, mcedr.stg.umn.edu","mcedr, rasmu960, adangol",mcedr.umn.edu,MED - Medical School,None,False,,True,Drupal
+1204,Minnesota Islet Club,prod,"mnisletclub.dev.umn.edu, mnisletclub.stg.umn.edu",mayhe001,mnisletclub.umn.edu,MED - Medical School,None,False,,True,Drupal
+1285,Minnesota Regional Spinal Cord Injury Model System (MN Regional SCIMS),prod,"mnscims.dev.umn.edu, mnscims.stg.umn.edu","phili272, adangol",mnscims.umn.edu,MED - Medical School,None,False,,True,Drupal
+1282,Minnesota Rehabilitation Biomechanics Lab,"test, prod","mrbl.dev.umn.edu, mrbl.stg.umn.edu, mrbl.dl9.umn.edu","ellin224, saini041",mrbl.umn.edu,MED - Medical School,None,False,,True,Drupal
+1165,Minnesota Tic and Compulsivity Lab,prod,"ticlab.dev.umn.edu, ticlab.stg.umn.edu","cconelea, adangol",ticlab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1256,Misono Voice Research,"dev, test, prod","voiceresearch.stg.umn.edu, voiceresearch.dev.umn.edu, voiceresearch.dl9.umn.edu","foley225, smisono",voiceresearch.umn.edu,MED - Medical School,None,False,,True,Drupal
+1138,MN-LHS Scholar and Trainee Resources,prod,"mn-lhs-resources.dev.umn.edu, mn-lhs-resources.stg.umn.edu, mn-lhs-resources.umn.edu","oien0030, lindsay, trofh002",mn-lhs-resources.umn.edu,MED - Medical School,None,False,,True,Drupal
+1246,MnDRIVE Brain Conditions,prod,"mndrivebrainconditions.dev.umn.edu, mndrivebrainconditions.stg.umn.edu",kmolitor,mndrivebrainconditions.umn.edu,MED - Medical School,None,False,,True,Drupal
+1394,Motor Neurophysiology Laboratory,"test, prod","mnl.dl8.umn.edu, mnl.dev.umn.edu, mnl.stg.umn.edu",secooper,mnl.umn.edu,MED - Medical School,Moved from NEUR on 2025-05-15,False,,True,Drupal
+1242,Movement Control and Rehabilitation Lab,prod,"mcrlab.dev.umn.edu, mcrlab.stg.umn.edu, www.mcrlab.umn.edu",jayas045,mcrlab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1212,MPAT Graduate Students,prod,"students-mpat.dev.umn.edu, students-mpat.stg.umn.edu, mpatgradprogram.umn.edu","lindl076, adangol",students.mpat.umn.edu,MED - Medical School,None,False,,True,Drupal
+1316,msrc.umn.edu,prod,"msrc.dev.umn.edu, msrc.stg.umn.edu",doep0013,msrc.umn.edu,MED - Medical School,None,False,,True,Drupal
+1251,Multidisciplinary Head & Neck Cancer Clinic,prod,"headneckcancerclinic.dev.umn.edu, headneckcancerclinic.stg.umn.edu",olso7167,headneckcancerclinic.umn.edu,MED - Medical School,None,False,,True,Drupal
+1160,N Bud Grossman Center for Memory Research and Care,prod,"grossmancenter.umn.edu, grossmancenter.dev.umn.edu, grossmancenter.stg.umn.edu, grossmanmemorycenter.umn.edu",kdanders,grossmancenter.umn.edu,MED - Medical School,None,False,,True,Drupal
+1185,"Neurobiology of Emotion, Sleep, and Trauma (NEST) Lab","dev, test, prod","nestlab.dev.umn.edu, nestlab.stg.umn.edu",moha0987,nestlab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1395,Neuromodulation Research Center,"dev, prod","nmrc.dl8.umn.edu, nmrc.dev.umn.edu, nmrc.stg.umn.edu",doep0013,nmrc.umn.edu,MED - Medical School,Moved from NEUR on 2025-05-15,False,,True,Drupal
+1373,NeuroPRSMH,prod,neuroprsmh.umn.edu,"svinogra, redish",neuroprsmh.umn.edu,MED - Medical School,Moved from MED - PSYCH - Psychiatry on 2025-05-15,False,,True,Drupal
+1161,Neuroscience Research at UMN,prod,"neuroresearch.umn.edu, neuroresearch.dev.umn.edu, neuroresearch.stg.umn.edu","thom8868, adangol",neuroresearch.umn.edu,MED - Medical School,None,False,,True,Drupal
+1216,Neurosurgery Bios,prod,"bios-neurosurgery.dev.umn.edu, bios-neurosurgery.stg.umn.edu",adangol,bios.neurosurgery.umn.edu,MED - Medical School,None,False,,True,Drupal
+1370,Nielson Lab,"dev, test, prod","nielsonlab.stg.umn.edu, nielsonlab.dev.umn.edu, nielsonlab.dl9.umn.edu",jnielson,nielsonlab.umn.edu,MED - Medical School,Moved from MED - PSYCH - Psychiatry on 2025-05-15,False,,True,Drupal
+1392,NIH Strokenet,"test, prod","nihstrokenet.stg.umn.edu, nihstrokenet.dev.umn.edu, nihstrokenet.dl9.umn.edu","sarah, staug002, hans5471",nihstrokenet.umn.edu,MED - Medical School,Moved from NEUR on 2025-05-15,False,,True,Drupal
+1136,noahgoldfarb.umn.edu,prod,"noahgoldfarb.umn.edu, noahgoldfarb.dev.umn.edu, noahgoldfarb.stg.umn.edu",gold0414,noahgoldfarb.umn.edu,MED - Medical School,None,False,,True,Drupal
+1252,Non-invasive Neuromodulation Laboratories,prod,"nnl.stg.umn.edu, nnl.dev.umn.edu",liesk019,nnl.umn.edu,MED - Medical School,None,False,,True,Drupal
+1236,Oconnell Lab,prod,"oconnelllab.dev.umn.edu, oconnelllab.stg.umn.edu",mayhe001,oconnelllab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1139,ODEI Annual Report,prod,"odeiar.umn.edu, odeiar.dev.umn.edu, odeiar.stg.umn.edu","adangol, adindorf, vyas0054",odeiar.umn.edu,MED - Medical School,None,False,,True,Drupal
+1201,Office of Compliance,prod,"medcompliance.stg.umn.edu, medcompliance.dev.umn.edu","saverbec, lunn0042, adangol",medcompliance.umn.edu,MED - Medical School,None,False,,True,Drupal
+1277,Office of Professional Development Blog,prod,"medopdblog.dev.umn.edu, medopdblog.stg.umn.edu","adangol, richt310",medopdblog.umn.edu,MED - Medical School,None,False,,True,Drupal
+1276,Office of Student Health Benefits,"dev, test, prod","shb-d9.dev.umn.edu, shb-d9.stg.umn.edu, shb-d9.prd.umn.edu, www.shb.umn.edu","dougl361, thurs006, dougl330, angus025",shb.umn.edu,MED - Medical School,None,False,,True,Drupal
+1283,Otopathology Laboratory,"dev, test, prod","otopathology.dev.umn.edu, otopathology.stg.umn.edu","adangol, parkx825",otopathology.umn.edu,MED - Medical School,None,False,,True,Drupal
+1158,"Our Body, Our Health",prod,"jirkeena.umn.edu, jirkeena.dev.umn.edu, jirkeena.stg.umn.edu","soldier, conno043, huber621, adangol",jirkeena.umn.edu,MED - Medical School,None,False,,True,Drupal
+1227,Pacak Lab,prod,"pacaklab.dev.umn.edu, pacaklab.stg.umn.edu",hans5471,pacaklab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1318,Pacak Lab,prod,"pacak.dev.umn.edu, pacak.stg.umn.edu",cpacak,pacak.umn.edu,MED - Medical School,None,False,,True,Drupal
+1348,pain-opioid-research.umn.edu,"dev, test, prod","pain-opioid-research.dev.umn.edu, pain-opioid-research.stg.umn.edu",kreb0001,pain-opioid-research.umn.edu,MED - Medical School,None,False,,True,Drupal
+1363,Pediatric Infectious Diseases CMV,"dev, test, prod","cmv.stg.umn.edu, cmv.dev.umn.edu, cmv.dl9.umn.edu","schleiss, adangol",cmv.umn.edu,MED - Medical School,Moved from MED - PEDS - Pediatric on 2025-05-15,False,,True,Drupal
+1187,"Pediatric Research, Education & Scholarship Symposium (PRESS)",prod,"press.dev.umn.edu, press.stg.umn.edu","pedsigp, pedsweb, nchandra, adangol",press.umn.edu,MED - Medical School,None,False,,True,Drupal
+1152,pengliu,prod,"pengliu.umn.edu, pengliu.dev.umn.edu, pengliu.stg.umn.edu, pengliulab.umn.edu","kdanders, adangol",pengliu.umn.edu,MED - Medical School,None,False,,True,Drupal
+1225,Physical Therapy,prod,"dptfaculty.dev.umn.edu, dptfaculty.stg.umn.edu",percy011,dptfaculty.umn.edu,MED - Medical School,None,False,,True,Drupal
+1220,Physiology Core,prod,"physiologycore.dev.umn.edu, physiologycore.stg.umn.edu","mayhe001, adangol",physiologycore.umn.edu,MED - Medical School,None,False,,True,Drupal
+1155,postbac,prod,"postbac.umn.edu, postbac.dev.umn.edu, postbac.stg.umn.edu","mayhe001, adangol",postbac.umn.edu,MED - Medical School,None,False,,True,Drupal
+1173,Preceptor Resources,"dev, test, prod","preceptor.dev.umn.edu, preceptor.stg.umn.edu","adangol, proff022, scozj",preceptor.umn.edu,MED - Medical School,None,False,,True,Drupal
+1292,PREVENT COVID U - COVID-19 Vaccination & Transmission Study (CoVPN 3006),prod,"preventcovidu.dev.umn.edu, preventcovidu.stg.umn.edu",cote0043,preventcovidu.umn.edu,MED - Medical School,None,False,,True,Drupal
+1194,Pride Month,prod,"pridemonth.dev.umn.edu, pridemonth.stg.umn.edu",adangol,pridemonth.umn.edu,MED - Medical School,None,False,,True,Drupal
+1351,Program in HIV Medicine,prod,program-hiv-medicine.umn.edu,olso7966,program-hiv-medicine.umn.edu,MED - Medical School,None,False,,True,Drupal
+1300,Project TRUST Parent Participatory Action Research (PPAR) Hub,"test, prod","pparhub.dev.umn.edu, pparhub.stg.umn.edu",hangx012,pparhub.umn.edu,MED - Medical School,None,False,,True,Drupal
+1324,Readiness and Resilience in National Guard Soldiers (RINGS) Project,"test, prod","rings.dev.umn.edu, rings.stg.umn.edu","marqu310, polus002",rings.umn.edu,MED - Medical School,None,False,,True,Drupal
+1296,ReCord,prod,"record.dev.umn.edu, record.stg.umn.edu","stof0040, roesl003",record.umn.edu,MED - Medical School,None,False,,True,Drupal
+1401,Redish Lab,"test, prod","redishlab.umn.edu, redishlab.dev.umn.edu, redishlab.stg.umn.edu",redish,redishlab.neuroscience.umn.edu,MED - Medical School,Moved from NSCI Neuroscience Admin (11918) on 2025-05-15,False,,True,Drupal
+1233,Redwood,prod,"redwood.dev.umn.edu, redwood.stg.umn.edu",snyd0014,redwood.umn.edu,MED - Medical School,None,False,,True,Drupal
+1145,Researchers and collaborators who use the facilities at CMRR,prod,"users-cmrr.dev.umn.edu, users-cmrr.stg.umn.edu","gran0260, adangol",users.cmrr.umn.edu,MED - Medical School,None,False,,True,Drupal
+1184,REVEAL Center,prod,"reveal.dev.umn.edu, reveal.stg.umn.edu",tyshy003,reveal.umn.edu,MED - Medical School,None,False,,True,Drupal
+1356,Revelo Lab,prod,revelolab.umn.edu,xrevelo,revelolab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1266,RISE Lab,"test, prod","rise.dev.umn.edu, rise.stg.umn.edu","krueg654, albot002",rise.umn.edu,MED - Medical School,None,False,,True,Drupal
+1325,Robbins Lab,prod,"robbins.dev.umn.edu, robbins.stg.umn.edu","adangol, kholmest, mille177",robbins.umn.edu,MED - Medical School,None,False,,True,Drupal
+1099,Ruan Laboratory,"test, prod","ruan.stg.umn.edu, ruan.dev.umn.edu, ruan.dl8.umn.edu",hruan,ruan.umn.edu,MED - Medical School,Moved from IBP Physiology Administration (11720) on 2025-05-15,False,,True,Drupal
+1219,Rural Providers,"dev, test, prod","ruralmd.dev.umn.edu, ruralmd.stg.umn.edu",adangol,ruralmd.umn.edu,MED - Medical School,None,False,,True,Drupal
+1235,Sarah Lofgren Research,prod,"lofgren-research.dev.umn.edu, lofgren-research.stg.umn.edu",lofg0020,lofgren-research.umn.edu,MED - Medical School,None,False,,True,Drupal
+1193,SAVE THE BOTTOMS!!!,prod,"savethebottoms.dev.umn.edu, savethebottoms.stg.umn.edu","adangol, arson001",savethebottoms.umn.edu,MED - Medical School,None,False,,True,Drupal
+1304,Serpent,prod,"seronet.dev.umn.edu, seronet.stg.umn.edu",schif184,seronet.umn.edu,MED - Medical School,None,False,,True,Drupal
+1357,sham lab,prod,shamlab.umn.edu,mayhe001,shamlab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1361,Siren,"dev, test, prod","siren.dev.umn.edu, siren.stg.umn.edu, siren.umn.edu, www.siren.umn.edu",jaton002,siren.umn.edu,MED - Medical School,None,False,,True,Drupal
+1263,"Sloan Laboratory, University of Minnesota Brain Tumor Program",prod,"sloanlab.dev.umn.edu, sloanlab.stg.umn.edu",comis010,sloanlab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1134,SMARTMind Study Website,prod,"smartmindstudy.dev.umn.edu, smartmindstudy.stg.umn.edu, smartmindstudy.umn.edu","adangol, hayee004",smartmindstudy.umn.edu,MED - Medical School,None,False,,True,Drupal
+1284,Spinal Cord Injury Psychosocial Outcomes and Wellbeing Research (SCI POWER) Lab,prod,"scipower.dev.umn.edu, scipower.stg.umn.edu","phili272, adangol",scipower.umn.edu,MED - Medical School,None,False,,True,Drupal
+1174,Spinal Cord Injury Resource,prod,"sci.stg.umn.edu, sci.dev.umn.edu","balse001, adangol",sci.umn.edu,MED - Medical School,None,False,,True,Drupal
+1379,Staley Lab,prod,staleylab.dl8.umn.edu,cmstaley,staleylab.umn.edu,MED - Medical School,Moved from MED - SURG (Surgery) on 2025-05-15,False,,True,Drupal
+1366,State Adolescent Health Resource Center (SAHRC),prod,"sahrc.dev.umn.edu, sahrc.stg.umn.edu",muen0001,sahrc.umn.edu,MED - Medical School,Moved from MED - PEDS - Pediatric on 2025-05-15,False,,True,Drupal
+1240,Stroke Research Fellowship,prod,"strokefellowship.dev.umn.edu, strokefellowship.stg.umn.edu, strokeresearchfellowship.umn.edu, strokefellowship.umn.edu","buss0194, adangol",strokefellowship.umn.edu,MED - Medical School,None,False,,True,Drupal
+1286,Study Recruitment for Department of Family Medicine and Community Health PEACH Project,prod,"peachproject.dev.umn.edu, peachproject.stg.umn.edu",adangol,peachproject.umn.edu,MED - Medical School,None,False,,True,Drupal
+1297,The Giubellino Lab,prod,"giubellinolab.dev.umn.edu, giubellinolab.stg.umn.edu","songx047, agiubell",giubellinolab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1354,The Hughey Laboratory,prod,hugheylab.umn.edu,chughey,hugheylab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1352,The Laboratory of Linda McLoon,prod,lmcloon.umn.edu,mcloo001,lmcloon.umn.edu,MED - Medical School,None,False,,True,Drupal
+1146,The Liang Lab,prod,"lianglab.dev.umn.edu, lianglab.stg.umn.edu","adangol, gillx236",lianglab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1265,The Scope,prod,"scope.dev.umn.edu, scope.stg.umn.edu",adangol,scope.umn.edu,MED - Medical School,None,False,,True,Drupal
+1323,Thomas Lab,"test, prod","thomaslab.dev.umn.edu, thomaslab.stg.umn.edu","stefanit, twigg021",thomaslab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1192,TicTech,prod,"tictech.dev.umn.edu, tictech.stg.umn.edu","canlab, cconelea",tictech.umn.edu,MED - Medical School,None,False,,True,Drupal
+1218,Total Pancreatectomy- Islet Autotransplantation,prod,"tpiat.dev.umn.edu, tpiat.stg.umn.edu",bell0130,tpiat.umn.edu,MED - Medical School,None,False,,True,Drupal
+1258,Townsend Lab,"dev, test","townsendlab-dl.dev.umn.edu, townsendlab-dl.stg.umn.edu",town0045,townsendlab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1321,Townsend Laboratory,"dev, test, prod","townsendlab.dev.umn.edu, townsendlab.stg.umn.edu, townsendlab.dl9.umn.edu",town0045,townsendlab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1182,Transitioning to Employment,prod,"transition.dev.umn.edu, transition.stg.umn.edu","bose0078, kale0040",transition.umn.edu,MED - Medical School,None,False,,True,Drupal
+1234,Translational Center for Resuscitative Trauma Care,prod,"traumacare.dev.umn.edu, traumacare.stg.umn.edu, tccmembers.umn.edu",adangol,traumacare.umn.edu,MED - Medical School,None,False,,True,Drupal
+1400,UIC Orders,"dev, test, prod","orders-uic.dev.umn.edu, orders-uic.stg.umn.edu",amun0130,orders-uic.umn.edu,MED - Medical School,Moved from NSCI Neuroscience Admin (11918) on 2025-05-15,False,,True,Drupal
+1170,Ultrahigh Field MRI Technology and Translation Lab,"dev, test, prod","metzger.dev.umn.edu, metzger.stg.umn.edu",gmetzger,metzger.umn.edu,MED - Medical School,None,False,,True,Drupal
+1238,UMN Adult Reconstructive Surgery Fellowship,prod,"adultreconfellowship.dev.umn.edu, adultreconfellowship.stg.umn.edu",olso7167,adultreconfellowship.umn.edu,MED - Medical School,None,False,,True,Drupal
+1337,UMN COVID-19 Clinical Trials,"dev, prod","covidpep.dev.umn.edu, covidpep.umn.edu, www.covidpep.umn.edu",pullen,covidpep.umn.edu,MED - Medical School,None,False,,True,Drupal
+1287,UMN Integrative Psychiatry and Wellness,prod,"psychwellness.dev.umn.edu, psychwellness.stg.umn.edu",slomi001,psychwellness.umn.edu,MED - Medical School,None,False,,True,Drupal
+1288,UMN SCI Research Registry,prod,"sciresearch.dev.umn.edu, sciresearch.stg.umn.edu","rwudlick, adangol, kmonden",sciresearch.umn.edu,MED - Medical School,None,False,,True,Drupal
+1281,UMN/M Health Fairview Neuromuscular Pathology Lab,prod,"nmpathlab.dev.umn.edu, nmpathlab.stg.umn.edu","hans5471, amund579",nmpathlab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1303,Undergraduate Physiology Research In Medicine and Education (UPRIME),prod,"uprime.dev.umn.edu, uprime.stg.umn.edu",joh07644,uprime.umn.edu,MED - Medical School,None,False,,True,Drupal
+1336,University of Minnesota COVID-19 Pre-Exposure Prophylaxis Clinical Trial,prod,"covidprep.dev.umn.edu, covidprep.umn.edu, www.covidprep.umn.edu",pullen,covidprep.umn.edu,MED - Medical School,None,False,,True,Drupal
+1179,University of Minnesota NeuroNetwork,prod,"neuronetwork.dev.umn.edu, neuronetwork.stg.umn.edu",lanier,neuronetwork.umn.edu,MED - Medical School,None,False,,True,Drupal
+1365,Use of Metformin for prevention and early outpatient treatment of SARS-CoV-2,prod,"metstudy.dev.umn.edu, metstudy.stg.umn.edu, covidout.umn.edu",bramante,metstudy.umn.edu,MED - Medical School,Moved from MED - PEDS - Pediatric on 2025-05-15,False,,True,Drupal
+1376,Vinogradov Lab,prod,"vino.umn.edu, vinogradovlab.umn.edu, cotipplab.umn.edu",scher488,vino.umn.edu,MED - Medical School,Moved from MED - PSYCH - Psychiatry on 2025-05-15,False,,True,Drupal
+1306,Viral Vector and Cloning Core,"dev, test, prod","vvcc.stg.umn.edu, vvcc.dev.umn.edu, vvcc.dl9.umn.edu",wickm002,vvcc.umn.edu,MED - Medical School,None,False,,True,Drupal
+1358,williams lab,prod,williamslab.umn.edu,mayhe001,williamslab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1301,"Women in Anesthesiology, University of Minnesota chapter",prod,"wia.dev.umn.edu, wia.stg.umn.edu","adangol, joh17977",wia.umn.edu,MED - Medical School,None,False,,True,Drupal
+1289,www.theadamslab.org,"test, prod","adamslab.dev.umn.edu, adamslab.stg.umn.edu",atbrower,adamslab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1205,Yamamoto Lab,prod,"yamamotolab.dev.umn.edu, yamamotolab.stg.umn.edu","adangol, toura018, yamam016",yamamotolab.umn.edu,MED - Medical School,None,False,,True,Drupal
+1172,Youth Health Connect,"test, prod","youthhealthconnect.dev.umn.edu, youthhealthconnect.stg.umn.edu",stof0040,youthhealthconnect.umn.edu,MED - Medical School,None,False,,True,Drupal

@@ -1,0 +1,2 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1693,Crookston,"dev, test, prod","crk-d9.dev.umn.edu, crk-d9.stg.umn.edu, crk-d9.prd.umn.edu, c.umn.edu, www.c.umn.edu, news.crk.umn.edu, www.crookston.umn.edu, crookston.umn.edu, www.crk.umn.edu, crk.umn.edu","albailey, dtadege, nels2371, ehunter, ferna692, kristinw, pbhamidi, peake035, matt, batchiso",crk.umn.edu,UMC - Crookston,None,True,,True,Drupal

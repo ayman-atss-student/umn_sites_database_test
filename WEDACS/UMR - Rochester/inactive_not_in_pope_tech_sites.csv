@@ -1,0 +1,2 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1824,UMR Public Health,prod,"umrpublichealth.dev.umn.edu, umrpublichealth.stg.umn.edu","kosiecki, jbarnett",umrpublichealth.umn.edu,UMR - Rochester,None,False,,False,Drupal

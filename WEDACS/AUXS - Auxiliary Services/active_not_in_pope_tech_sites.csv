@@ -1,0 +1,4 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+142,Creative Services,prod,"creative-ideas.dev.umn.edu, creative-ideas.stg.umn.edu",anderslj,creative-ideas.umn.edu,AUXS - Auxiliary Services,None,False,,True,Drupal
+1601,Print Shop Web Team,"dev, test, prod","psweb.stg.umn.edu, psweb.dev.umn.edu",anderslj,psweb.umn.edu,AUXS - Auxiliary Services,Moved from Printing Plant on 2025-05-15,False,,True,Drupal
+143,University of Minnesota Communicator's Forum,"dev, test, prod","umcf-d9.dev.umn.edu, umcf-d9.stg.umn.edu, umcf-d9.prd.umn.edu, umcf.umn.edu",nickm,umcf.umn.edu,AUXS - Auxiliary Services,None,False,,True,Drupal

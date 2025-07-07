@@ -1,0 +1,19 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1921,Allen D. Leman Swine Conference,prod,"lemanconference.dev.umn.edu, lemanconference.stg.umn.edu","valla020, luss0021",lemanconference.umn.edu,Vetmed - Veterinarian Medicine,None,True,,True,Drupal
+1936,Antimicrobial Resistance and Stewardship Initiative,prod,arsi.umn.edu,leofx003,arsi.umn.edu,Vetmed - Veterinarian Medicine,None,True,,True,Drupal
+1901,AntiMicrobial Resistance Research Experience for Teachers,prod,"amrr4teachers-vetmed.dev.umn.edu, amrr4teachers-vetmed.stg.umn.edu",barne063,amrr4teachers-vetmed.umn.edu,Vetmed - Veterinarian Medicine,None,True,,True,Drupal
+1914,Canine Genetics Lab,prod,"canine-genetics.dev.umn.edu, canine-genetics.stg.umn.edu","keauxier, mmoen, luss0021",canine-genetics.umn.edu,Vetmed - Veterinarian Medicine,None,True,,True,Drupal
+1924,College of Veterinary Medicine Intranet,"dev, test, prod","intranet-vetmed-d9.dev.umn.edu, intranet-vetmed-d9.stg.umn.edu, intranet-vetmed.umn.edu, intranet.vetmed.umn.edu, www.intranet.vetmed.umn.edu","keauxier, luss0021",intranet-vetmed.umn.edu,Vetmed - Veterinarian Medicine,None,True,,True,Drupal
+1935,Companion Animal Veterinary Surveillance Network (CAVSNET),prod,"cavsnet.umn.edu, cavsnet.dev.umn.edu",leofx003,cavsnet.umn.edu,Vetmed - Veterinarian Medicine,None,True,,True,Drupal
+1907,CWD Biosecurity for Cervid Farms,prod,"cwdbiosecurity.dev.umn.edu, cwdbiosecurity.stg.umn.edu","valla020, luss0021",cwdbiosecurity.umn.edu,Vetmed - Veterinarian Medicine,None,True,,True,Drupal
+1922,Dairy Conference,prod,"dairyhealthconference.dev.umn.edu, dairyhealthconference.stg.umn.edu","valla020, luss0021",dairyhealthconference.umn.edu,Vetmed - Veterinarian Medicine,None,True,,True,Drupal
+1923,Equine Genetics and Genomics Laboratory,prod,"equine-genetics.dev.umn.edu, equine-genetics.stg.umn.edu","keauxier, luss0021",equine-genetics.umn.edu,Vetmed - Veterinarian Medicine,None,True,,True,Drupal
+1931,foodprotection,prod,"foodprotection.dl8.umn.edu, foodprotection-dl8.dev.umn.edu, www.foodprotection.umn.edu","keauxier, luss0021",foodprotection.umn.edu,Vetmed - Veterinarian Medicine,None,True,,True,Drupal
+1926,Johnson Lab,prod,"johnsonlab.dev.umn.edu, johnsonlab.stg.umn.edu",tjj,johnsonlab.umn.edu,Vetmed - Veterinarian Medicine,None,True,,True,Drupal
+1918,Lang Lab,prod,"langlab.dev.umn.edu, langlab.stg.umn.edu","barne063, klang, luss0021",langlab.umn.edu,Vetmed - Veterinarian Medicine,None,True,,True,Drupal
+1902,Liang/Ly Virology Labs,prod,"lianglyvirology-vetmed.umn.edu, lianglyvirology-vetmed.dev.umn.edu, lianglyvirology-vetmed.stg.umn.edu",barne063,lianglyvirology-vetmed.umn.edu,Vetmed - Veterinarian Medicine,None,True,,True,Drupal
+1925,Minnesota Veterinary Historical Museum,prod,"hist-vetmed.dev.umn.edu, hist-vetmed.stg.umn.edu, hist-vetmed.umn.edu, hist.cvm.umn.edu","keauxier, luss0021, kuenn021",hist-vetmed.umn.edu,Vetmed - Veterinarian Medicine,None,True,,True,Drupal
+1904,The Skinner Lab,prod,"skinnerlab-vetmed.dev.umn.edu, skinnerlab-vetmed.stg.umn.edu",barne063,skinnerlab-vetmed.umn.edu,Vetmed - Veterinarian Medicine,None,True,,True,Drupal
+1906,Veterinary Medicine Student Intranet,prod,"students-vetmed.dev.umn.edu, students-vetmed.stg.umn.edu","nels2371, luss0021",students-vetmed.umn.edu,Vetmed - Veterinarian Medicine,None,True,,True,Drupal
+1919,VeTouch,"test, prod","vetouch.stg.umn.edu, vetouch.dev.umn.edu, vetouch.dl9.umn.edu",rudd0094,vetouch.umn.edu,Vetmed - Veterinarian Medicine,None,True,,True,Drupal
+1915,Website for Bruce Walcheck Laboratory,prod,"walchecklab-dl9.dev.umn.edu, walchecklab-dl9.stg.umn.edu, walchecklab.dl9.umn.edu","barne063, luss0021",walchecklab.umn.edu,Vetmed - Veterinarian Medicine,None,True,,True,Drupal

@@ -1,0 +1,7 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1442,Enterprise Data Management and Reporting,"dev, test, prod","edmr-d8.dev.umn.edu, edmr.dl8.umn.edu, edmr-d8.stg.umn.edu, www.edmr.umn.edu",walla819,edmr.umn.edu,UFIN - University Finance,Moved from OIR - Office of Institutional Research on 2025-05-15,False,,True,Drupal
+1665,Financial Instruction,"test, prod","financial.stg.umn.edu, financial.dev.umn.edu, financial.dl9.umn.edu",payet003,financial.umn.edu,UFIN - University Finance,None,False,,True,Drupal
+1668,Institutional Data and Research,"dev, test, prod","idr.dev.umn.edu, idr.stg.umn.edu, idr.prd.umn.edu, www.idr.umn.edu, www.oir.umn.edu, oir.umn.edu","tarab005, kendrick, perr0273, delo0041",idr.umn.edu,UFIN - University Finance,None,False,,True,Drupal
+1678,LLLresearch,prod,"lllresearch.dev.umn.edu, lllresearch.stg.umn.edu",botx0006,lllresearch.umn.edu,UFIN - University Finance,None,False,,True,Drupal
+1677,Office of Internal Audit,"dev, prod","audit-dl9.dev.umn.edu, audit-dl9.stg.umn.edu, audit.dl9.umn.edu",wolfa001,audit.umn.edu,UFIN - University Finance,None,False,,True,Drupal
+1443,oir-d8.umn.edu,"dev, test, prod","oir-d8.dev.umn.edu, oir-d8.stg.umn.edu, www.oir.umn.edu, oir.umn.edu","tarab005, kendrick, delo0041, perr0273",oir.umn.edu,UFIN - University Finance,Moved from OIR - Office of Institutional Research on 2025-05-15,False,,True,Drupal

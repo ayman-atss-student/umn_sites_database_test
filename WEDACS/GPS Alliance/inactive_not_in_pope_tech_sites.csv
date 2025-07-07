@@ -1,0 +1,5 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1070,easystem.umn.edu,"dev, test, prod","easystem.dev.umn.edu, easystem.stg.umn.edu","blahnik, tdbedner, emomtche, harri740",easystem.umn.edu,GPS Alliance,None,False,,False,Drupal
+1073,ISSS Casebook,"dev, test, prod","casebook.dev.umn.edu, casebook.stg.umn.edu, www.casebook.umn.edu","emomtche, tdbedner, harri740",casebook.umn.edu,GPS Alliance,None,False,,False,Drupal
+1059,UM Learning Abroad Atlas,"dev, test, prod","umabroad-atlas.dev.umn.edu, umabroad-atlas.stg.umn.edu, umabroad-atlas.prd.umn.edu",volna007,umabroad-atlas.umn.edu,GPS Alliance,None,False,,False,Drupal
+1060,Watercooler,"dev, test, prod","umabroad-watercooler.dev.umn.edu, umabroad-watercooler.stg.umn.edu",volna007,umabroad-watercooler.umn.edu,GPS Alliance,None,False,,False,Drupal

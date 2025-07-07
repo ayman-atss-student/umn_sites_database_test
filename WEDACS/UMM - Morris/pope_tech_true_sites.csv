@@ -1,0 +1,7 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1818,Give to UMN Morris,"dev, test, prod","give-morris.dev.umn.edu, give-morris.stg.umn.edu, give.morris.umn.edu, www.give.morris.umn.edu","matt, thom7978",give.morris.umn.edu,UMM - Morris,None,True,,True,Drupal
+1821,Morris Campus,"dev, test, prod","morris-d9.dev.umn.edu, morris-d9.stg.umn.edu, morris-d9.prd.umn.edu, www.morris.umn.edu, www.mrs.umn.edu, www.m.umn.edu, mrs.umn.edu, www4.morris.umn.edu, morris.umn.edu","matt, thom7978, dtadege, nels2371, ehunter, ferna692, kristinw, pbhamidi, peake035, batchiso",morris.umn.edu,UMM - Morris,None,True,,True,Drupal
+1823,Morris Campus Governance,"dev, prod","governance-morris.dev.umn.edu, governance-morris.stg.umn.edu, www.governance.morris.umn.edu","matt, thom7978",governance.morris.umn.edu,UMM - Morris,None,True,,True,Drupal
+1822,UMM Archives,"dev, test, prod","archives.morris.umn.edu, archives.stg.morris.umn.edu, archives.dev.morris.umn.edu","matt, thom7978",archives.morris.umn.edu,UMM - Morris,None,True,,True,Drupal
+1817,UMN Morris Alumni Association,"dev, test, prod","alumni-morris.prd.umn.edu, alumni-morris.stg.umn.edu, alumni-morris.dev.umn.edu, www.alumni.morris.umn.edu","matt, thom7978",alumni.morris.umn.edu,UMM - Morris,None,True,,True,Drupal
+1820,UMN Morris Library,"dev, test, prod","library-d9-morris.dev.umn.edu, library-d9-morris.stg.umn.edu, library-morris.prd.umn.edu, library.morris.umn.edu, www.library.morris.umn.edu","matt, thom7978",library.morris.umn.edu,UMM - Morris,None,True,,True,Drupal

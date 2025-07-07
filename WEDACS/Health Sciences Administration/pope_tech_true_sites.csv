@@ -1,0 +1,8 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1090,academies-excellence.umn.edu,prod,academies-excellence.dev.umn.edu,dlv,academies-excellence.umn.edu,Health Sciences Administration,None,True,,True,Drupal
+1091,Cancer Survivorship Conference,prod,"survivorship.umn.edu, survivorship.dev.umn.edu",ford0439,survivorship.umn.edu,Health Sciences Administration,None,True,,True,Drupal
+1089,Center for Translational Medicine,prod,translational-medicine.dev.umn.edu,dlv,translational-medicine.umn.edu,Health Sciences Administration,None,True,,True,Drupal
+1080,Community Arts @ Health Sciences,prod,"hscommunityarts.dev.umn.edu, hscommunityarts.stg.umn.edu",engeb013,hscommunityarts.umn.edu,Health Sciences Administration,None,True,,True,Drupal
+1086,Institute for Global Cancer Prevention Research,prod,"igcpr.dev.umn.edu, igcpr.stg.umn.edu, www.igcpr.umn.edu",dlv,igcpr.umn.edu,Health Sciences Administration,None,True,,True,Drupal
+1088,Mouse Genetics Laboratory,prod,"mouse-genetics-laboratory.dev.umn.edu, mouse-genetics-laboratory.stg.umn.edu",dlv,mouse-genetics-laboratory.umn.edu,Health Sciences Administration,None,True,,True,Drupal
+1081,RE Lab,prod,"relab.dev.umn.edu, relab.stg.umn.edu, relab.dl9.umn.edu, sane.umn.edu",dlv,relab.umn.edu,Health Sciences Administration,None,True,,True,Drupal

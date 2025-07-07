@@ -1,0 +1,4 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+192,Behrens Lab,"dev, test, prod","behrenslab.dl8.umn.edu, behrenslab.stg.umn.edu, behrenslab.umn.edu",sbehrens,behrenslab.umn.edu,CBS - College of Biological Sciences,None,False,,True,Drupal
+181,Railroad Club at the University of Minnesota,"dev, test, prod","rrclub.stg.umn.edu, rrclub.dev.umn.edu, rrclub.dl9.umn.edu",galat002,rrclub.umn.edu,CBS - College of Biological Sciences,None,False,,True,Drupal
+162,Speaking Science,prod,"speakingscience.dev.umn.edu, speakingscience.stg.umn.edu",sxenos,speakingscience.umn.edu,CBS - College of Biological Sciences,None,False,,True,Drupal

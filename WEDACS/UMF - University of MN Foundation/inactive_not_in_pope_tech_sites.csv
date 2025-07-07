@@ -1,0 +1,2 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1810,Cues and Kicks,dev,"cuesandkicks-dl8.dev.umn.edu, cuesandkicks-dl8.stg.umn.edu","cmahan, pet00503, awojciec",cuesandkicks.umn.edu,UMF - University of MN Foundation,None,False,,False,Drupal

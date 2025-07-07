@@ -1,0 +1,6 @@
+id,title,environments,aliases,owners,primary_url,department,notes,pope_tech,errors,active,cms
+1033,Alphavirus Mutation Browser,prod,"virusclass2mut.dev.umn.edu, virusclass2mut.stg.umn.edu, virusclass2mut.umn.edu","zhangwei, hong0699",virusclass2mut.umn.edu,DENT - Dentistry,None,True,,True,Drupal
+1035,Bereiter Lab,"test, prod","bereiterlab.stg.umn.edu, bereiterlab.dev.umn.edu, bereiterlab.dl9.umn.edu",conradz,bereiterlab.umn.edu,DENT - Dentistry,None,True,,True,Drupal
+1034,Dr. Bruno Lima Lab,prod,"lima.dev.umn.edu, lima.stg.umn.edu",conradz,lima.umn.edu,DENT - Dentistry,None,True,,True,Drupal
+1039,Oral Health Services for Older Adults,"test, prod","ohsoa.stg.umn.edu, ohsoa.dev.umn.edu, ohsoa.dl8.umn.edu, ohsoa.umn.edu","mlove, conradz",ohsoa.umn.edu,DENT - Dentistry,None,True,,True,Drupal
+1036,University of Minnesota Oral Pathology Laboratory,"dev, test, prod","oralpath.stg.umn.edu, oralpath.dev.umn.edu, oralpath.dl9.umn.edu",conradz,oralpath.umn.edu,DENT - Dentistry,None,True,,True,Drupal
