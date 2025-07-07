@@ -451,23 +451,29 @@ def wedacs_list():
     
 @app.route('/')
 def index():
-    """Route to load server data onto page. All data is loaded to allow for efficient client-side search and filtering"""
+    """Route to load server data onto page. All data is loaded to allow for efficient client-side
+    search and filtering"""
+    # Ensure DEPARTMENTS is populated
+    if not DEPARTMENTS:
+        populate(DEPARTMENTS)
+
     conn = get_db_connection()
-    cur = conn.cursor()
+    cur = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)  # Use DictCursor for easier template use
 
     dept_data = {}
     for department in DEPARTMENTS:
         cur.execute(department['query'])
         dept_data[department['title']] = cur.fetchall()
-    
-    # cur.execute('''
-    #     SELECT * FROM public.drupal_sites_by_department
-    #     ORDER BY id''')
-    # all_data = cur.fetchall()
+
     cur.close()
     conn.close()
-    
-    return render_template('index.html', tables=DEPARTMENTS, table_data=dept_data, contacts=CONTACTS) #, all_data=all_data
+
+    return render_template(
+        'index.html',
+        tables=DEPARTMENTS,
+        table_data=dept_data,
+        contacts=CONTACTS
+    )
 
 @app.route('/create', methods=['POST']) 
 def create(): 
