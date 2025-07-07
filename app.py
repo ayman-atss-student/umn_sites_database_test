@@ -861,6 +861,13 @@ def delete_contact():
         conn.close()
     
     return redirect(url_for('index'))
+@app.route('/debug')
+def debug():
+    conn = get_db_connection()
+    cur = conn.cursor()
+    cur.execute("SELECT * FROM public.drupal_sites_by_department LIMIT 5;")
+    rows = cur.fetchall()
+    return str(rows)
 
 if __name__ == '__main__':
     populate(DEPARTMENTS) #Load in views from the schema before running the app
