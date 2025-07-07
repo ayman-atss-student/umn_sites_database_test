@@ -18,6 +18,7 @@ import time #for password expiration timestamp
 
 #Local server for demo, not to be used in production
 app = Flask(__name__)
+#app.config["SQLALCHEMY_DATABASE_URI"] = "postgresql://umn_sites_database_test_oax2_user:DhIQvG4e3X1Vr0VX1fAH6mVooUk9ZRUg@dpg-d1luqf6mcj7s73avju8g-a.ohio-postgres.render.com/umn_sites_database_test_oax2"
 dbHost = "localhost"
 dbName = "DrupalSitesByDepartment"
 dbUser = "postgres"
