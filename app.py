@@ -19,10 +19,10 @@ import time #for password expiration timestamp
 #Local server for demo, not to be used in production
 app = Flask(__name__)
 #app.config["SQLALCHEMY_DATABASE_URI"] = "postgresql://umn_sites_database_test_oax2_user:DhIQvG4e3X1Vr0VX1fAH6mVooUk9ZRUg@dpg-d1luqf6mcj7s73avju8g-a.ohio-postgres.render.com/umn_sites_database_test_oax2"
-dbHost = "dpg-d1luqf6mcj7s73avju8g-a"
-dbName = "umn_sites_database_test_oax2"
-dbUser = "umn_sites_database_test_oax2_user"
-dbPassword = None #This will be set at runtime for security purposes
+dbHost = os.environ.get("DB_HOST") #"dpg-d1luqf6mcj7s73avju8g-a"
+dbName = os.environ.get("DB_NAME") #"umn_sites_database_test_oax2"
+dbUser = os.environ.get("DB_USER") #"umn_sites_database_test_oax2_user"
+dbPassword = os.environ.get("DB_PASSWORD")
 DEPARTMENTS = [] #Initialize array for storing department names and queries
 CONTACTS = [] #WEDAC contatcs for each department
 # File to temporarily store password
@@ -101,13 +101,12 @@ def get_db_password():
 
 def get_db_connection():
     """Create and return database connection using the stored password. Host and port will be different in production"""
-    password = "DhIQvG4e3X1Vr0VX1fAH6mVooUk9ZRUg"
     
     # Return a new connection using the password
     return psycopg2.connect(
         database=dbName,
         user=dbUser,
-        password=password,
+        password=dbPassword,
         host=dbHost,
         port="5432"
     )
