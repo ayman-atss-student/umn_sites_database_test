@@ -224,6 +224,7 @@ def populate_contacts(CONTACTS):
     cur = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)
     cur.execute('SELECT * FROM public."wedac_contacts" ORDER BY id')
     contacts = cur.fetchall()
+    print(f"First check (raw data): {contacts}")
 
     for contact in contacts:
         # Now contact is a dict, so access by key
@@ -460,7 +461,7 @@ def index():
 
     cur.close()
     conn.close()
-
+    print(f"Final check (CONTACTS list of dicts): {CONTACTS}")
     return render_template(
         'index.html',
         tables=DEPARTMENTS,
