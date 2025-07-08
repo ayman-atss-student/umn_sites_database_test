@@ -23,7 +23,7 @@ app = Flask(__name__)
 # dbUser = os.environ.get("DB_USER") #"umn_sites_database_test_oax2_user"
 # dbPassword = os.environ.get("DB_PASSWORD")
 DEPARTMENTS = [] #Initialize array for storing department names and queries
-CONTACTS = [] #WEDAC contatcs for each department
+CONTACTS = [] #WEDAC contacts for each department
 # File to temporarily store password
 TEMP_PASSWORD_FILE = os.path.join(tempfile.gettempdir(), 'flask_db_password_temp')
 # Password expiration time in seconds (30 minutes)
@@ -217,33 +217,26 @@ def populate_contacts(CONTACTS):
     Populate contacts table for each department based on
     wedac_contacts table in schema
     Args:
-        CONTACTS (array): Array of dictionaries containing
-        key-value pairs of departments and WEDAC contact info
+        CONTACTS (array): Array of dictionaries containing key-value pairs of departments and WEDAC contact info
     """
     conn = get_db_connection()
-    cur = conn.cursor()
-    cur.execute('''SELECT * FROM public."wedac_contacts" ORDER BY id''')
+    # Use DictCursor to get dict results
+    cur = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)
+    cur.execute('SELECT * FROM public."wedac_contacts" ORDER BY id')
     contacts = cur.fetchall()
 
     for contact in contacts:
-        department = contact[1]
-        name = contact[2]
-        email = contact[3]
-        if contact[4] != None:
-            site = contact[4]
-        else:
-            site = 'None'
+        # Now contact is a dict, so access by key
+        department = contact['department']
+        name = contact['name']
+        email = contact['email']
+        site = contact['site'] if contact['site'] is not None else 'None'
         CONTACTS.append({
             'department': department,
             'name': name,
             'email': email,
             'site': site
         })
-        # print("Department: "+contact[1]) #debug
-        # print("Name: "+contact[2]) #debug
-        # print("Email: "+contact[3]) #debug
-        #print("Site (if applicable): "+contact[4])
-    #print(CONTACTS) #debug
     print(f"{len(contacts)} contacts populated successfully")
     cur.close()
     conn.close()
