@@ -865,7 +865,7 @@ def delete_contact():
 def debug():
     conn = get_db_connection()
     cur = conn.cursor()
-    cur.execute("SELECT * FROM public.drupal_sites_by_department LIMIT 5;")
+    cur.execute("SELECT * FROM public.wedac_contacts LIMIT 5;")
     rows = cur.fetchall()
     return str(rows)
 
