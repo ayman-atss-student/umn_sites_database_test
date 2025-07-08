@@ -1483,18 +1483,23 @@ function moveAllData(sourceDepartment, targetDepartment) {
     // Close the modal
     moveAllModal.style.display = "none";
     
+    // Remove the old source department from the dropdown
+    const departmentDropdown = document.getElementById("department-dropdown");
+    if (departmentDropdown) {
+      // Find and remove the option with value == sourceDepartment
+      for (let i = 0; i < departmentDropdown.options.length; i++) {
+        if (departmentDropdown.options[i].value === sourceDepartment) {
+          departmentDropdown.remove(i);
+          break;
+        }
+      }
+    }
+    
     // Show success message
     alert(data.message);
-    
-    // Reload the page to reflect changes
-    window.location.reload();
-  })
-  .catch(error => {
-    console.error("Error:", error);
-    alert("An error occurred while moving data. Please try again.");
-    
-    // Close the modal
-    moveAllModal.style.display = "none";
+
+    // Optionally reload the page if you want to refresh all data
+    // window.location.reload();
   });
 }
 
