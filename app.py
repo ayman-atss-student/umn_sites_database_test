@@ -224,6 +224,7 @@ def populate_contacts(CONTACTS):
     cur = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)
     cur.execute('SELECT * FROM public.wedac_contacts ORDER BY id')
     contacts = cur.fetchall()
+    conn.commit()
     print(f"First check (raw data): {contacts}")
 
     for contact in contacts:
