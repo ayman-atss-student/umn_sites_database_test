@@ -449,6 +449,8 @@ def index():
     # Ensure DEPARTMENTS is populated
     if not DEPARTMENTS:
         populate(DEPARTMENTS)
+    if not CONTACTS:
+        populate_contacts(CONTACTS)
 
     conn = get_db_connection()
     cur = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)  # Use DictCursor for easier template use
