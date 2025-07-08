@@ -222,7 +222,7 @@ def populate_contacts(CONTACTS):
     conn = get_db_connection()
     # Use DictCursor to get dict results
     cur = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)
-    cur.execute('SELECT * FROM public."wedac_contacts" ORDER BY id')
+    cur.execute('SELECT * FROM public.wedac_contacts ORDER BY id')
     contacts = cur.fetchall()
     print(f"First check (raw data): {contacts}")
 
