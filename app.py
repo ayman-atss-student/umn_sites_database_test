@@ -18,10 +18,10 @@ import time #for password expiration timestamp
 
 #Local server for demo, not to be used in production
 app = Flask(__name__)
-# dbHost = os.environ.get("DB_HOST")
-# dbName = os.environ.get("DB_NAME") 
-# dbUser = os.environ.get("DB_USER") 
-# dbPassword = os.environ.get("DB_PASSWORD")
+dbHost = "localhost"
+dbName = "DrupalSitesByDepartment" 
+dbUser = "postgres"
+dbPassword = None
 DEPARTMENTS = [] #Initialize array for storing department names and queries
 CONTACTS = [] #WEDAC contacts for each department
 # File to temporarily store password
@@ -100,16 +100,17 @@ def get_db_password():
 
 def get_db_connection():
     """Create and return database connection using the stored password. Host and port will be different in production"""
-    db_url = os.environ.get("DATABASE_URL")
-    return psycopg2.connect(db_url)
+    # db_url = os.environ.get("DATABASE_URL")
+    # return psycopg2.connect(db_url)
+    dbPassword = get_db_password()
     # Return a new connection using the password
-    # return psycopg2.connect(
-    #     database=dbName,
-    #     user=dbUser,
-    #     password=dbPassword,
-    #     host=dbHost,
-    #     port="5432"
-    # )
+    return psycopg2.connect(
+        database=dbName,
+        user=dbUser,
+        password=dbPassword,
+        host=dbHost,
+        port="5432"
+    )
 
 def populate(DEPARTMENTS):
     """
@@ -225,7 +226,7 @@ def populate_contacts(CONTACTS):
     cur.execute('SELECT * FROM public.wedac_contacts ORDER BY id')
     contacts = cur.fetchall()
     conn.commit()
-    print(f"First check (raw data): {contacts}")
+    # print(f"First check (raw data): {contacts}")
 
     for contact in contacts:
         # Now contact is a dict, so access by key
@@ -463,7 +464,7 @@ def index():
 
     cur.close()
     conn.close()
-    print(f"Final check (CONTACTS list of dicts): {CONTACTS}")
+    # print(f"Final check (CONTACTS list of dicts): {CONTACTS}")
     return render_template(
         'index.html',
         tables=DEPARTMENTS,
