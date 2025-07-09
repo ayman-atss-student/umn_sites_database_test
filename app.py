@@ -18,9 +18,9 @@ import time #for password expiration timestamp
 
 #Local server for demo, not to be used in production
 app = Flask(__name__)
-# dbHost = os.environ.get("DB_HOST") #"dpg-d1luqf6mcj7s73avju8g-a"
-# dbName = os.environ.get("DB_NAME") #"umn_sites_database_test_oax2"
-# dbUser = os.environ.get("DB_USER") #"umn_sites_database_test_oax2_user"
+# dbHost = os.environ.get("DB_HOST")
+# dbName = os.environ.get("DB_NAME") 
+# dbUser = os.environ.get("DB_USER") 
 # dbPassword = os.environ.get("DB_PASSWORD")
 DEPARTMENTS = [] #Initialize array for storing department names and queries
 CONTACTS = [] #WEDAC contacts for each department
