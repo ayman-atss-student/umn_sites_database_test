@@ -30,7 +30,7 @@
 			display: none;
 		}
 	</style>
-	<body>
+	<body data-authenticated="{{ 'true' if is_authenticated else 'false' }}">
 		<!-- BEGIN HEADER -->
 		<header class="umnhf" id="umnhf-h" role="banner">
 			<!-- Skip Links: Give your nav and content elements the appropriate ID attributes -->
@@ -175,6 +175,22 @@
 				</button>
 				</div>
 			</form>
+			</div>
+		</div>
+
+		<!--Login Modal-->
+		<div id="login-modal" class="modal" style="display:none;">
+			<div class="modal-content">
+				<span class="close-modal" onclick="closeLoginModal()">&times;</span>
+				<h2>Login</h2>
+				<form id="login-form">
+				<label for="login-username">Username:</label>
+				<input type="text" id="login-username" name="username" required>
+				<label for="login-password">Password:</label>
+				<input type="password" id="login-password" name="password" required>
+				<button type="submit">Login</button>
+				<div id="login-error" style="color:red; display:none;"></div>
+				</form>
 			</div>
 		</div>
 

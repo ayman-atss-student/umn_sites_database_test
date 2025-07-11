@@ -73,6 +73,39 @@ function createBooleanBadge(value, shouldHighlight = false, searchTerm = "") {
 }
 
 document.addEventListener("DOMContentLoaded", () => {
+  function showLoginModal() {
+    document.getElementById('login-modal').style.display = 'block';
+  }
+
+  function closeLoginModal() {
+    document.getElementById('login-modal').style.display = 'none';
+  }
+  
+  var isAuthenticated = document.body.getAttribute('data-authenticated') === 'true';
+  if (!isAuthenticated) {
+    showLoginModal();
+  }
+  
+  document.getElementById('login-form').onsubmit = function(e) {
+    e.preventDefault();
+    const formData = new FormData(this);
+    fetch('/login', {
+      method: 'POST',
+      body: formData,
+      headers: {'X-Requested-With': 'XMLHttpRequest'}
+    })
+    .then(res => res.json())
+    .then(data => {
+      if (data.success) {
+        closeLoginModal();
+        window.location.reload();
+      } else {
+        document.getElementById('login-error').textContent = data.message;
+        document.getElementById('login-error').style.display = 'block';
+      }
+    });
+  };
+
   /**
    * Toggles the visibility of a department's data table and its add-entry form.
    * Changes the arrow icon to indicate expanded/collapsed state.
@@ -104,17 +137,14 @@ document.addEventListener("DOMContentLoaded", () => {
       toggleTable(this);
     });
   });
-});
 
-/*
-Integrated Search and Filter System
-- Search and filters work together to gather relevant results
-- Filter options update based on search results
-- Search operates on filtered data when filters are active
-- Handles all edge cases and maintains state consistency
-*/
-
-document.addEventListener("DOMContentLoaded", () => {
+  /*
+  Integrated Search and Filter System
+  - Search and filters work together to gather relevant results
+  - Filter options update based on search results
+  - Search operates on filtered data when filters are active
+  - Handles all edge cases and maintains state consistency
+  */
   // Global state management
   window.allData = []; // Complete dataset
   window.currentDataset = []; // Current working dataset (after search/filters)
@@ -1216,7 +1246,7 @@ document.addEventListener("DOMContentLoaded", () => {
         editModal.style.display = "none";
       }
     }
-  })
+  });
 
   // Department search functionality
   const departmentSearch = document.getElementById("department-search");
@@ -1232,8 +1262,8 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
     populateDepartmentList(departments);
-  })
-})
+  });
+});
 
 // Edit Modal functionality
 function openEditModal(id, tableName, title, environments, aliases, owners, primaryUrl, notes, popeTech, errors, active, cms) {

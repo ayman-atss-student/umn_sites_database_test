@@ -8,9 +8,11 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from urllib.parse import urlparse
 
 #Libraries below are for a locally-executed demo. Use UMN SSO in production
-import getpass # PostgreSQL requires a password for database access, so this will be passed into the command line for demo. 
-import re #hides the password input
-import threading
+from werkzeug.security import check_password_hash, generate_password_hash
+from datetime import timedelta
+from functools import wraps 
+import getpass
+
 import os # stores temporary password locally on user's machine 
 import json # key value for timestamp and password
 import tempfile # stores command line password input; not needed in production if SSO is implemented
@@ -18,10 +20,12 @@ import time #for password expiration timestamp
 
 #Local server for demo, not to be used in production
 app = Flask(__name__)
-dbHost = "localhost"
-dbName = "DrupalSitesByDepartment" 
-dbUser = "postgres"
-dbPassword = None
+app.secret_key = 'secretkey05032022'
+app.permanent_session_lifetime = timedelta(minutes=5)
+# dbHost = "localhost"
+# dbName = "DrupalSitesByDepartment" 
+# dbUser = "postgres"
+# dbPassword = None
 DEPARTMENTS = [] #Initialize array for storing department names and queries
 CONTACTS = [] #WEDAC contacts for each department
 # File to temporarily store password
@@ -100,17 +104,18 @@ def get_db_password():
 
 def get_db_connection():
     """Create and return database connection using the stored password. Host and port will be different in production"""
-    # db_url = os.environ.get("DATABASE_URL")
-    # return psycopg2.connect(db_url)
-    dbPassword = get_db_password()
+    db_url = os.environ.get("DATABASE_URL")
+    return psycopg2.connect(db_url)
+    # dbUsername = session.get('db_username')
+    # dbPassword = session.get('db_password')
     # Return a new connection using the password
-    return psycopg2.connect(
-        database=dbName,
-        user=dbUser,
-        password=dbPassword,
-        host=dbHost,
-        port="5432"
-    )
+    # return psycopg2.connect(
+    #     database=dbName,
+    #     user=dbUser,
+    #     password=get_db_password(),
+    #     host=dbHost,
+    #     port="5432"
+    # )
 
 def populate(DEPARTMENTS):
     """
@@ -445,14 +450,62 @@ def wedacs_list():
     cur.close()
     conn.close()
     
+def login_required(f):
+    @wraps(f)
+    def decorated_function(*args, **kwargs):
+        if 'user_id' not in session:
+            # Render the main page with is_authenticated=False
+            return render_template(
+                'index.html',
+                tables=[],
+                table_data={},
+                contacts=[],
+                is_authenticated=False
+            )
+        return f(*args, **kwargs)
+    return decorated_function
+
+@app.route('/login', methods=['GET', 'POST'])
+def login():
+    """Route to prompt user for username and password; connection lasts 60 minutes"""
+    if request.method == 'POST':
+        username = request.form.get('username')
+        password = request.form.get('password')
+        # Fetch user from DB
+        conn = get_db_connection()
+        cur = conn.cursor()
+        cur.execute('SELECT id, username, password_hash, role FROM users WHERE username = %s', (username,))
+        user = cur.fetchone()
+        cur.close()
+        conn.close()
+        if user and check_password_hash(user[2], password):
+            session.permanent = True
+            session['user_id'] = user[0]
+            session['username'] = user[1]
+            session['role'] = user[3]
+            return jsonify({'success': True})
+        return jsonify({'success': False, 'message': 'Invalid credentials'}), 401
+    else:
+        return jsonify({'message': 'Login endpoint. Use POST.'}), 200
+    
+@app.route('/logout')
+def logout():
+    """Route to end user session"""
+    session.clear()
+    return redirect(url_for('login'))
+
 @app.route('/')
+@login_required
 def index():
     """Route to load server data onto page. All data is loaded to allow for efficient client-side
     search and filtering"""
-    # Ensure DEPARTMENTS is populated
+
+    # Ensure DEPARTMENTS and CONTACTS are populated
     if not DEPARTMENTS:
         populate(DEPARTMENTS)
-    populate_contacts(CONTACTS)
+    
+    if not CONTACTS:
+        populate_contacts(CONTACTS)
 
     conn = get_db_connection()
     cur = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)  # Use DictCursor for easier template use
@@ -469,7 +522,8 @@ def index():
         'index.html',
         tables=DEPARTMENTS,
         table_data=dept_data,
-        contacts=CONTACTS
+        contacts=CONTACTS,
+        is_authenticated=True
     )
 
 @app.route('/create', methods=['POST']) 
@@ -873,8 +927,8 @@ def debug():
     return str(rows)
 
 if __name__ == '__main__':
-    populate(DEPARTMENTS) #Load in views from the schema before running the app
-    populate_contacts(CONTACTS) #Load in WEDAC contacts from the schema before running the app
+    #populate(DEPARTMENTS) #Load in views from the schema before running the app
+    #populate_contacts(CONTACTS) #Load in WEDAC contacts from the schema before running the app
     #update_pope_tech_from_csv('updated_in_popetech.csv') #leave commented out unless file is updated
     #update_views(VIEWS) #Leave commented out; adds pope_tech and error columns to each view
     #mark_inactive_sites() #Check all URLs in database where pope_tech=False. Uncomment this line to execute
