@@ -100,17 +100,17 @@ def get_db_password():
 
 def get_db_connection():
     """Create and return database connection using the stored password. Host and port will be different in production"""
-    # db_url = os.environ.get("DATABASE_URL")
-    # return psycopg2.connect(db_url)
-    dbPassword = get_db_password()
-    # Return a new connection using the password
-    return psycopg2.connect(
-        database=dbName,
-        user=dbUser,
-        password=dbPassword,
-        host=dbHost,
-        port="5432"
-    )
+    db_url = os.environ.get("DATABASE_URL")
+    return psycopg2.connect(db_url)
+    # dbPassword = get_db_password()
+    # # Return a new connection using the password
+    # return psycopg2.connect(
+    #     database=dbName,
+    #     user=dbUser,
+    #     password=dbPassword,
+    #     host=dbHost,
+    #     port="5432"
+    # )
 
 def populate(DEPARTMENTS):
     """
